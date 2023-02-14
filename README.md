@@ -22,7 +22,7 @@ To create the book itself, run this from the parent directory of the `main` repo
 jupyter-book build rdm101
 ```
 
-Go to your root:
+Go to your root directory (`github folder`):
 
 ```bash
 cd rdm101-book
@@ -37,7 +37,7 @@ To push the rendered book to Github, run:
 
 ```bash
 pip install ghp-import
-ghp import -n -p -f _build/html
+ghp-import -n -p -f _build/html
 ```
 
 
