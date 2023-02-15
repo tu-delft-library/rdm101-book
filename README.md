@@ -1,4 +1,4 @@
-[![Jupyter Book Badge](https://raw.githubusercontent.com/executablebooks/jupyter-book/master/docs/images/badge.svg)](https://ml-course.github.io/)
+[![Jupyter Book Badge](https://raw.githubusercontent.com/executablebooks/jupyter-book/master/docs/images/badge.svg)](https://tu-delft-library.github.io/rdm101-book/intro.html)
 
 # An Open Research Data Management Course
 Research Data Management 101 (RDM101), course website and online textbook powered by Jupyter Book
@@ -24,13 +24,14 @@ jupyter-book build rdm101
 
 Go to your root directory (`github folder`):
 
-```bash
-cd rdm101-book
-```
 And then copy all the contet:
 
 ```bash
 cp -r rdm101/* rdm101-book
+```
+then go to your book folder:
+```bash
+cd rdm101-book
 ```
 
 To push the rendered book to Github, run:
