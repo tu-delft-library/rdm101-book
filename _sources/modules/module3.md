@@ -1,4 +1,4 @@
-# Module 1
+# Module 3 - FAIR data principles and their main elements
 
 
 text 
