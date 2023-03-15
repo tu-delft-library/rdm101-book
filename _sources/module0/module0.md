@@ -7,10 +7,22 @@ This is a simple file to help you get started and show off some syntax.
 
 ## Course Information
 
-MyST stands for "Markedly Structured Text". It
-is a slight variation on a flavor of markdown called "CommonMark" markdown,
-with small syntax extensions to allow you to write **roles** and **directives**
-in the Sphinx ecosystem.
+
+This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.
+
+
+**Learning Objectives:**
+
+After completing this course, you will be able to:
+
+ - Realize the important role that good data management plays in research
+
+- Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them.
+
+- List the main components of the FAIR data principles and connect them to your own research workflows.
+
+- Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
+
 
 For more about MyST, see [the MyST Markdown Overview](https://jupyterbook.org/content/myst.html).
 
