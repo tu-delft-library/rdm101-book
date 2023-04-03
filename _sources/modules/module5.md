@@ -40,7 +40,7 @@ Why is it necessary to create a data management plan? Watch the following video 
 <iframe
     width="640"
     height="480"
-    src="https://youtu.be/embed/2GSEqmFxNrc"
+    src="https://collegerama.tudelft.nl/Mediasite/Play/742f79c576fd4493a302376d2f72675c1d"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
