@@ -66,7 +66,7 @@ With DMPonline you can:
 
 > There are multiple tools that can help you write a data management plan (DMP). TU Delft provides researchers with the tool [DMPonline](https://dmponline.tudelft.nl/?perform_check=false). [This link corresponds to TU Delft institutional DMP online]
 
-```Activity{}
+```{Activity}
 
 * Getting started with creating a DMP:
 
