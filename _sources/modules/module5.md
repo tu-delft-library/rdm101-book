@@ -49,7 +49,17 @@ Why is it necessary to create a data management plan? Watch the following video 
 
 ### Esther Plomp talking about the benefits of writing a DMP
 
-Embedded video: [!](https://youtu.be/li_3MkeACbY)
+
+<iframe
+    width="640"
+    height="480"
+    src="https://youtu.be/li_3MkeACbY"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
 
 ## Topic 2: Introduction to DMP online
 
