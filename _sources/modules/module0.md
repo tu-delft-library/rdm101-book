@@ -18,9 +18,6 @@ After completing this course, you will be able to:
 ## Lectures
 The RDM 101 course is structured in six successive modules that can be taken at the own pace of the course participant within 3 weeks. i.e. two modules per week. 
 
-## Lectures
-The RDM 101 course is structured in six successive modules that can be taken at the own pace of the course participant within 3 weeks. i.e. two modules per week. 
-
 
 |   | Modules          |     Slides     |    Video   |
 |:--|:-------------------|----------------|------------|
@@ -33,3 +30,13 @@ The RDM 101 course is structured in six successive modules that can be taken at 
 
 <sup>1</sup> The order of the slides in the video is slightly different.  
 <sup>2</sup> This lecture will be significantly updated. Stay tuned.  
+
+## Assignments
+Each week also includes an assignment <i class="fas fa-rocket"></i> (data flow map: https://doi.org/10.5281/zenodo.6325938) and a virtual class to engage the participants in practice and to discuss the highlights of each module.
+
+
+## Background materials
+Parts of the content of this course are based on:<i class="fas fa-book"></i> **Holmstrand, K.F., den Boer, S.P.A., Vlachos, E.Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management** (eLearning course). [doi: 10.11581/dtu:00000047](https://www.deic.dk/en/RDMElearn)
+
+The assignment of this course is based on the ‘Data Flow Kit’ - [https://dataflowtoolkit.dk/](https://dataflowtoolkit.dk/). A separate publication of the assignment is found at [https://doi.org/10.5281/zenodo.6325938](https://doi.org/10.5281/zenodo.6325938)
+

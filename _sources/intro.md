@@ -26,15 +26,6 @@ Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo
 ```{admonition} Have some feedback?
 :class: tip
 If you notice any issue, or have suggestions or requests, please go the
-<i class="fab fa-github"></i> [issue tracker](https://github.com/tu-delft-library/rdm101-book/issues) or directly click on the  <i class="fab fa-github"></i> icon on top of the page and then 'open issue`. We also welcome pull requests :).
+<i class="fab fa-github"></i> [issue tracker](https://github.com/tu-delft-library/rdm101-book/issues) or directly click on the  <i class="fab fa-github"></i> icon on top of the page and then 'open issue`. We also welcome pull requests <i class="fa-solid fa-face-smile"></i>.
 ```
-## Assignments
-Each week also includes an assignment <i class="fas fa-rocket"></i> (data flow map: https://doi.org/10.5281/zenodo.6325938) and a virtual class to engage the participants in practice and to discuss the highlights of each module.
-
-
-## Background materials
-Parts of the content of this course are based on: **Holmstrand, K.F., den Boer, S.P.A., Vlachos, E.Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management** (eLearning course). [doi: 10.11581/dtu:00000047](https://www.deic.dk/en/RDMElearn)
-
-The assignment of this course is based on the ‘Data Flow Kit’ - [https://dataflowtoolkit.dk/](https://dataflowtoolkit.dk/). A separate publication of the assignment is found at [https://doi.org/10.5281/zenodo.6325938](https://doi.org/10.5281/zenodo.6325938)
-
 
