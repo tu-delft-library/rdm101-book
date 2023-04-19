@@ -9,7 +9,7 @@ The RDM 101 course is structured in six successive modules that can be taken at 
 
 |   | Modules          |     Slides     |    Video   |
 |:--|:-------------------|----------------|------------|
-| 1 | [The importance of RDM](https.html)         | [HTML]() - [PDF](https:.pdf)         | [Youtube](https://www.youtube.com/watch?-) |
+| 1 | [The importance of RDM](https://tu-delft-library.github.io/rdm101-book/modules/module1.html)         | [HTML]() - [PDF](https:.pdf)         | [Youtube](https://www.youtube.com/watch?-) |
 | 2 | [The Essentials of research data](https:.html)           | [HTML](s.slides.html)      - [PDF](https://.pdf)      | [Youtube](https://www.youtube.com/-) |
 | 3 | [FAIR principles](https:html)             | [HTML](https:/slides.html)        - [PDF](https://m.pdf)        | [Youtube](https://www.youtube.c335-) |
 | 4 | [Realizing FAIR data](https://0Selection.html)       | [HTML](.html)    - [PDF](.pdf)    | [Youtube](https://www.youtube.coxDnjB4NM335-)<sup>1</sup> |
