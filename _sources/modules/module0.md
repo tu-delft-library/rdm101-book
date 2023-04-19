@@ -36,7 +36,7 @@ Each week also includes an assignment <i class="fas fa-rocket"></i> (data flow m
 
 
 ## Background materials
-Parts of the content of this course are based on:<i class="fas fa-book"></i> **Holmstrand, K.F., den Boer, S.P.A., Vlachos, E.Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management** (eLearning course). [doi: 10.11581/dtu:00000047](https://www.deic.dk/en/RDMElearn)
+Parts of the content of this course are based on: <i class="fas fa-book"></i> **Holmstrand, K.F., den Boer, S.P.A., Vlachos, E.Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management** (eLearning course). [doi: 10.11581/dtu:00000047](https://www.deic.dk/en/RDMElearn)
 
 The assignment of this course is based on the ‘Data Flow Kit’ - [https://dataflowtoolkit.dk/](https://dataflowtoolkit.dk/). A separate publication of the assignment is found at [https://doi.org/10.5281/zenodo.6325938](https://doi.org/10.5281/zenodo.6325938)
 
