@@ -15,9 +15,9 @@ The RDM 101 course is structured in six successive modules that can be taken at 
 | 4 | [Realizing FAIR data](https://tu-delft-library.github.io/rdm101-book/modules/module4.html)       | [HTML](.html)    - [PDF](.pdf)    | [Youtube](https://www.youtube.coxDnjB4NM335-)<sup>1</sup> |
 | 5 | [How to plan for RDM](https:/earning.html)   | [HTML](https:es.html)  - [PDF](https:g.pdf)  | [Youtube](https://www.youtube.comjB4NM335-) |
 <!-- | 6 | [How to plan for RDM](https://tu-delft-library.github.io/rdm101-book/modules/module5.html) | [HTML]() - [PDF](https:/06%20-%20Data%20Preprocessing.pdf) | [Youtube](https://www.youtubenjB4NM335-) | -->
-
+<!-- 
 <sup>1</sup> The order of the slides in the video is slightly different.  
-<sup>2</sup> This lecture will be significantly updated. Stay tuned.   -->
+<sup>2</sup> This lecture will be significantly updated. Stay tuned.   --> -->
 
 ```{admonition} Get your hands dirty
 Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo](https://github.com/tu-delft-library/rdm101-book).
