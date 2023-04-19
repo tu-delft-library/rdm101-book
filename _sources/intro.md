@@ -2,7 +2,7 @@
 This six-module course called Research data Management 101 (RDM 101), is aimed at PhD candidates (especially in their first year) who require a hands-on introduction to Research Data Management (RDM) and Data Management Plans (DMPs). 
 
 The course was created in a collaborative effort of the Research Data Services team of TU Delft Library with TU Delft Data Stewards, the Education Support team at TU Delft Library, the TU Delft New Media Centre and TU Delft researchers.
-
+<!-- 
 ## Lectures
 The RDM 101 course is structured in six successive modules that can be taken at the own pace of the course participant within 3 weeks. i.e. two modules per week. 
 
@@ -17,7 +17,7 @@ The RDM 101 course is structured in six successive modules that can be taken at 
 <!-- | 6 | [How to plan for RDM](https://tu-delft-library.github.io/rdm101-book/modules/module5.html) | [HTML]() - [PDF](https:/06%20-%20Data%20Preprocessing.pdf) | [Youtube](https://www.youtubenjB4NM335-) | -->
 
 <sup>1</sup> The order of the slides in the video is slightly different.  
-<sup>2</sup> This lecture will be significantly updated. Stay tuned.  
+<sup>2</sup> This lecture will be significantly updated. Stay tuned.   -->
 
 ```{admonition} Get your hands dirty
 Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo](https://github.com/tu-delft-library/rdm101-book).
