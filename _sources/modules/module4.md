@@ -2,8 +2,6 @@
 
 (section-label-1)=
 
- Module 4 - Realizing FAIR data
-
 In this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to:
 
 -   Understand the importance of good data organisation and be aware of best practices around data organisation
