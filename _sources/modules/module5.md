@@ -2,21 +2,24 @@
 
 (section-label-1)=
 
+
 In module 5 we will take a closer look at planning for RDM. In relation to this, data management plans and the tool DMPonline will be further explained. At the end of this module you should be able to:
 
 -   Recognize the relevance of planning research data management
--   Get familiar with the concept of DMP and its format 
--   Create a data management plan using the appropriate tool   
+    
+-   Get familiar with the concept of DMP and its format
+    
+-   Create a data management plan using the appropriate tool
+    
 -   Recognize the value of creating a DMP
     
+
 There are different activities in this module you should complete:
 
 1.  Watch the animation video to learn what a data management plan (DMP) is
     
 2.  Watch the videos of a TU Delft researcher and a Faculty data steward to learn why they think it is relevant to prepare a DMP
-    
-3. Complete the activity of creating a DMP using the tool DMP online
-    
+      
 
 ## Topic 1.1: What is a data management plan?
 
@@ -24,7 +27,7 @@ Watch the following video for an introduction on what a data management plan is 
 
 What exactly is a data management plan? Watch the following video for an introduction to data management plans and its key elements.
 
->Embedded video : [https://youtu.be/28rTTRFDq58](https://youtu.be/28rTTRFDq58) 
+<iframe width="640" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/c6ee8e29b09240b98906266d7478b70a1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Script adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). [doi: 10.11581/dtu:00000047](https://vidensportal.deic.dk/en/RDMELearn)
 
@@ -36,30 +39,11 @@ Why is it necessary to create a data management plan? Watch the following video 
 
 ### Natalia Romero Herrera talking about the benefits of writing a DMP
 
-
-<iframe
-    width="640"
-    height="480"
-    src="https://collegerama.tudelft.nl/Mediasite/Play/742f79c576fd4493a302376d2f72675c1d"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+<iframe width="640" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/742f79c576fd4493a302376d2f72675c1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Esther Plomp talking about the benefits of writing a DMP
 
-
-<iframe
-    width="640"
-    height="480"
-    src="https://youtu.be/li_3MkeACbY"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
+<iframe width="640" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/5cd7a7217c7f4e9b986d8e05909271471d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Topic 2: Introduction to DMP online
 
@@ -69,12 +53,24 @@ With DMPonline you can:
 
 -   Write your plan and easily update it throughout the lifecycle of your project;
     
--   Share your plan with internal and external collaborators and ask for feedback from your [Faculty Data Steward](https://www.tudelft.nl/en/library/research-data-management/r/support/data-stewardship/contact/);
+-   Share your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;
     
 -   Download your plan in a variety of formats.
     
 
-> There are multiple tools that can help you write a data management plan (DMP). TU Delft provides researchers with the tool [DMPonline](https://dmponline.tudelft.nl/?perform_check=false). [This link corresponds to TU Delft institutional DMP online]
+There are multiple tools that can help you write a data management plan (DMP). TU Delft provides researchers with the tool [DMPonline](https://dmponline.tudelft.nl/?perform_check=false). [This link corresponds to TU Delft institutional DMP online]
+
+### Self-reflection activity
+
+1.  Create an account in DMPonline using the TU Delft template or the template provided by your institution.
+    
+2.  Go back to your slides or papers and post-it’s of your data flow maps and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.
+
+3.  Reflect on the following:
+
+-   Were you able to answer all the questions on the DMP template using your Data Flow Map?
+    
+-   If not, which sections were you not able to answer? What kind of additional information would you need?
 
 ```{admonition} Activity
 :class: tip
