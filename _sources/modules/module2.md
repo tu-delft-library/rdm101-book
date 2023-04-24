@@ -100,7 +100,7 @@ In the following interactive image you can go through a simplified cycle which c
 
 <iframe src="RDM-steps.pdf" width="100%" height="500" frameborder="0" />
 
-![](/images/RDM-steps.pdf)
+[PDF](/images/RDM-steps.pdf)
 <!-- <embed src="images/RDM-steps.pdf" type="application/pdf" width="100%" height=800> -->
 
 
