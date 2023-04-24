@@ -100,9 +100,13 @@ In the following interactive image you can go through a simplified cycle which c
 
 <iframe src="RDM-steps.pdf" width="100%" height="500" frameborder="0" />
 
-[PDF](/images/RDM-steps.pdf)
+![PDF](/RDM-steps.pdf)
 <!-- <embed src="images/RDM-steps.pdf" type="application/pdf" width="100%" height=800> -->
+:::{figure-md} markdown-fig
+<img src="../RDM-steps.pdf" alt="fishy" class="bg-primary mb-1" width="200px">
 
+This is a caption in **Markdown**!
+:::
 
 ## Topic 3: Research Data infrastructure at TU Delft
 
