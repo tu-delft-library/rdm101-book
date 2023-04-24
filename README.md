@@ -7,8 +7,7 @@ Research Data Management 101 (RDM101), course website and [Online course book](h
 ---
 
 ## Production
----
-These are instructions on how to generate the book. As student you don't need this. You simply can use the pre-compiled materials. As teacher you need to replicate the following steps:
+---These are instructions on how to generate the book. As student you don't need this. You simply can use the pre-compiled materials. As teacher you need to replicate the following steps:
 
 ### Generating the online book
 To generate the book you need to install `jupyter-book`.

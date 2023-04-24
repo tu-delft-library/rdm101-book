@@ -5,7 +5,7 @@ format: jb-book
 root: intro
 parts:
 - chapters:
-  - file: module0/module0
+  - file: modules/module0
 - caption: Modules
   chapters:
   - file: modules/module1
@@ -13,8 +13,7 @@ parts:
   - file: modules/module3
   - file: modules/module4
   - file: modules/module5
-  - file: modules/module6
-- caption: Assignments
+- caption: Suggested exercises
   chapters:
   - file: assignments/week1
   - file: assignments/week2

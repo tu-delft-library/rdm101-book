@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: RDM101 Course
-author: Carlos Utrilla Guerrero
+author: Carlos Utrilla Guerrero and Maribel Barrera-Coronel
 logo: images/favicon.png
 copyright: "2023. CC0 Licensed - Use as you like"  # Copyright year to be placed in the footer
 
@@ -10,6 +10,11 @@ copyright: "2023. CC0 Licensed - Use as you like"  # Copyright year to be placed
 # See https://jupyterbook.org/content/execute.html
 execute:
   execute_notebooks: off
+
+# dark mode
+sphinx:
+  html_context:
+    default_mode: light
 
 # Define the name of the latex output file for PDF builds
 latex:
