@@ -98,7 +98,7 @@ Now think about your own type of data!
 
 In the following interactive image you can go through a simplified cycle which can represent your project. Have a look at the RDM questions you might ask at each step of research.
 
-
+![](/images/RDM-steps.pdf)
 <embed src="/images/RDM-steps.pdf" type="application/pdf" width="100%" height=800>
 
 
