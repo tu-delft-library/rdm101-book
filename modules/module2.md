@@ -97,11 +97,7 @@ Now think about your own type of data!
 ## Topic 2: The relevant RDM steps within a research project
 
 In the following interactive image you can go through a simplified cycle which can represent your project. Have a look at the RDM questions you might ask at each step of research.
-
-<iframe src="RDM-steps.pdf" width="100%" height="500" frameborder="0" />
-
-[PDF](RDM-steps.pdf)
-<!-- <embed src="images/RDM-steps.pdf" type="application/pdf" width="100%" height=800> -->
+<iframe width="640" height="480" src="https://maribelbarreracoronel.github.io/Cycle/genially_64414739aac7da0018e81043%20(1)/genially.html" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ## Topic 3: Research Data infrastructure at TU Delft
