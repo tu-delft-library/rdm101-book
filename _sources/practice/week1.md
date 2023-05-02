@@ -10,6 +10,11 @@ Find here below a template and a step-by-step guide to help you structure the di
 
 **Note: This exercise is only a reflective practice, you do not need to submit it nor will you receive feedback on it.**
 
+```{admonition} Click here for downloading the file!
+:class: tip, dropdown
+[Here is the file 🗂️](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx)
+```
+
 `````{admonition} The file as powerpoint
 :class: tip
 [**You can Download the file PTTX** here 🗂️!](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx)
