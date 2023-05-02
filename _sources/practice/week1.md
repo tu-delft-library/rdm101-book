@@ -10,6 +10,6 @@ Find here below a template and a step-by-step guide to help you structure the di
 
 **Note: This exercise is only a reflective practice, you do not need to submit it nor will you receive feedback on it.**
 
-PDF file- RDM 101 course - Assignment 1
+[PPTX 🗂️](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx)
 
 This exercise is based on the ‘Data Flow Kit’ - [https://dataflowtoolkit.dk/](https://dataflowtoolkit.dk/). A separate publication of the exercise is found at [https://doi.org/10.5281/zenodo.6325938](https://doi.org/10.5281/zenodo.6325938)
