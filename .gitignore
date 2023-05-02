@@ -1,8 +1,5 @@
 __pycache__/
 _build/*
-data/models/*
 **/.DS_Store
-**/*.icloud
 .ipynb_checkpoints
-.jupyter
-.vscode/*
+.vscode/
