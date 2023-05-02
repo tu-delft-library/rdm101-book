@@ -39,11 +39,11 @@ We talked to some TU Delft researchers working in different disciplines and we a
 
 **Sian Jones – Faculty Of Civil Engineering and Geosciences (CEG)**
 
-<iframe width="640" height="480" src="https://collegerama.tudelft.nl/Mediasite/Play/54a17810464141b1b9ce14ad53b2fc3b1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480" src="https://collegerama.tudelft.nl/Mediasite/Play/54a17810464141b1b9ce14ad53b2fc3b1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Wirawan Agahari – TU Delft Faculty of Technology, Policy and Management (TPM)**
 
-<iframe width="640" height="480" src="https://collegerama.tudelft.nl/Mediasite/Play/4badc144591844f2869ab713f2747d7a1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480" src="https://collegerama.tudelft.nl/Mediasite/Play/4badc144591844f2869ab713f2747d7a1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Aerospace researcher - TU Delft**
 
@@ -70,11 +70,11 @@ In the next two videos, researchers from TU Delft tell us about the confidential
 
 **Sian Jones talking about collaboration with industry**
 
-<iframe width="640" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/218ff5c8c68d4f74abb58ee3150a77731d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/218ff5c8c68d4f74abb58ee3150a77731d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Wirawan Agahari talking about personal data in his research**
 
-<iframe width="640" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/976b3ecafc664c409806825ce43fe8691d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/976b3ecafc664c409806825ce43fe8691d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 When you work with personal data at TU Delft, these are the materials to read:
 
@@ -86,7 +86,7 @@ When you work with personal data at TU Delft, these are the materials to read:
 
 In the following interactive image you can go through a simplified cycle which can represent the workflow of your project. Have a look at the RDM questions you might need to ask yourself at each step of research.
 In the following interactive image you can go through a simplified cycle which can represent your project. Have a look at the RDM questions you might ask at each step of research.
-<iframe width="640" height="480" src="https://maribelbarreracoronel.github.io/Cycle/genially_64414739aac7da0018e81043%20(1)/genially.html" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480" src="https://maribelbarreracoronel.github.io/Cycle/genially_64414739aac7da0018e81043%20(1)/genially.html" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ## Topic 3: Research Data infrastructure at TU Delft
@@ -95,15 +95,15 @@ Before starting the data collection/creation within your project, it is good to 
 
 In this video, we will go through the infrastructure provided centrally at TU Delft for storing, backup and sharing Research Data. You should ask your supervisor if within your research group/department/ project there is a preferred approach for data storage and backup, or if there are customised solutions already in place.
 
-<iframe width="640" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/4a9b2b00f7c34c0dbaf78f4472f1a54e1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/4a9b2b00f7c34c0dbaf78f4472f1a54e1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe src="https://tudelft.h5p.com/content/1291935015823633397/embed" aria-label="Module 2- Topic 3 - resources" width="100%" height="337" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291935015823633397/embed" aria-label="Module 2- Topic 3 - resources" width="80%" height="337" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Quiz - Use cases on storage
 
 After the topic on the Research data infrastructure, you should now be able to answer the questions of this quiz. Good luck!
 
-<iframe src="https://tudelft.h5p.com/content/1291897225745963647/embed" aria-label="Use Storage Cases" width="100%" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291897225745963647/embed" aria-label="Use Storage Cases" width="80%" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Topic 4: The responsibilities for PhD candidates regarding RDM and Research Software at TU Delft
 

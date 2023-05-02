@@ -27,7 +27,7 @@ Watch the following video for an introduction on what a data management plan is 
 
 What exactly is a data management plan? Watch the following video for an introduction to data management plans and its key elements.
 
-<iframe width="640" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/c6ee8e29b09240b98906266d7478b70a1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480"  src=" https://collegerama.tudelft.nl/Mediasite/Play/c6ee8e29b09240b98906266d7478b70a1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Script adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). [doi: 10.11581/dtu:00000047](https://vidensportal.deic.dk/en/RDMELearn)
 
@@ -39,11 +39,11 @@ Why is it necessary to create a data management plan? Watch the following video 
 
 ### Natalia Romero Herrera talking about the benefits of writing a DMP
 
-<iframe width="640" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/742f79c576fd4493a302376d2f72675c1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480"  src=" https://collegerama.tudelft.nl/Mediasite/Play/742f79c576fd4493a302376d2f72675c1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Esther Plomp talking about the benefits of writing a DMP
 
-<iframe width="640" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/5cd7a7217c7f4e9b986d8e05909271471d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480"  src=" https://collegerama.tudelft.nl/Mediasite/Play/5cd7a7217c7f4e9b986d8e05909271471d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Topic 2: Introduction to DMP online
 

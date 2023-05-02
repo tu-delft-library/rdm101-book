@@ -22,13 +22,13 @@ Good data organisation on your computer or your Project Data (U:) drive will all
 
 In the next video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.
 
-<iframe width="640" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/52112aedacfb4aa7974b549149b7b15f1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480"  src=" https://collegerama.tudelft.nl/Mediasite/Play/52112aedacfb4aa7974b549149b7b15f1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Test your knowledge!**
 
-<iframe src="https://tudelft.h5p.com/content/1291934492320623307/embed" aria-label="Data Organisation" width="100%" height=" 537" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291934492320623307/embed" aria-label="Data Organisation" width="80%" height=" 537" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<iframe src="https://tudelft.h5p.com/content/1291934715519147267/embed" aria-label="Module 4- Data Organisation References" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291934715519147267/embed" aria-label="Module 4- Data Organisation References" width="80%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Topic 2 - Documentation tools
 
@@ -38,11 +38,11 @@ Documentation is important not only for data, but for your projects in general, 
 
 In the next video we will talk about different methods and tools you can use to document projects, datasets, and code. We will also briefly talk about metadata.
 
-<iframe width="640" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/26f61cb17d504e13851642c2f588b0691d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480"  src=" https://collegerama.tudelft.nl/Mediasite/Play/26f61cb17d504e13851642c2f588b0691d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Test your knowledge!**
 
-**<iframe src="https://tudelft.h5p.com/content/1291934494416004717/embed" aria-label="Documentation tools" width="100%" height="337" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
+**<iframe src="https://tudelft.h5p.com/content/1291934494416004717/embed" aria-label="Documentation tools" width="80%" height="337" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
 <iframe src="https://tudelft.h5p.com/content/1291934718169852157/embed" aria-label="Module 4- Topic 2 References" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -54,10 +54,10 @@ Data access is one of the main elements of the FAIR principles you heard about i
 
 One way to make the data of your project Findable and Accessible to a broad audience is to publish it in a data repository. Data repositories help you comply with the FAIR principles and make it easy to apply some of their main elements, such as Licences and Persistent identifiers.
 
-<iframe width="640" height="480" src=" https://collegerama.tudelft.nl/Mediasite/Play/3c93a6d2c20543a49b7df787cbaf02ae1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480"  src=" https://collegerama.tudelft.nl/Mediasite/Play/3c93a6d2c20543a49b7df787cbaf02ae1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Test your knowledge!**
 
-<iframe src="https://tudelft.h5p.com/content/1291934495994112657/embed" aria-label="Data access and Data publication" width="100%" height="537" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291934495994112657/embed" aria-label="Data access and Data publication" width="80%" height="537" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <iframe src="https://tudelft.h5p.com/content/1291934721428749747/embed" aria-label="Module 4 - Topic 3 references" width="1088" height="257" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>

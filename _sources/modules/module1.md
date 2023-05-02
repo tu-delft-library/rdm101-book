@@ -14,7 +14,7 @@ An instructor has recorded a video to explain the importance of RDM and differen
 
   
 
-<iframe width="640" height="480" src="https://collegerama.tudelft.nl/Mediasite/Play/3d2eb68a00e94d92986dfcfd37f30e101d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="580" height="480"  src="https://collegerama.tudelft.nl/Mediasite/Play/3d2eb68a00e94d92986dfcfd37f30e101d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe src="https://tudelft.h5p.com/content/1291934694479195817/embed" aria-label="Module 1- Reference" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
