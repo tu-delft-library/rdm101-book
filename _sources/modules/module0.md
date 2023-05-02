@@ -16,11 +16,6 @@ After completing this course, you will be able to:
 -   Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
     
 
-## Background materials
-
-Parts of the content of this course are based on: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E.Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). [doi: 10.11581/dtu:00000047](https://www.deic.dk/en/RDMElearn)
-
-The suggested exercise of this course is based on the ‘Data Flow Kit’ - [https://dataflowtoolkit.dk/](https://dataflowtoolkit.dk/)**
 <!-- 
 
 ## Lectures
