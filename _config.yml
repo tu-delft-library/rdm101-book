@@ -13,8 +13,8 @@ execute:
 
 # dark mode
 sphinx:
-  html_context:
-    default_mode: light
+  config:
+    html_extra_path: ["exercise_pptx"]
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -34,6 +34,7 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
+  announcement: "⚠️The latest release drafted our HTML, so double-check the website shortly!⚠️"
   use_issues_button: true
   use_repository_button: true
   favicon: images/favicon.png

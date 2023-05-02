@@ -74,7 +74,7 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="visually-hidden">Toggle in-page Table of Contents</div>
 </label>
 <!-- Headers at the top -->
-<div class="announcement header-item noprint"></div>
+<div class="announcement header-item noprint">⚠️The latest release drafted our HTML, so double-check the website shortly!⚠️</div>
 <div class="header header-item noprint"></div>
 
     
@@ -138,14 +138,31 @@ const thebe_selector_output = ".output, .cell_output"
   </a>
  </li>
  <li class="toctree-l1">
+  <a class="reference internal" href="../practice/week1.html">
+   Exercise: Data Flow Map 1
+  </a>
+ </li>
+ <li class="toctree-l1">
   <a class="reference internal" href="module3.html">
    Module 3 - FAIR data principles and their main elements
   </a>
  </li>
- <li class="toctree-l1">
+ <li class="toctree-l1 has-children">
   <a class="reference internal" href="module4.html">
    Module 4 - Realizing FAIR data
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../practice/week3.html">
+     Assignment week 3 - Data flow map discussion
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="module5.html">
@@ -330,8 +347,8 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#video-why-care-about-rdm">
-   Video - Why care about RDM?
+  <a class="reference internal nav-link" href="#why-care-about-rdm">
+   Why care about RDM?
   </a>
  </li>
 </ul>
@@ -354,8 +371,8 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#video-why-care-about-rdm">
-   Video - Why care about RDM?
+  <a class="reference internal nav-link" href="#why-care-about-rdm">
+   Why care about RDM?
   </a>
  </li>
 </ul>
@@ -375,25 +392,26 @@ title="Print to PDF"
 <li><p>Recognize the importance of research data management</p></li>
 <li><p>Explain why RDM is relevant for reproducibility and re-use of data</p></li>
 </ul>
-<p>To get in the mood for reproducibility, we have an optional game you can play dedicated to this theme. You can play “ReproJuice: The reproducibility game” via this link.
-<a class="reference external" href="http://thebarngames.nl/repro/">http://thebarngames.nl/repro/</a>.</p>
-<section id="video-why-care-about-rdm">
-<h2>Video - Why care about RDM?<a class="headerlink" href="#video-why-care-about-rdm" title="Permalink to this headline">#</a></h2>
+<section id="why-care-about-rdm">
+<h2>Why care about RDM?<a class="headerlink" href="#why-care-about-rdm" title="Permalink to this headline">#</a></h2>
 <p>Watch the presentation about the importance of RDM and hear what other researchers have as their worst nightmare. Why should you be aware of your Research Data Management?</p>
 <p>An instructor has recorded a video to explain the importance of RDM and different perspectives on it. She shares horror stories and discusses the reproducibility aspect of research data management.</p>
-<p>Reflect about what you heard on the video.</p>
-<iframe width="640" height="480" src="https://collegerama.tudelft.nl/Mediasite/Play/3d2eb68a00e94d92986dfcfd37f30e101d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<iframe src="https://tudelft.h5p.com/content/1291934694479195817/embed" aria-label="Module 1- Reference" width="1088" height="137" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-<p>Here I’m referencing <a class="reference internal" href="module5.html#section-label-1"><span class="std std-ref">this</span></a>. Try <a class="reference internal" href="../assignments/week3.html#section-label-1"><span class="std std-ref">My section title</span></a></p>
-<div class="admonition tip">
-<p class="admonition-title">Tip</p>
-<p>some text</p>
+<iframe width="580" height="480"  src="https://collegerama.tudelft.nl/Mediasite/Play/3d2eb68a00e94d92986dfcfd37f30e101d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://tudelft.h5p.com/content/1291934694479195817/embed" aria-label="Module 1- Reference" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<div class="tip admonition">
+<p class="admonition-title">Suggested activity - Are you up for some games?</p>
+<p>To get in the mood for reproducibility or to escape yourself from some horror stories while having fun, we suggest you try one of these games:</p>
+<p>You can play “ReproJuice: The reproducibility game” via this link. <a class="reference external" href="http://thebarngames.nl/repro/">http://thebarngames.nl/repro/</a>.</p>
+<p>You can play the ‘Data Horror Escape room’: <a class="reference external" href="https://sites.google.com/vu.nl/datahorror/home">https://sites.google.com/vu.nl/datahorror/home</a></p>
+<p>You can play the ‘Software Horror Game’: <a class="reference external" href="https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html">https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html</a></p>
 </div>
-<div class="admonition tip">
-<p class="admonition-title">Tip</p>
-<p>some text</p>
-</div>
-</section>
+<!-- ```{tip}
+some text
+```
+
+```{tip}
+some text
+``` --></section>
 </section>
 
     <script type="text/x-thebe-config">

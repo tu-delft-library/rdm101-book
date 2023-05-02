@@ -1,12 +1,18 @@
 # Welcome
 
-This five-module course called Research data Management 101 (RDM 101) is aimed at PhD candidates (especially in their first year) who require a hands-on introduction to Research Data Management (RDM) and Data Management Plans (DMPs).
+This Jupyter book was created to make the content of the TU Delft course for PhD candidates, Research Data Management 101 (RDM 101) openly available and as a self-learning course.
+
+The RDM 101 course is aimed at PhD candidates at TU Delft (especially in their first year) who require a hands-on introduction to Research Data Management (RDM) and Data Management Plans (DMPs). However, the course can also be useful for researchers and students interested in learning the basics of RDM at their own pace.
 
 The course was created in a collaborative effort of the Research Data Services team of TU Delft Library with TU Delft Data Stewards, the Education Support team at TU Delft Library, the TU Delft New Media Centre and TU Delft researchers.
 
-RDM 101 is structured in five successive modules that can be completed at your own pace. Each module contains informative videos and self-assessment quizzes to reinforce the knowledge acquired on certain topics. You will also find two assignments for practice only. You do not need to submit the assignments nor will you receive feedback on them.
+RDM 101 is structured in five successive modules that can be completed at your own pace. Each module contains informative videos and self-assessment quizzes to reinforce the knowledge acquired on certain topics. This self-learning course also includes suggested exercises to apply what you will be learning throughout the content.
 
-It is important to note that no credits or certificates will be awarded upon completion of this course under this format. TU Delft PhD candidates who are interested in obtaining the credits need to register via CoachView, which is the course registration application of the Graduate School Doctoral Education (GS DE) programme. The course offered in GS DE programme also includes 3 class sessions (on-site and online) and discussion groups
+**Important note for PhD candidates at TU Delft**
+
+It is important to note that no credits or certificates will be awarded upon completion of this course under this format. TU Delft PhD candidates who are interested in obtaining the credits need to register via CoachView, which is the course registration application of the Graduate School Doctoral Education (GS DE) programme. The course offered in the GS DE programme also includes 3 class sessions (on-site or online) and discussion groups, which makes for a richer learning experience. However, in this Jupyter book you will find all the contents of the course necessary to get acquainted with good research data management and the tools you use for this purpose.
+
+For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers)
 
 <!-- 
 ## Lectures

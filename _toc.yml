@@ -6,15 +6,19 @@ root: intro
 parts:
 - chapters:
   - file: modules/module0
-- caption: Modules
+- caption: Modules and Exercises
   chapters:
   - file: modules/module1
   - file: modules/module2
+  - file: practice/week1
   - file: modules/module3
   - file: modules/module4
+    sections:
+    - file: practice/week3
   - file: modules/module5
-- caption: Suggested exercises
-  chapters:
-  - file: assignments/week1
-  - file: assignments/week2
-  - file: assignments/week3
+
+# - caption: Suggested exercises
+#   chapters:
+#   - file: assignments/week1
+#   - file: assignments/week2
+#   - file: assignments/week3
