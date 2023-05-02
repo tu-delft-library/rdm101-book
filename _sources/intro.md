@@ -21,7 +21,7 @@ The RDM 101 course is structured in six successive modules that can be taken at 
 |   | Modules          |     Slides     |    Video   |
 |:--|:-------------------|----------------|------------|
 | 1 | [The importance of RDM](https://tu-delft-library.github.io/rdm101-book/modules/module1.html)         | [HTML]() - [PDF](https:.pdf)         | [Youtube](https://www.youtube.com/watch?-) |
-| 2 | [The Essentials for Research Data](https://tu-delft-library.github.io/rdm101-book/modules/module2.html)           | [HTML](s.slides.html)      - [PPTX](https://tu-delft-library.github.io/rdm101-book/main/dataflowmap_template_week1.pptx)      | [Youtube](https://www.youtube.com/-) |
+| 2 | [The Essentials for Research Data](https://tu-delft-library.github.io/rdm101-book/modules/module2.html)           | [HTML](s.slides.html)      - [PPTX](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx)      | [Youtube](https://www.youtube.com/-) |
 | 3 | [FAIR principles and their main elements](https://tu-delft-library.github.io/rdm101-book/modules/module3.html)             | [HTML](https:/slides.html)        - [PDF](https://m.pdf)<sup>2</sup>        | [Youtube](https://www.youtube.c335-) |
 | 4 | [Realizing FAIR data](https://tu-delft-library.github.io/rdm101-book/modules/module4.html)       | [HTML](.html)    - [PDF](.pdf)    | [Youtube](https://www.youtube.coxDnjB4NM335-)<sup>1</sup> |
 | 5 | [How to plan for RDM](https:/earning.html)   | [HTML](https:es.html)  - [PDF](https:g.pdf)  | [Youtube](https://www.youtube.comjB4NM335-) |
