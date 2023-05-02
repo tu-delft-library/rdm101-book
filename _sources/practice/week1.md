@@ -1,4 +1,4 @@
-# Suggested Exercise - Data Flow Map 1
+# Exercise: Data Flow Map 1
 
 During this course we encourage our learners to work on their own research data management strategy and reflect on different themes based on the data they expect to collect/produce.
 
