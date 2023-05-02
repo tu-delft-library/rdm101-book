@@ -37,7 +37,7 @@ The RDM 101 course is structured in six successive modules that can be taken at 
 <!-- | 6 | [How to plan for RDM](https://tu-delft-library.github.io/rdm101-book/modules/module5.html) | [HTML]() - [PDF](https:/06%20-%20Data%20Preprocessing.pdf) | [Youtube](https://www.youtubenjB4NM335-) | -->
 
 <!-- <sup>1</sup> The order of the slides in the video is slightly different.  
-<sup>2</sup> This lecture will be significantly updated. Stay tuned.   --> -->
+<sup>2</sup> This lecture will be significantly updated. Stay tuned.   -->
 
 
 ## Background materials
