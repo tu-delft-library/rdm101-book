@@ -1,6 +1,5 @@
 # Module 2: Essentials for Research Data
 
-(section-label-1)=
 
 In this module, we start to dig deeper into RDM by introducing multiple topics concerning the essentials of RDM.
 
