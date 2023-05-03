@@ -1,4 +1,4 @@
-#  Assignment week 3 - Data flow map discussion
+#  🏋️ Exercise: Data flow map discussion
 
 (section-label-1)=
 ## My section title
