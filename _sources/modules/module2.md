@@ -43,7 +43,7 @@ We talked to some TU Delft researchers working in different disciplines and we a
 
 **Wirawan Agahari – TU Delft Faculty of Technology, Policy and Management (TPM)**
 
-<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/4badc144591844f2869ab713f2747d7a1d" aria-label="Use Storage Cases" width="100%" height="337" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/4badc144591844f2869ab713f2747d7a1d" width="100%" height="337" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
 **Aerospace researcher - TU Delft**
 
