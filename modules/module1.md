@@ -13,11 +13,10 @@ Watch the presentation about the importance of RDM and hear what other researche
 An instructor has recorded a video to explain the importance of RDM and different perspectives on it. She shares horror stories and discusses the reproducibility aspect of research data management.
 
   
+<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/3d2eb68a00e94d92986dfcfd37f30e101d" aria-label="Module 1" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<iframe width="580" height="480"  src="https://collegerama.tudelft.nl/Mediasite/Play/3d2eb68a00e94d92986dfcfd37f30e101d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe src="https://tudelft.h5p.com/content/1291934694479195817/embed" aria-label="Module 1- Reference" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
 
 ```{admonition} Suggested activity - Are you up for some games?
 :class: tip

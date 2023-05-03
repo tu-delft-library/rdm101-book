@@ -53,7 +53,7 @@ There are important elements to consider within your research workflows if you a
 
 In the next videos we will explore these different elements and their importance to make the data of your project FAIR.
 
-<iframe src="https://tudelft.h5p.com/content/1291934702260539177/embed" aria-label="Module 3- Topic1" width="80%" height="300" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291934702260539177/embed" aria-label="Module 3- Topic1" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 
@@ -65,51 +65,51 @@ The objective of the following videos is to identify the key elements that help 
 
 ### Documentation and Metadata
 
-<iframe width="580" height="480"  src=" https://collegerama.tudelft.nl/Mediasite/Play/d7bd16131769465d8b1307ec27358b3e1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+**<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/d7bd16131769465d8b1307ec27358b3e1d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
-Test your knowledge!
+**Test your knowledge!**
 
-<iframe src="https://tudelft.h5p.com/content/1291897230447935377/embed" aria-label="Documentation and Metadata" width="80%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291897230447935377/embed" aria-label="Documentation and Metadata" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Interoperability
 
-<iframe width="580" height="480"  src=" https://collegerama.tudelft.nl/Mediasite/Play/ec9b602fc09b4805bcc54ee4ed8134191d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+**<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/ec9b602fc09b4805bcc54ee4ed8134191d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
-Test your knowledge!
+**Test your knowledge!**
 
-<iframe src="https://tudelft.h5p.com/content/1291897250510595577/embed" aria-label="Interoperability" width="80%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291897250510595577/embed" aria-label="Interoperability" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
   
 
 ### Access to Data
 
-<iframe width="580" height="480"  src=" https://collegerama.tudelft.nl/Mediasite/Play/59f312fd51cc4289962c6fd6eb309f401d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/59f312fd51cc4289962c6fd6eb309f401d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Test your knowledge!
+**Test your knowledge!**
 
-<iframe src="https://tudelft.h5p.com/content/1291897251180731867/embed" aria-label="Access to Data" width="80%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291897251180731867/embed" aria-label="Access to Data" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Persistent Identifiers
 
-<iframe width="580" height="480"  src=" https://collegerama.tudelft.nl/Mediasite/Play/dcbe53ac66334a399655c0f10c3bcc1c1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+**<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/dcbe53ac66334a399655c0f10c3bcc1c1d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
-Test your knowledge!
+**Test your knowledge!**
 
-<iframe src="https://tudelft.h5p.com/content/1291897251799243657/embed" aria-label="Persistent Identifiers" width="80%" height="417" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291897251799243657/embed" aria-label="Persistent Identifiers" width="100%" height="417" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Data and Code Licences
 
-<iframe width="580" height="480"  src=" https://collegerama.tudelft.nl/Mediasite/Play/4111cd8875ba435e93c321fec95a505a1d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+**<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/4111cd8875ba435e93c321fec95a505a1d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
-Test your knowledge!
+**Test your knowledge!**
 
-<iframe src="https://tudelft.h5p.com/content/1291897252483796927/embed" aria-label="Data and Code Licences" width="80%" height="337" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291897252483796927/embed" aria-label="Data and Code Licences" width="100%" height="427" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Summary
 
 By now, you have learned about different elements that help you make the data of your project FAIR. Many of them are straightforward to implement in your daily work, for example organising your files and folders, keeping documentation of the data, reflecting about data access, etc. Other elements might require special tools or at least using special tools would make your work easier. We will talk about some tools for documentation and data publication in Module 4.
 
-<iframe src="https://tudelft.h5p.com/content/1291934704559361317/embed" aria-label="Videos: Key elements to make data FAIR - more references" width="80%" height="237" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291934704559361317/embed" aria-label="Videos: Key elements to make data FAIR - more references" width="100%" height="237" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
   
 
