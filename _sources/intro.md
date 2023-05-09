@@ -99,24 +99,7 @@ For more information about the courses offered at TU Delft visit [this site](htt
 Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo](https://github.com/tu-delft-library/rdm101-book).
 :::
 
-::::
 
-
-
-
-::::{grid} 1 1 2 3
-:class-container: text-center
-:gutter: 3
-
-:::{grid-item-card}
-:link-type: doc
-:class-header: bg-light
-
-✨ More information
-^^^
-
-For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers). 
-:::
 
 
 ```{admonition} Get your hands dirty
