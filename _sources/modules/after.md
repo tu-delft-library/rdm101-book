@@ -1,4 +1,4 @@
-# Afterwords
+# ❤️ Afterwords
 
 We hope that you have enjoyed following the course and that you feel prepared to implement best practices of RDM in your research project.
 
