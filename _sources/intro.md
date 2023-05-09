@@ -10,14 +10,12 @@
 
 ![](image/favicon.png)
 
-<img src="../images/favicon.png" />
-
 :::
 
 :::{grid-item}
 :columns: 8
 :class: sd-fs-3
-The RDM101 Couse.
+This Jupyter book was created to make the content of the TU Delft course for PhD candidates, *Research Data Management 101 (RDM 101)* openly available and as a self-learning course.
 
 ```{button-ref} modules/module1
 :ref-type: doc
