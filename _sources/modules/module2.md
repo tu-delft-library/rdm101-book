@@ -9,10 +9,10 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 * Store and back up the research data of your project in a secure manner
 ```
 
-```{admonition} Click here for downloading the file!
+<!-- ```{admonition} Click here for downloading the file!
 :class: tip, dropdown
 [Here is the file 🗂️](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx)
-```
+``` -->
 
 ```{admonition} There are different activities in this module you should complete:
 :class: tip

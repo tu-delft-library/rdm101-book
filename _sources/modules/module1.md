@@ -19,11 +19,11 @@ An instructor has recorded a video to explain the importance of RDM and differen
 <iframe src="https://tudelft.h5p.com/content/1291934694479195817/embed" aria-label="Module 1- Reference" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```{admonition} Suggested activity - Are you up for some games?
-:class: tip
+:class: tip, dropdown
 
 To get in the mood for reproducibility or to escape yourself from some horror stories while having fun, we suggest you try one of these games:
 
-You can play “ReproJuice: The reproducibility game” via this link. [http://thebarngames.nl/repro/](http://thebarngames.nl/repro/).
+You can find more in [{bdg-primary}`ReproJuice: The reproducibility game via this link`](http://thebarngames.nl/repro/).
 
 You can play the ‘Data Horror Escape room’: https://sites.google.com/vu.nl/datahorror/home
 
