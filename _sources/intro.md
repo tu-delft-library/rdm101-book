@@ -8,7 +8,7 @@
 :columns: 4
 :class: sd-m-auto
 
-<img src="images/favicon.png" />
+<img src="../images/favicon.png" />
 
 :::
 
@@ -17,7 +17,7 @@
 :class: sd-fs-3
 The RDM101 Couse.
 
-```{button-ref} module/module1
+```{button-ref} modules/module1
 :ref-type: doc
 :color: primary
 :class: sd-rounded-pill float-left
@@ -29,7 +29,7 @@ Get started
 % The SVG rendering breaks latex builds for the GitHub badge, so only include in HTML
 ```{only} html
 [![](https://img.shields.io/github/stars/tu-delft-library/rdm101-book?style=social)](https://github.com/tu-delft-library/rdm101-book)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2561065.svg)](https://doi.org/10.5281/zenodo.2561065)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6325919.svg)](https://doi.org/10.5281/zenodo.6325919)
 ```
 
 :::
