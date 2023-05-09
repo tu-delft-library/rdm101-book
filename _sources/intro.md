@@ -93,7 +93,7 @@ For more information about the courses offered at TU Delft visit [this site](htt
 :link: https://github.com/tu-delft-library/rdm101-book
 :class-header: bg-light
 
-🌍 Get your hands dirty
+🎁 Get your hands dirty
 
 ^^^
 Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo](https://github.com/tu-delft-library/rdm101-book).
