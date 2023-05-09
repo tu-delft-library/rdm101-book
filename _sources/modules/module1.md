@@ -8,6 +8,9 @@ The first module of this course is all about awareness. Why do we find RDM so im
 ```{tip} This is an example
 of a tip directive.
 ```
+```{admonition} Extra credit
+An "extra credit" exercise is presented here.
+```
 
 ## Why care about RDM?
 
