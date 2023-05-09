@@ -8,16 +8,16 @@
 :columns: 4
 :class: sd-m-auto
 
-<img src="images/logo.png" />
+<img src="./images/logo.png" />
 
 :::
 
 :::{grid-item}
 :columns: 8
 :class: sd-fs-3
-Build beautiful, publication-quality books and documents from computational content.
+The RDM101 Couse.
 
-```{button-ref} start/your-first-book
+```{button-ref} module/module1
 :ref-type: doc
 :color: primary
 :class: sd-rounded-pill float-left
