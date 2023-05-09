@@ -8,9 +8,7 @@
 :columns: 4
 :class: sd-m-auto
 
-![](image/favicon.png)
-
-<img src="https://github.com/tu-delft-library/rdm101-book/blob/main/images/favicon.png"/>
+<img src="https://github.com/tu-delft-library/rdm101-book/blob/main/images/favicon.png?raw=true"/>
 
 :::
 
