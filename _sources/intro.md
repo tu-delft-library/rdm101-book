@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to RDM101
 
 
 ::::{grid} 2
@@ -8,14 +8,14 @@
 :columns: 4
 :class: sd-m-auto
 
-<img src="https://github.com/tu-delft-library/rdm101-book/blob/main/images/favicon.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/banner-welcome.jpg"/>
 
 :::
 
 :::{grid-item}
 :columns: 8
 :class: sd-fs-3
-to the *Research Data Management 101 (RDM 101)* openly available and as a self-learning course!
+The *Research Data Management 101 (RDM 101)* , an openly available and as a self-learning course!
 
 ```{button-ref} modules/module1
 :ref-type: doc
