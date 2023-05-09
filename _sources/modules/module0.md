@@ -15,9 +15,8 @@ After completing this course, you will be able to:
     
 -   Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
     
-## Modules
-
-Below are some modules that have been built with Jupyter Book.
+## Background materials
+Parts of the content of this course are based on.
 You can find more in [{bdg-primary}`the Jupyter Book Gallery`](https://executablebooks.org/en/latest/gallery/).
 
 
@@ -27,10 +26,10 @@ You can find more in [{bdg-primary}`the Jupyter Book Gallery`](https://executabl
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://www.inferentialthinking.com/
-**Inferential Thinking**
+:link: https://www.deic.dk/en/RDMElearn
+**eLearning course**
 ^^^
-```{image} https://inferentialthinking.com/_static/favicon.png
+```{image} https://www.deic.dk/themes/custom/deic/logo.svg
 :height: 100
 ```
 
@@ -43,9 +42,9 @@ Explore this book {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://python.quantecon.org/
+:link: https://dataflowtoolkit.dk
 
-**QuantEcon**
+**DataFlowToolkit**
 ^^^
 ```{image} https://python.quantecon.org/_static/qe-logo-large.png
 :height: 100
