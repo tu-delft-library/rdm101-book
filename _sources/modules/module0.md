@@ -98,7 +98,7 @@ Explore this book {fas}`arrow-right`
 :class-header: bg-light text-center
 :link: https://uwdata.github.io/visualization-curriculum/intro.html
 
-<!-- **Data Science @ UW**
+**Data Science @ UW**
 ^^^
 ```{image} https://uwdata.github.io/visualization-curriculum/_static/altair-hist.png
 :height: 100
@@ -140,7 +140,7 @@ Explore this book {fas}`arrow-right`
 
 Solving geographic data problems with modern open source tools.
 +++
-Explore this book {fas}`arrow-right` -->
+Explore this book {fas}`arrow-right`
 :::
 ::::
 
