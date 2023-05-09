@@ -15,8 +15,8 @@ There are different activities in this module you should complete
 
 ```{admonition} There are different activities in this module you should complete:
 :class: tip
-✅ Read topic 1: Why and how were the FAIR principles created?
-✅ Watch the video about the key elements to make data FAIR and complete the ‘fill in the blanks’ quiz
+✅ Read topic 1: Why and how were the FAIR principles created?\
+✅ Watch the video about the key elements to make data FAIR and complete the ‘fill in the blanks’ quiz\
 ```
 
 ## Topic 1: Why and how were the FAIR principles created?

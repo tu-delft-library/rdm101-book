@@ -16,12 +16,12 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 
 ```{admonition} There are different activities in this module you should complete:
 :class: tip
-✅ Watch the videos of TU Delft researchers telling you about the research data and confidential research data they work with
-✅ If you work with personal data, read the information on the two linked websites
-✅ Look at the research cycle interactive image and the RDM questions you need to ask yourself at each step of your project
-✅ Watch the video about data storage & infrastructure available at TU Delft
-✅ Complete the quiz about data storage 
-✅ Read the TU Delft RDM framework
+✅ Watch the videos of TU Delft researchers telling you about the research data and confidential research data they work with\
+✅ If you work with personal data, read the information on the two linked websites\
+✅ Look at the research cycle interactive image and the RDM questions you need to ask yourself at each step of your project\
+✅ Watch the video about data storage & infrastructure available at TU Delft\
+✅ Complete the quiz about data storage\
+✅ Read the TU Delft RDM framework\
 ```
    
 
