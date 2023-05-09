@@ -10,10 +10,12 @@
 
 ![](image/favicon.png)
 
+<img src="../images/favicon.png" />
+
 :::
 
 :::{grid-item}
-:columns: 8
+:columns: 12
 :class: sd-fs-3
 This Jupyter book was created to make the content of the TU Delft course for PhD candidates, *Research Data Management 101 (RDM 101)* openly available and as a self-learning course.
 
