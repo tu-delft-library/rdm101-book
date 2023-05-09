@@ -33,9 +33,10 @@ You can find more in [{bdg-primary}`the Jupyter Book Gallery`](https://executabl
 :height: 100
 ```
 
-The textbook used by UC Berkeley's popular Data 8 class.
+eLearning course about the importance of good research data management (RDM)
+
 +++
-Explore this book {fas}`arrow-right`
+Explore this course {fas}`arrow-right`
 :::
 
 :::{card}
