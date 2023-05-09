@@ -146,7 +146,83 @@ Explore this book {fas}`arrow-right`
 
 
 ## Modules
-Parts of the content of this course are based on: <i class="fas fa-book"></i> **Holmstrand, K.F., den Boer, S.P.A., Vlachos, E.Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management** (eLearning course). [doi: 10.11581/dtu:00000047](https://www.deic.dk/en/RDMElearn)
+::::{grid} 1 1 2 3
+:class-container: text-center
+:gutter: 3
 
-The assignment of this course is based on the  <i class="fas fa-rocket"></i> ‘Data Flow Kit’ - [https://dataflowtoolkit.dk/](https://dataflowtoolkit.dk/). A separate publication of the assignment is found at [https://doi.org/10.5281/zenodo.6325938](https://doi.org/10.5281/zenodo.6325938)
+:::{grid-item-card}
+:link: basics/organize
+:link-type: doc
+:class-header: bg-light
+
+Text content ✏️
+^^^
+
+Structure books with text files and Jupyter Notebooks with minimal configuration.
+:::
+
+:::{grid-item-card}
+:link: content/myst
+:link-type: doc
+:class-header: bg-light
+
+MyST Markdown ✨
+^^^
+
+Write MyST Markdown to create enriched documents with publication-quality features.
+
+:::
+
+:::{grid-item-card}
+:link: content/executable/index
+:link-type: doc
+:class-header: bg-light
+
+Executable content 🔁
+^^^
+
+Execute notebook cells, store results, and insert outputs across pages.
+
+:::
+
+:::{grid-item-card}
+:link: interactive/launchbuttons
+:link-type: doc
+:class-header: bg-light
+
+Live environments 🚀
+^^^
+
+Connect your book with Binder, JupyterHub, and other live environments
+:::
+
+:::{grid-item-card}
+:link: publish/web
+:link-type: doc
+:class-header: bg-light
+
+Build and publish 🎁
+^^^
+
+Share your built books via web services and hosted websites.
+:::
+
+:::{grid-item-card}
+:link: content/components
+:link-type: doc
+:class-header: bg-light
+
+UI components ⚡
+^^^
+
+Create interactive and web-native components and services.
+:::
+
+::::
+
+This documentation is organized into a few major sections.
+
+- **Tutorials** are step-by-step introductory guides to Jupyter Book.
+- **Topic Guides** cover specific areas in more depth, and are organized as discrete "how-to" sections.
+- **Reference** sections describe the API/syntax/etc of Jupyter Book in detail.
 
