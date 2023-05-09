@@ -20,7 +20,7 @@ Parts of the content of this course are based on.
 You can find more in [{bdg-primary}`the Jupyter Book Gallery`](https://executablebooks.org/en/latest/gallery/).
 
 
-::::{card-carousel} 2
+::::{card-carousel} 3
 
 :::{card}
 :margin: 3
@@ -51,8 +51,9 @@ Explore this course {fas}`arrow-right`
 :height: 100
 ```
 
-Building blocks for thinking about your flow of data when doing research data management+++
+Building blocks for thinking about your flow of data when doing research data management
 
++++
 Explore this tool {fas}`arrow-right`
 
 :::
@@ -97,7 +98,7 @@ Explore this book {fas}`arrow-right`
 :class-header: bg-light text-center
 :link: https://uwdata.github.io/visualization-curriculum/intro.html
 
-**Data Science @ UW**
+<!-- **Data Science @ UW**
 ^^^
 ```{image} https://uwdata.github.io/visualization-curriculum/_static/altair-hist.png
 :height: 100
@@ -140,7 +141,7 @@ Explore this book {fas}`arrow-right`
 Solving geographic data problems with modern open source tools.
 +++
 Explore this book {fas}`arrow-right`
-:::
+::: -->
 ::::
 
 
