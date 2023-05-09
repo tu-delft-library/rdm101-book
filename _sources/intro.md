@@ -59,11 +59,10 @@ It is important to note that no credits or certificates will be awarded upon com
 :gutter: 3
 
 :::{grid-item-card}
-:link: basics/organize
 :link-type: doc
 :class-header: bg-light
 
-Text content ✏️
+More information ✏️
 ^^^
 
 For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers). 
@@ -94,4 +93,4 @@ Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo
 If you notice any issue, or have suggestions or requests, please go the
 <i class="fab fa-github"></i> [issue tracker](https://github.com/tu-delft-library/rdm101-book/issues) or directly click on the  <i class="fab fa-github"></i> icon on top of the page and then 'open issue`. We also welcome pull requests.
 ```
-
+::::
