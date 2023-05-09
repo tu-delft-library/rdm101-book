@@ -10,7 +10,8 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 ```
 
 
-```tip
+```{admonition} An extra exercise
+:class: activity
 There are different activities in this module you should complete:
 
 1. Watch the videos of TU Delft researchers telling you about the research data and confidential research data they work with
