@@ -9,12 +9,11 @@ In module 5 we will take a closer look at planning for RDM. In relation to this,
 * Recognize the value of creating a DMP
 ```
 
-There are different activities in this module you should complete:
-1.  Watch the animation video to learn what a data management plan (DMP) is
-    
-2.  Watch the videos of a TU Delft researcher and a Faculty data steward to learn why they think it is relevant to prepare a DMP
-    
-3.  Complete the suggested activity of creating a DMP using the tool DMP online
+```{admonition} There are different activities in this module you should complete:
+:class: tip
+✅ Watch the animation video to learn what a data management plan (DMP) is
+✅ Watch the videos of a TU Delft researcher and a Faculty data steward to learn why they think it is relevant to prepare a DMP
+✅ Complete the suggested activity of creating a DMP using the tool DMP online
     
 
 ## Topic 1.1: What is a data management plan?
