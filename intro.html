@@ -366,12 +366,53 @@ title="Print to PDF"
                 
   <section class="tex2jax_ignore mathjax_ignore" id="welcome">
 <h1>Welcome<a class="headerlink" href="#welcome" title="Permalink to this headline">#</a></h1>
-<div class="sd-col sd-d-flex-column sd-col-8 sd-col-xs-8 sd-col-sm-8 sd-col-md-8 sd-col-lg-8 sd-fs-3 docutils">
-<p>Build beautiful, publication-quality books and documents from computational content.</p>
-<p><span class="sd-sphinx-override sd-btn sd-text-wrap sd-btn-primary sd-rounded-pill float-left">
-Get started</span></p>
-<p><a class="reference external" href="https://github.com/executablebooks/jupyter-book"><img alt="" src="https://img.shields.io/github/stars/executablebooks/jupyter-book?style=social" /></a>
-<a class="reference external" href="https://doi.org/10.5281/zenodo.6325919"><img alt="DOI" src="https://zenodo.org/badge/DOI/10.5281/zenodo.6325919.svg" /></a></p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>
+:::{grid-item}
+:columns: 8
+:class: sd-fs-3
+Build beautiful, publication-quality books and documents from computational content.
+
+```{button-ref} start/your-first-book
+:ref-type: doc
+:color: primary
+:class: sd-rounded-pill float-left
+
+
+Get started
+```
+
+% The SVG rendering breaks latex builds for the GitHub badge, so only include in HTML
+```{only} html
+[![](https://img.shields.io/github/stars/executablebooks/jupyter-book?style=social)](https://github.com/executablebooks/jupyter-book)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6325919.svg)](https://doi.org/10.5281/zenodo.6325919)
+```
+</pre></div>
+</div>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>
+</pre></div>
+</div>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 text-center docutils">
+<div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-1 sd-row-cols-md-2 sd-row-cols-lg-3 sd-g-3 sd-g-xs-3 sd-g-sm-3 sd-g-md-3 sd-g-lg-3 docutils">
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<div class="sd-card-header bg-light docutils">
+<p class="sd-card-text">Text content ✏️</p>
+</div>
+<div class="sd-card-body docutils">
+<p class="sd-card-text">Structure books with text files and Jupyter Notebooks with minimal configuration.</p>
+</div>
+<span class="sd-stretched-link"></span></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<div class="sd-card-header bg-light docutils">
+<p class="sd-card-text">MyST Markdown ✨</p>
+</div>
+<div class="sd-card-body docutils">
+<p class="sd-card-text">Write MyST Markdown to create enriched documents with publication-quality features.</p>
+</div>
+<span class="sd-stretched-link"></span></div>
+</div>
 <p>This Jupyter book was created to make the content of the TU Delft course for PhD candidates, Research Data Management 101 (RDM 101) openly available and as a self-learning course.</p>
 <p>The RDM 101 course is aimed at PhD candidates at TU Delft (especially in their first year) who require a hands-on introduction to Research Data Management (RDM) and Data Management Plans (DMPs). However, the course can also be useful for researchers and students interested in learning the basics of RDM at their own pace.</p>
 <p>The course was created in a collaborative effort of the Research Data Services team of TU Delft Library with TU Delft Data Stewards, the Education Support team at <a class="reference external" href="https://www.tudelft.nl/library">TU Delft Library</a>, the <a class="reference external" href="https://newmediacentre.tudelft.nl/">TU Delft New Media Centre</a> and TU Delft researchers.</p>
@@ -400,6 +441,7 @@ Get started</span></p>
 <p class="admonition-title">Have some feedback?</p>
 <p>If you notice any issue, or have suggestions or requests, please go the
 <i class="fab fa-github"></i> <a class="reference external" href="https://github.com/tu-delft-library/rdm101-book/issues">issue tracker</a> or directly click on the  <i class="fab fa-github"></i> icon on top of the page and then ‘open issue`. We also welcome pull requests.</p>
+</div>
 </div>
 </div>
 <div class="toctree-wrapper compound">
