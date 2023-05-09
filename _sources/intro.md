@@ -48,6 +48,63 @@ RDM 101 is structured in five successive modules that can be completed at your o
 It is important to note that no credits or certificates will be awarded upon completion of this course under this format. TU Delft PhD candidates who are interested in obtaining the credits need to register via CoachView, which is the course registration application of the Graduate School Doctoral Education (GS DE) programme. The course offered in the GS DE programme also includes 3 class sessions (on-site or online) and discussion groups, which makes for a richer learning experience. However, in this Jupyter book you will find all the contents of the course necessary to get acquainted with good research data management and the tools you use for this purpose.
 `````
 
+# Connect with us
+
+We are an international open source community that welcomes discussion, feedback, and contributions of many kinds.
+Here are a few ways to connect more with us.
+
+::::{grid} 1 1 2 2
+:class-container: text-center
+:gutter: 3
+
+:::{grid-item-card}
+:link: https://github.com/orgs/executablebooks/discussions
+:class-header: bg-light
+
+💬 Ask and answer questions
+^^^
+
+We have community discussions, talk about ideas, and share general questions and feedback in our community forum.
+
+:::
+
+:::{grid-item-card}
+:link: https://executablebooks.org/en/latest/feature-vote/
+:class-header: bg-light
+
+👍 Vote for new features
+^^^
+Provides feedback by adding a 👍 reaction to issues in our repositories.
+You can find a list of the top issues in the Executable Books issue leader board.
+
+:::
+
+:::{grid-item-card}
+:link: contribute/intro
+:link-type: doc
+:class-header: bg-light
+
+🙌 Contribute to projects
+
+^^^
+
+We welcome anyone to join us in improving Jupyter Book and helping one another learn and create their books.
+To join, check out our contributing guide.
+:::
+
+:::{grid-item-card}
+:link: https://executablebooks.org
+:class-header: bg-light
+
+🌍 About our team
+
+^^^
+
+Jupyter Book is developed by the Executable Books community.
+Check out our community documentation to learn more about us and how we work.
+:::
+::::
+
 
 
 :::
@@ -62,27 +119,12 @@ It is important to note that no credits or certificates will be awarded upon com
 :link-type: doc
 :class-header: bg-light
 
-More information ✏️
+✨ More information
 ^^^
 
 For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers). 
 :::
 
-
-<!-- For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers).  -->
-
-
-<!-- |   | Modules          |     Slides     |    Video   |
-|:--|:-------------------|----------------|------------|
-| 1 | [The importance of RDM](https://tu-delft-library.github.io/rdm101-book/modules/module1.html)         | [HTML]() - [PDF](https:.pdf)         | [Youtube](https://www.youtube.com/watch?-) |
-| 2 | [The Essentials for Research Data](https://tu-delft-library.github.io/rdm101-book/modules/module2.html)           | [HTML](s.slides.html)      - [PPTX](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx)      | [Youtube](https://www.youtube.com/-) |
-| 3 | [FAIR principles and their main elements](https://tu-delft-library.github.io/rdm101-book/modules/module3.html)             | [HTML](https:/slides.html)        - [PDF](https://m.pdf)<sup>2</sup>        | [Youtube](https://www.youtube.c335-) |
-| 4 | [Realizing FAIR data](https://tu-delft-library.github.io/rdm101-book/modules/module4.html)       | [HTML](.html)    - [PDF](.pdf)    | [Youtube](https://www.youtube.coxDnjB4NM335-)<sup>1</sup> |
-| 5 | [How to plan for RDM](https:/earning.html)   | [HTML](https:es.html)  - [PDF](https:g.pdf)  | [Youtube](https://www.youtube.comjB4NM335-) |
-| 6 | [How to plan for RDM](https://tu-delft-library.github.io/rdm101-book/modules/module5.html) | [HTML]() - [PDF](https:/06%20-%20Data%20Preprocessing.pdf) | [Youtube](https://www.youtubenjB4NM335-) |
-
-<sup>1</sup> The order of the slides in the video is slightly different.  
-<sup>2</sup> This lecture will be significantly updated. Stay tuned.   -->
 
 ```{admonition} Get your hands dirty
 Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo](https://github.com/tu-delft-library/rdm101-book).
