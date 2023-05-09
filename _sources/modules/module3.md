@@ -4,10 +4,13 @@
 
 In this module, we will discover the FAIR data principles and their main elements. At the end of this module, you should be able to:
 
--   Understand the FAIR principles and their relation to RDM
-    
--   Identify key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR)
-    
+
+```{admonition} Objectives -
+* Understand the FAIR principles and their relation to RDM
+* Identify key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR) 
+```
+
+
 
 There are different activities in this module you should complete:
 

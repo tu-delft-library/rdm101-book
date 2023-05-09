@@ -2,10 +2,12 @@
 
 In module 5 we will take a closer look at planning for RDM. In relation to this, data management plans and the tool DMPonline will be further explained. At the end of this module you should be able to:
 
--   Recognize the relevance of planning research data management   
--   Get familiar with the concept of DMP and its format 
--   Create a data management plan using the appropriate tool 
--   Recognize the value of creating a DMP
+```{admonition} Objectives -
+* Recognize the relevance of planning research data management   
+* Get familiar with the concept of DMP and its format 
+* Create a data management plan using the appropriate tool 
+* Recognize the value of creating a DMP
+```
   
 There are different activities in this module you should complete:
 1.  Watch the animation video to learn what a data management plan (DMP) is

@@ -3,11 +3,15 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 
 At the end of this module you should be able to:
 
--   Identify different types of research data
--   Recognize what is considered confidential data in research
--   Realise what RDM entails within a research project
--   Recognize the responsibilities regarding RDM for TUD PhD candidates
--   Store and back up the research data of your project in a secure manner
+```{admonition} Objectives -
+* Identify different types of research data
+* Recognize what is considered confidential data in research
+* Realise what RDM entails within a research project
+* Recognize the responsibilities regarding RDM for TUD PhD candidates
+* Store and back up the research data of your project in a secure manner
+```
+
+
 
 There are different activities in this module you should complete:
 

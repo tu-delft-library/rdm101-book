@@ -2,11 +2,13 @@
 
 In this module, we will focus on the realisation of FAIR data. We will explore some best practices and tools that can facilitate the implementation of the FAIR principles. At the end of this module you should be able to:
 
--   Understand the importance of good data organisation and be aware of best practices around data organisation
--   Recognize the relevance of documentation and be familiar with diverse tools to document data   
--   Identify relevant tools to advance towards FAIR data    
--   Discuss data publication, best practices and restrictions
-    
+```{admonition} Objectives -
+* Understand the importance of good data organisation and be aware of best practices around data organisation
+* Recognize the relevance of documentation and be familiar with diverse tools to document data   
+* Identify relevant tools to advance towards FAIR data    
+* Discuss data publication, best practices and restrictions
+```
+
 In this module you should:
 
 - Watch the videos about ‘Data organisation’, ‘Data Documentation tools’ and ‘Data access and Data publication’ and complete the corresponding quizzes.
