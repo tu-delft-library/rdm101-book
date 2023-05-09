@@ -90,14 +90,13 @@ For more information about the courses offered at TU Delft visit [this site](htt
 :::
 
 :::{grid-item-card}
-:link: https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers
+:link: https://github.com/tu-delft-library/rdm101-book
 :class-header: bg-light
 
-🌍 More information
+🌍 Get your hands dirty
 
 ^^^
-
-For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers). 
+Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo](https://github.com/tu-delft-library/rdm101-book).
 :::
 
 ::::
