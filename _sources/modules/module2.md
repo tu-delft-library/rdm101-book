@@ -10,7 +10,7 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 ```
 
 
-
+```tip
 There are different activities in this module you should complete:
 
 1. Watch the videos of TU Delft researchers telling you about the research data and confidential research data they work with
@@ -19,6 +19,7 @@ There are different activities in this module you should complete:
 4. Watch the video about data storage & infrastructure available at TU Delft
 5. Complete the quiz about data storage 
 6. Read the TU Delft RDM framework
+```
    
 
 ## Topic 1: Data within the research workflows
