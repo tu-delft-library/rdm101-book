@@ -1,5 +1,25 @@
 # Welcome
 
+:::{grid-item}
+:columns: 8
+:class: sd-fs-3
+Build beautiful, publication-quality books and documents from computational content.
+
+```{button-ref} start/your-first-book
+:ref-type: doc
+:color: primary
+:class: sd-rounded-pill float-left
+
+
+Get started
+```
+
+% The SVG rendering breaks latex builds for the GitHub badge, so only include in HTML
+```{only} html
+[![](https://img.shields.io/github/stars/executablebooks/jupyter-book?style=social)](https://github.com/executablebooks/jupyter-book)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6325919.svg)](https://doi.org/10.5281/zenodo.6325919)
+```
+
 This Jupyter book was created to make the content of the TU Delft course for PhD candidates, Research Data Management 101 (RDM 101) openly available and as a self-learning course.
 
 The RDM 101 course is aimed at PhD candidates at TU Delft (especially in their first year) who require a hands-on introduction to Research Data Management (RDM) and Data Management Plans (DMPs). However, the course can also be useful for researchers and students interested in learning the basics of RDM at their own pace.
