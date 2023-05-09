@@ -15,24 +15,132 @@ After completing this course, you will be able to:
     
 -   Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
     
+## Modules
 
-<!-- 
-
-## Lectures
-The RDM 101 course is structured in six successive modules that can be taken at the own pace of the course participant within 3 weeks. i.e. two modules per week. 
+Below are some modules that have been built with Jupyter Book.
+You can find more in [{bdg-primary}`the Jupyter Book Gallery`](https://executablebooks.org/en/latest/gallery/).
 
 
-|   | Modules          |     Slides     |    Video   |
-|:--|:-------------------|----------------|------------|
-| 1 | [The importance of RDM](https://tu-delft-library.github.io/rdm101-book/modules/module1.html)         | [HTML]() - [PDF](https:.pdf)         | [Youtube](https://www.youtube.com/watch?-) |
-| 2 | [The Essentials for Research Data](https://tu-delft-library.github.io/rdm101-book/modules/module2.html)           | [HTML](s.slides.html)      - [PDF](https://.pdf)      | [Youtube](https://www.youtube.com/-) |
-| 3 | [FAIR principles and their main elements](https://tu-delft-library.github.io/rdm101-book/modules/module3.html)             | [HTML](https:/slides.html)        - [PDF](https://m.pdf)<sup>2</sup>        | [Youtube](https://www.youtube.c335-) |
-| 4 | [Realizing FAIR data](https://tu-delft-library.github.io/rdm101-book/modules/module4.html)       | [HTML](.html)    - [PDF](.pdf)    | [Youtube](https://www.youtube.coxDnjB4NM335-)<sup>1</sup> |
-| 5 | [How to plan for RDM](https://tu-delft-library.github.io/rdm101-book/modules/module5.html)   | [HTML](https:es.html)  - [PDF](https:g.pdf)  | [Youtube](https://www.youtube.comjB4NM335-) |
-<!-- | 6 | [How to plan for RDM](https://tu-delft-library.github.io/rdm101-book/modules/module5.html) | [HTML]() - [PDF](https:/06%20-%20Data%20Preprocessing.pdf) | [Youtube](https://www.youtubenjB4NM335-) | -->
+::::{card-carousel} 3
 
-<!-- <sup>1</sup> The order of the slides in the video is slightly different.  
-<sup>2</sup> This lecture will be significantly updated. Stay tuned.   -->
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://www.inferentialthinking.com/
+**Inferential Thinking**
+^^^
+```{image} https://inferentialthinking.com/_static/favicon.png
+:height: 100
+```
+
+The textbook used by UC Berkeley's popular Data 8 class.
++++
+Explore this book {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://python.quantecon.org/
+
+**QuantEcon**
+^^^
+```{image} https://python.quantecon.org/_static/qe-logo-large.png
+:height: 100
+```
+
+A free online book to teach computational economics with open source tools.
++++
+Explore this book {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://the-turing-way.netlify.app
+
+**The Turing Way**
+^^^
+```{image} https://the-turing-way.netlify.app/_static/logo-detail-with-text.svg
+:height: 100
+```
+
+A guidebook for best-practices in reproducible and community-driven science.
++++
+Explore this book {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://inria.github.io/scikit-learn-mooc/
+
+**The SciKit Learn MOOC**
+^^^
+```{image} https://inria.github.io/scikit-learn-mooc/_static/scikit-learn-logo.png
+:height: 100
+```
+
+A large online course for machine learning with the PyData stack.
++++
+Explore this book {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://uwdata.github.io/visualization-curriculum/intro.html
+
+**Data Science @ UW**
+^^^
+```{image} https://uwdata.github.io/visualization-curriculum/_static/altair-hist.png
+:height: 100
+```
+
+Interactive data visualization with Python, as taught at the University of Washington.
++++
+Explore this book {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://py-pkgs.org/
+
+**Py-Pkgs**
+^^^
+```{image} https://d33wubrfki0l68.cloudfront.net/9ff174183b5af5c3a177bfccd4796454883bc1f7/86cde/_static/py-pkgs-hex.png
+:height: 100
+```
+
+A book describing how to create and use modern packages in the Python ecosystem.
++++
+Explore this book {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://geographicdata.science/book/intro.html
+
+**Geographic Data Science**
+^^^
+```{image} https://geographicdata.science/book/_static/logo.png
+:height: 100
+```
+
+Solving geographic data problems with modern open source tools.
++++
+Explore this book {fas}`arrow-right`
+:::
+::::
 
 
 ## Background materials
