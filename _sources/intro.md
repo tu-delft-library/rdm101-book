@@ -72,23 +72,11 @@ We have community discussions, talk about ideas, and share general questions and
 :link: https://github.com/tu-delft-library/rdm101-book/issues
 :class-header: bg-light
 
-👍 Have some feedback?
+🙌 Have some feedback?
 ^^^
 If you notice any issue, or have suggestions or requests, please go the
 <i class="fab fa-github"></i> [issue tracker](https://github.com/tu-delft-library/rdm101-book/issues) or directly click on the  <i class="fab fa-github"></i> icon on top of the page and then 'open issue`. We also welcome pull requests.
 :::
-
-:::{grid-item-card}
-:link: contribute/intro
-:link-type: doc
-:class-header: bg-light
-
-🙌 Contribute to projects
-
-^^^
-
-We welcome anyone to join us in improving Jupyter Book and helping one another learn and create their books.
-To join, check out our contributing guide.
 :::
 
 :::{grid-item-card}
@@ -106,9 +94,6 @@ Check out our community documentation to learn more about us and how we work.
 
 
 
-:::
-
-::::
 
 ::::{grid} 1 1 2 3
 :class-container: text-center
