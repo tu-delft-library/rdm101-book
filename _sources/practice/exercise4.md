@@ -1,48 +1,17 @@
 # 🏋️ Exercise: Data Flow Map Part 2
+In Module 3 you have learned about the main elements of the FAIR principles (i.e. Documentation & Metadata, Interoperability, Access to Data, Persistent Identifiers and Licences). In Module 4 we have explored some best practices for data organisation and we suggested you to explore some documentation tools that can make documentation easier. In Module 4, you also learned about data publication in data repositories.
 
-## Objectives:
+We suggest that you take again a moment to reflect on your own research project and create a strategy on how you will apply what you have learned so far.
 
--   Familiarise you with finding datasets in different repositories
--   Assessing the FAIRness of a dataset should help you reflect on:
--   What should you do or not do when you publish the data of your project? 
--   Did you identify things missing in this dataset that you would definitely provide when you publish yours?
--   Allow you to explore how datasets are published in different repositories
-    
-## Instructions:
+Please read the step-by-step instructions before working on the exercise. Here we provide again a template in case you want to use it for structuring your map.
 
-1.  Choose a dataset that interests you just by reading the title
-    
-2.  Search for the dataset with the provided title. Feel free to use your usual search methods - no restrictions there
-    
-3.  Once you find the dataset (not the publication, not the report, you need to find the dataset) reflect on how Findable, Accessible, Interoperable, Re-usable (FAIR) you think this dataset is.
-    
-4.  You can download the following template to guide you with your assessment:
-    
-5.  If none of the titles we provide are interesting for you, you can search for datasets in the following data repositories using keywords that are relevant for your research field:
-    
+```{admonition} Click here for downloading the files!
+:class: tip, dropdown
+* [Here is the template🗂️](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx)
 
-	- 4TU.ResearchData: [https://data.4tu.nl/](https://data.4tu.nl/)
-    
-	- Zenodo: [https://zenodo.org/](https://zenodo.org/)
-    
-	-  Dryad: [https://datadryad.org/stash](https://datadryad.org/stash)
-    
-	-  Figshare: [https://figshare.com/](https://figshare.com/)
-    
-	- DANS: [https://dans.knaw.nl/en/](https://dans.knaw.nl/en/)
+* [Here is the PDF🗂](https://tu-delft-library.github.io/rdm101-book/RDM101course-exercise1.pdf)
+```
+**Note: This exercise is only a reflective practice, you do not need to submit it nor will you receive feedback on it.**
 
-#### Datasets proposed for this exercise:
 
--   Dataset 1 - “Qualitative coding of 12 semi-structure interviews on food behaviour context and food reporting engagement”
-    
--   Dataset 2: “Benefit of speed reduction for ships in different weather conditions”
-    
--   Dataset 3 - “Mechanical overtone frequency combs”
-    
--   Dataset 4 - “Transport Patterns of Global Aviation NOx and their Short-term O3 Radiative Forcing – A Machine Learning Approach”
-    
--   Dataset 5 - “In-situ observations of water vapour and atmospheric delay from the ground-based GNSS network from 1996 to present”
-    
--   Dataset 6 - “Grasp MultiObject”
-    
--   Dataset 7 - “Mapping the spatial distribution and geographic shift of East African highland banana (Musa sp.) cropping systems in Uganda” 
+This exercise is based on the ‘Data Flow Kit’ - [https://dataflowtoolkit.dk/](https://dataflowtoolkit.dk/). A separate publication of the exercise is found at [https://doi.org/10.5281/zenodo.6325938](https://doi.org/10.5281/zenodo.6325938)

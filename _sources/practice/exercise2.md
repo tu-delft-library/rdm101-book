@@ -1,11 +1,11 @@
 # 🏋️ Exercise: Exploring documentation methods & tools
 
-## Objectives:
+## Objectives
 
 -   Take the time to explore and get introduced to a documentation method or tool
 -   Get a feeling for the method or tool if it is something you can incorporate in your research workflow
    
-## Instructions:
+## Instructions
 
 We have compiled a list of different methods and tools for documentation of research data and code. Take the time to explore those which sound more appropriate for the type of data/software you work with in your project and reflect on the following:
 

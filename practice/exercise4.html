@@ -53,6 +53,8 @@ const thebe_selector_output = ".output, .cell_output"
     <link rel="shortcut icon" href="../_static/favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Module 5 - How to plan for RDM" href="../modules/module5.html" />
+    <link rel="prev" title="🏋️ Exercise: Exploring the FAIRness of datasets" href="exercise3.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -124,7 +126,7 @@ const thebe_selector_output = ".output, .cell_output"
   Modules and Exercises
  </span>
 </p>
-<ul class="nav bd-sidenav">
+<ul class="current nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="../modules/module1.html">
    Module 1: The importance of RDM
@@ -152,16 +154,16 @@ const thebe_selector_output = ".output, .cell_output"
    Module 3 - FAIR data principles and their main elements
   </a>
  </li>
- <li class="toctree-l1 has-children">
+ <li class="toctree-l1 current active has-children">
   <a class="reference internal" href="../modules/module4.html">
    Module 4 - Realizing FAIR data
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
   <label for="toctree-checkbox-2">
    <i class="fas fa-chevron-down">
    </i>
   </label>
-  <ul>
+  <ul class="current">
    <li class="toctree-l2">
     <a class="reference internal" href="exercise2.html">
      🏋️ Exercise: Exploring documentation methods &amp; tools
@@ -170,6 +172,11 @@ const thebe_selector_output = ".output, .cell_output"
    <li class="toctree-l2">
     <a class="reference internal" href="exercise3.html">
      🏋️ Exercise: Exploring the FAIRness of datasets
+    </a>
+   </li>
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
+     🏋️ Exercise: Data Flow Map Part 2
     </a>
    </li>
   </ul>
@@ -334,48 +341,12 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
-<label for="__page-toc"
-  class="headerbtn headerbtn-page-toc"
-  
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-list"></i>
-  </span>
-
-</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
-    <div class="tocsection onthispage pt-5 pb-3">
-        <i class="fas fa-list"></i> Contents
-    </div>
-    <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#objectives">
-   Objectives:
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#instructions">
-   Instructions:
-  </a>
-  <ul class="nav section-nav flex-column">
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#datasets-proposed-for-this-exercise">
-     Datasets proposed for this exercise:
-    </a>
-   </li>
-  </ul>
- </li>
-</ul>
-
-    </nav>
 </div>
     </div>
     <div class="article row">
@@ -387,31 +358,6 @@ title="Print to PDF"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#objectives">
-   Objectives:
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#instructions">
-   Instructions:
-  </a>
-  <ul class="nav section-nav flex-column">
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#datasets-proposed-for-this-exercise">
-     Datasets proposed for this exercise:
-    </a>
-   </li>
-  </ul>
- </li>
-</ul>
-
-                        </nav>
                     </div>
                 </div>
             </div>
@@ -421,46 +367,18 @@ title="Print to PDF"
                 
   <section class="tex2jax_ignore mathjax_ignore" id="exercise-data-flow-map-part-2">
 <h1>🏋️ Exercise: Data Flow Map Part 2<a class="headerlink" href="#exercise-data-flow-map-part-2" title="Permalink to this headline">#</a></h1>
-<section id="objectives">
-<h2>Objectives:<a class="headerlink" href="#objectives" title="Permalink to this headline">#</a></h2>
+<p>In Module 3 you have learned about the main elements of the FAIR principles (i.e. Documentation &amp; Metadata, Interoperability, Access to Data, Persistent Identifiers and Licences). In Module 4 we have explored some best practices for data organisation and we suggested you to explore some documentation tools that can make documentation easier. In Module 4, you also learned about data publication in data repositories.</p>
+<p>We suggest that you take again a moment to reflect on your own research project and create a strategy on how you will apply what you have learned so far.</p>
+<p>Please read the step-by-step instructions before working on the exercise. Here we provide again a template in case you want to use it for structuring your map.</p>
+<div class="tip dropdown admonition">
+<p class="admonition-title">Click here for downloading the files!</p>
 <ul class="simple">
-<li><p>Familiarise you with finding datasets in different repositories</p></li>
-<li><p>Assessing the FAIRness of a dataset should help you reflect on:</p></li>
-<li><p>What should you do or not do when you publish the data of your project?</p></li>
-<li><p>Did you identify things missing in this dataset that you would definitely provide when you publish yours?</p></li>
-<li><p>Allow you to explore how datasets are published in different repositories</p></li>
+<li><p><a class="reference external" href="https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx">Here is the template🗂️</a></p></li>
+<li><p><a class="reference external" href="https://tu-delft-library.github.io/rdm101-book/RDM101course-exercise1.pdf">Here is the PDF🗂</a></p></li>
 </ul>
-</section>
-<section id="instructions">
-<h2>Instructions:<a class="headerlink" href="#instructions" title="Permalink to this headline">#</a></h2>
-<ol class="simple">
-<li><p>Choose a dataset that interests you just by reading the title</p></li>
-<li><p>Search for the dataset with the provided title. Feel free to use your usual search methods - no restrictions there</p></li>
-<li><p>Once you find the dataset (not the publication, not the report, you need to find the dataset) reflect on how Findable, Accessible, Interoperable, Re-usable (FAIR) you think this dataset is.</p></li>
-<li><p>You can download the following template to guide you with your assessment:</p></li>
-<li><p>If none of the titles we provide are interesting for you, you can search for datasets in the following data repositories using keywords that are relevant for your research field:</p>
-<ul class="simple">
-<li><p>4TU.ResearchData: <a class="reference external" href="https://data.4tu.nl/">https://data.4tu.nl/</a></p></li>
-<li><p>Zenodo: <a class="reference external" href="https://zenodo.org/">https://zenodo.org/</a></p></li>
-<li><p>Dryad: <a class="reference external" href="https://datadryad.org/stash">https://datadryad.org/stash</a></p></li>
-<li><p>Figshare: <a class="reference external" href="https://figshare.com/">https://figshare.com/</a></p></li>
-<li><p>DANS: <a class="reference external" href="https://dans.knaw.nl/en/">https://dans.knaw.nl/en/</a></p></li>
-</ul>
-</li>
-</ol>
-<section id="datasets-proposed-for-this-exercise">
-<h3>Datasets proposed for this exercise:<a class="headerlink" href="#datasets-proposed-for-this-exercise" title="Permalink to this headline">#</a></h3>
-<ul class="simple">
-<li><p>Dataset 1 - “Qualitative coding of 12 semi-structure interviews on food behaviour context and food reporting engagement”</p></li>
-<li><p>Dataset 2: “Benefit of speed reduction for ships in different weather conditions”</p></li>
-<li><p>Dataset 3 - “Mechanical overtone frequency combs”</p></li>
-<li><p>Dataset 4 - “Transport Patterns of Global Aviation NOx and their Short-term O3 Radiative Forcing – A Machine Learning Approach”</p></li>
-<li><p>Dataset 5 - “In-situ observations of water vapour and atmospheric delay from the ground-based GNSS network from 1996 to present”</p></li>
-<li><p>Dataset 6 - “Grasp MultiObject”</p></li>
-<li><p>Dataset 7 - “Mapping the spatial distribution and geographic shift of East African highland banana (Musa sp.) cropping systems in Uganda”</p></li>
-</ul>
-</section>
-</section>
+</div>
+<p><strong>Note: This exercise is only a reflective practice, you do not need to submit it nor will you receive feedback on it.</strong></p>
+<p>This exercise is based on the ‘Data Flow Kit’ - <a class="reference external" href="https://dataflowtoolkit.dk/">https://dataflowtoolkit.dk/</a>. A separate publication of the exercise is found at <a class="reference external" href="https://doi.org/10.5281/zenodo.6325938">https://doi.org/10.5281/zenodo.6325938</a></p>
 </section>
 
     <script type="text/x-thebe-config">
@@ -490,6 +408,20 @@ title="Print to PDF"
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="exercise3.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">🏋️ Exercise: Exploring the FAIRness of datasets</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="../modules/module5.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Module 5 - How to plan for RDM</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
 </div>
             </footer>
         </div>
