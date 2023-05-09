@@ -16,7 +16,7 @@
     
 3.  Once you find the dataset (not the publication, not the report, you need to find the dataset) reflect on how Findable, Accessible, Interoperable, Re-usable (FAIR) you think this dataset is.
     
-4.  You can download the following template to guide you with your assessment:
+4.  You can download the following template to guide you with your assessment in [this link](https://tu-delft-library.github.io/rdm101-book/FAIRness-template.pdf)
     
 5.  If none of the titles we provide are interesting for you, you can search for datasets in the following data repositories using keywords that are relevant for your research field:
     
