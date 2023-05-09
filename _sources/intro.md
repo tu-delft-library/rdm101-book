@@ -5,7 +5,7 @@
 :class: sd-fs-3
 Build beautiful, publication-quality books and documents from computational content.
 
-```{button-ref} start/your-first-book
+```{button-ref} modules/module0
 :ref-type: doc
 :color: primary
 :class: sd-rounded-pill float-left
@@ -22,36 +22,6 @@ Get started
 :::
 
 
-:::
-
-::::
-
-::::{grid} 1 1 2 3
-:class-container: text-center
-:gutter: 3
-
-:::{grid-item-card}
-:link: basics/organize
-:link-type: doc
-:class-header: bg-light
-
-Text content ✏️
-^^^
-
-Structure books with text files and Jupyter Notebooks with minimal configuration.
-:::
-
-:::{grid-item-card}
-:link: content/myst
-:link-type: doc
-:class-header: bg-light
-
-MyST Markdown ✨
-^^^
-
-Write MyST Markdown to create enriched documents with publication-quality features.
-
-:::
 This Jupyter book was created to make the content of the TU Delft course for PhD candidates, Research Data Management 101 (RDM 101) openly available and as a self-learning course.
 
 The RDM 101 course is aimed at PhD candidates at TU Delft (especially in their first year) who require a hands-on introduction to Research Data Management (RDM) and Data Management Plans (DMPs). However, the course can also be useful for researchers and students interested in learning the basics of RDM at their own pace.
