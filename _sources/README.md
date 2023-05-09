@@ -4,7 +4,6 @@
 # An Open Research Data Management Course
 Research Data Management 101 (RDM101), course website and [Online course book](https://tu-delft-library.github.io/rdm101-book/intro.html) - powered by Jupyter-book
 
-## Sources
 ---
 
 ## Production

@@ -9,27 +9,20 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 * Store and back up the research data of your project in a secure manner
 ```
 
-There are different activities in this module you should complete
-
-```{admonition} Activities:
+```{admonition} Click here for downloading the file!
 :class: tip, dropdown
-1. Watch the videos of TU Delft researchers telling you about the research data and confidential research data they work with
+[Here is the file 🗂️](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx)
+```
+
+```{admonition} There are different activities in this module you should complete:
+:class: tip
+- [ ] Watch the videos of TU Delft researchers telling you about the research data and confidential research data they work with
 2. If you work with personal data, read the information on the two linked websites
 3. Look at the research cycle interactive image and the RDM questions you need to ask yourself at each step of your project
 4. Watch the video about data storage & infrastructure available at TU Delft
 5. Complete the quiz about data storage 
 6. Read the TU Delft RDM framework
 ```
-<!-- 
-```{admonition} There are different activities in this module you should complete:
-:class: tip, dropdown
-1. Watch the videos of TU Delft researchers telling you about the research data and confidential research data they work with
-2. If you work with personal data, read the information on the two linked websites
-3. Look at the research cycle interactive image and the RDM questions you need to ask yourself at each step of your project
-4. Watch the video about data storage & infrastructure available at TU Delft
-5. Complete the quiz about data storage 
-6. Read the TU Delft RDM framework
-``` -->
    
 
 ## Topic 1: Data within the research workflows
