@@ -1,4 +1,40 @@
-# Welcome
+# Welcome to RDM101
+
+
+::::{grid} 2
+:reverse:
+
+:::{grid-item}
+:columns: 4
+:class: sd-m-auto
+
+<img src="https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/banner-welcome.jpg"/>
+
+:::
+
+:::{grid-item}
+:columns: 8
+:class: sd-fs-3
+The *Research Data Management 101 (RDM 101)* , an openly available and as a self-learning course!
+
+```{button-ref} modules/module1
+:ref-type: doc
+:color: primary
+:class: sd-rounded-pill float-left
+
+
+Get started
+```
+
+% The SVG rendering breaks latex builds for the GitHub badge, so only include in HTML
+```{only} html
+[![](https://img.shields.io/github/stars/tu-delft-library/rdm101-book?style=social)](https://github.com/tu-delft-library/rdm101-book)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6325919.svg)](https://doi.org/10.5281/zenodo.6325919)
+```
+
+:::
+
+::::
 
 This Jupyter book was created to make the content of the TU Delft course for PhD candidates, Research Data Management 101 (RDM 101) openly available and as a self-learning course.
 
@@ -12,31 +48,78 @@ RDM 101 is structured in five successive modules that can be completed at your o
 It is important to note that no credits or certificates will be awarded upon completion of this course under this format. TU Delft PhD candidates who are interested in obtaining the credits need to register via CoachView, which is the course registration application of the Graduate School Doctoral Education (GS DE) programme. The course offered in the GS DE programme also includes 3 class sessions (on-site or online) and discussion groups, which makes for a richer learning experience. However, in this Jupyter book you will find all the contents of the course necessary to get acquainted with good research data management and the tools you use for this purpose.
 `````
 
+# Connect with us
 
+We are an international open source community that welcomes discussion, feedback, and contributions of many kinds.
+Here are a few ways to connect more with us.
 
+::::{grid} 1 1 2 2
+:class-container: text-center
+:gutter: 3
 
-For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers). 
+:::{grid-item-card}
+:link: https://github.com/tu-delft-library/rdm101-book/discussions/
+:class-header: bg-light
 
+💬 Ask and answer questions
+^^^
 
-<!-- |   | Modules          |     Slides     |    Video   |
-|:--|:-------------------|----------------|------------|
-| 1 | [The importance of RDM](https://tu-delft-library.github.io/rdm101-book/modules/module1.html)         | [HTML]() - [PDF](https:.pdf)         | [Youtube](https://www.youtube.com/watch?-) |
-| 2 | [The Essentials for Research Data](https://tu-delft-library.github.io/rdm101-book/modules/module2.html)           | [HTML](s.slides.html)      - [PPTX](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx)      | [Youtube](https://www.youtube.com/-) |
-| 3 | [FAIR principles and their main elements](https://tu-delft-library.github.io/rdm101-book/modules/module3.html)             | [HTML](https:/slides.html)        - [PDF](https://m.pdf)<sup>2</sup>        | [Youtube](https://www.youtube.c335-) |
-| 4 | [Realizing FAIR data](https://tu-delft-library.github.io/rdm101-book/modules/module4.html)       | [HTML](.html)    - [PDF](.pdf)    | [Youtube](https://www.youtube.coxDnjB4NM335-)<sup>1</sup> |
-| 5 | [How to plan for RDM](https:/earning.html)   | [HTML](https:es.html)  - [PDF](https:g.pdf)  | [Youtube](https://www.youtube.comjB4NM335-) |
-| 6 | [How to plan for RDM](https://tu-delft-library.github.io/rdm101-book/modules/module5.html) | [HTML]() - [PDF](https:/06%20-%20Data%20Preprocessing.pdf) | [Youtube](https://www.youtubenjB4NM335-) |
+We have community discussions, talk about ideas, and share general questions and feedback in our community forum.
 
-<sup>1</sup> The order of the slides in the video is slightly different.  
-<sup>2</sup> This lecture will be significantly updated. Stay tuned.   -->
+:::
 
-```{admonition} Get your hands dirty
-Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo](https://github.com/tu-delft-library/rdm101-book).
-```
+:::{grid-item-card}
+:link: https://github.com/tu-delft-library/rdm101-book/issues
+:class-header: bg-light
 
-```{admonition} Have some feedback?
-:class: tip
+🙌 Have some feedback?
+^^^
 If you notice any issue, or have suggestions or requests, please go the
 <i class="fab fa-github"></i> [issue tracker](https://github.com/tu-delft-library/rdm101-book/issues) or directly click on the  <i class="fab fa-github"></i> icon on top of the page and then 'open issue`. We also welcome pull requests.
+:::
+
+:::{grid-item-card}
+:link: https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers
+:class-header: bg-light
+
+🌍 More information
+
+^^^
+
+For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers). 
+:::
+
+:::{grid-item-card}
+:link: https://github.com/tu-delft-library/rdm101-book
+:class-header: bg-light
+
+🎁 Get your hands dirty
+
+^^^
+Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo](https://github.com/tu-delft-library/rdm101-book).
+:::
+
+
+
+# Acknowledgements
+
+Jupyter Book is supported by an [open community of contributors](https://github.com/executablebooks/jupyter-book/graphs/contributors), many of whom come from [the Executable Books Community](https://executablebooks.org) and [the Jupyter community](https://jupyter.org/community).
+
+::::{grid} 2 2 2 2
+
+:::{grid-item}
+:columns: 4
+
+```{image} https://d2k0ddhflgrk1i.cloudfront.net/Websections/Huisstijl/Bouwstenen/Logo/Descriptor/TUDelft_logo_descriptor_rgb.png
+:class: m-auto
+:width: 200px
 ```
 
+:::
+
+:::{grid-item}
+:columns: 7
+Many thanks to the Sloan Foundation, which [provides support for the Executable Books Project](https://sloan.org/grant-detail/9231).
+:::
+
+::::

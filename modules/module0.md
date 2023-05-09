@@ -16,27 +16,216 @@ After completing this course, you will be able to:
 -   Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
     
 
-<!-- 
+## Course materials
 
-## Lectures
-The RDM 101 course is structured in six successive modules that can be taken at the own pace of the course participant within 3 weeks. i.e. two modules per week. 
+::::{grid} 1 1 2 3
+:class-container: text-center
+:gutter: 3
+
+:::{grid-item-card}
+:link: module1
+:link-type: doc
+:class-header: bg-light
+
+**The importance of RDM** 🥇
+^^^
+
+Why should you be aware of your Research Data Management?
+
+:::
+
+:::{grid-item-card}
+:link: module2
+:link-type: doc
+:class-header: bg-light
+
+**Essentials for Research Data** 🚒
+^^^
+
+Introducing multiple topics concerning the essentials of RDM.
+:::
+
+:::{grid-item-card}
+:link: module3
+:link-type: doc
+:class-header: bg-light
+
+**FAIR data principles** 🔁
+^^^
+
+Understand the FAIR principles and their relation to RDM.
+:::
+
+:::{grid-item-card}
+:link: module4
+:link-type: doc
+:class-header: bg-light
+
+**Realizing FAIR data** 🚀
+^^^
+
+Best practices and tools that can facilitate the implementation of the FAIR principles.
+:::
+
+:::{grid-item-card}
+:link: module5
+:link-type: doc
+:class-header: bg-light
+
+**How to plan for RDM** 🛠️
+^^^
+
+Take a closer look at planning for RDM.
+
+:::
+
+:::{grid-item-card}
+:link: module5
+:link-type: doc
+:class-header: bg-light
+
+Extra 🛠️
+^^^
+
+Create interactive and web-native components and services.
+:::
 
 
-|   | Modules          |     Slides     |    Video   |
-|:--|:-------------------|----------------|------------|
-| 1 | [The importance of RDM](https://tu-delft-library.github.io/rdm101-book/modules/module1.html)         | [HTML]() - [PDF](https:.pdf)         | [Youtube](https://www.youtube.com/watch?-) |
-| 2 | [The Essentials for Research Data](https://tu-delft-library.github.io/rdm101-book/modules/module2.html)           | [HTML](s.slides.html)      - [PDF](https://.pdf)      | [Youtube](https://www.youtube.com/-) |
-| 3 | [FAIR principles and their main elements](https://tu-delft-library.github.io/rdm101-book/modules/module3.html)             | [HTML](https:/slides.html)        - [PDF](https://m.pdf)<sup>2</sup>        | [Youtube](https://www.youtube.c335-) |
-| 4 | [Realizing FAIR data](https://tu-delft-library.github.io/rdm101-book/modules/module4.html)       | [HTML](.html)    - [PDF](.pdf)    | [Youtube](https://www.youtube.coxDnjB4NM335-)<sup>1</sup> |
-| 5 | [How to plan for RDM](https://tu-delft-library.github.io/rdm101-book/modules/module5.html)   | [HTML](https:es.html)  - [PDF](https:g.pdf)  | [Youtube](https://www.youtube.comjB4NM335-) |
-<!-- | 6 | [How to plan for RDM](https://tu-delft-library.github.io/rdm101-book/modules/module5.html) | [HTML]() - [PDF](https:/06%20-%20Data%20Preprocessing.pdf) | [Youtube](https://www.youtubenjB4NM335-) | -->
+::::
 
-<!-- <sup>1</sup> The order of the slides in the video is slightly different.  
-<sup>2</sup> This lecture will be significantly updated. Stay tuned.   -->
+This course is organized into a few major sections.
+
+- **Modules** are step-by-step introductory guides to learn about RDM.
+- **Topic Guides** cover specific areas in more depth, and are organized as discrete "how-to" sections.
+- **Exercices** sections explaining suggested activities.
+
 
 
 ## Background materials
-Parts of the content of this course are based on: <i class="fas fa-book"></i> **Holmstrand, K.F., den Boer, S.P.A., Vlachos, E.Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management** (eLearning course). [doi: 10.11581/dtu:00000047](https://www.deic.dk/en/RDMElearn)
+Parts of the content of this course are based on.
+You can find more in [{bdg-primary}`the Jupyter Book Gallery`](https://executablebooks.org/en/latest/gallery/).
 
-The assignment of this course is based on the  <i class="fas fa-rocket"></i> ‘Data Flow Kit’ - [https://dataflowtoolkit.dk/](https://dataflowtoolkit.dk/). A separate publication of the assignment is found at [https://doi.org/10.5281/zenodo.6325938](https://doi.org/10.5281/zenodo.6325938)
 
+::::{card-carousel} 3
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://www.deic.dk/en/RDMElearn
+**eLearning course**
+^^^
+```{image} https://www.deic.dk/themes/custom/deic/logo.svg
+:height: 100
+```
+
+eLearning course about the importance of good research data management (RDM)
+
++++
+Explore this course {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://dataflowtoolkit.dk
+
+**DataFlowToolkit**
+^^^
+```{image} https://python.quantecon.org/_static/qe-logo-large.png
+:height: 100
+```
+
+Building blocks for thinking about your flow of data when doing research data management
+
++++
+Explore this tool {fas}`arrow-right`
+
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://the-turing-way.netlify.app
+
+**The Turing Way**
+^^^
+```{image} https://the-turing-way.netlify.app/_static/logo-detail-with-text.svg
+:height: 100
+```
+
+A guidebook for best-practices in reproducible and community-driven science.
++++
+Explore this book {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://inria.github.io/scikit-learn-mooc/
+
+**The SciKit Learn MOOC**
+^^^
+```{image} https://inria.github.io/scikit-learn-mooc/_static/scikit-learn-logo.png
+:height: 100
+```
+
+A large online course for machine learning with the PyData stack.
++++
+Explore this book {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://uwdata.github.io/visualization-curriculum/intro.html
+
+**Data Science @ UW**
+^^^
+```{image} https://uwdata.github.io/visualization-curriculum/_static/altair-hist.png
+:height: 100
+```
+
+Interactive data visualization with Python, as taught at the University of Washington.
++++
+Explore this book {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://py-pkgs.org/
+
+**Py-Pkgs**
+^^^
+```{image} https://d33wubrfki0l68.cloudfront.net/9ff174183b5af5c3a177bfccd4796454883bc1f7/86cde/_static/py-pkgs-hex.png
+:height: 100
+```
+
+A book describing how to create and use modern packages in the Python ecosystem.
++++
+Explore this book {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://geographicdata.science/book/intro.html
+
+**Geographic Data Science**
+^^^
+```{image} https://geographicdata.science/book/_static/logo.png
+:height: 100
+```
+
+Solving geographic data problems with modern open source tools.
++++
+Explore this book {fas}`arrow-right`
+:::
+::::

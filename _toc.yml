@@ -19,7 +19,6 @@ parts:
     - file: practice/week2
     - file: practice/week4
   - file: modules/module5
-  - file: modules/after
 
 # - caption: Suggested exercises
 #   chapters:

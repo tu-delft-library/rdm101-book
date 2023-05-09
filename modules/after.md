@@ -1,4 +1,4 @@
-# Module 5 - How to plan for RDM
+# Afterwords
 
 In module 5 we will take a closer look at planning for RDM. In relation to this, data management plans and the tool DMPonline will be further explained. At the end of this module you should be able to:
 

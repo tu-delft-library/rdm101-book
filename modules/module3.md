@@ -2,19 +2,21 @@
 # Module 3 - FAIR data principles and their main elements
 
 
-In this module, we will discover the FAIR data principles and their main elements. At the end of this module, you should be able to:
+In this module, we will discover the FAIR data principles and their main elements.
 
--   Understand the FAIR principles and their relation to RDM
-    
--   Identify key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR)
-    
 
-There are different activities in this module you should complete:
+```{admonition} At the end of this module you should be able to:
+* Understand the FAIR principles and their relation to RDM
+* Identify key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR) 
+```
 
--   Read topic 1: Why and how were the FAIR principles created?
-    
--   Watch the video about the key elements to make data FAIR and complete the ‘fill in the blanks’ quiz
-    
+
+There are different activities in this module you should complete
+
+```{admonition} Activities:
+* Read topic 1: Why and how were the FAIR principles created?
+* Watch the video about the key elements to make data FAIR and complete the ‘fill in the blanks’ quiz
+```
 
 ## Topic 1: Why and how were the FAIR principles created?
 
