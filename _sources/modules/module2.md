@@ -3,7 +3,7 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 
 At the end of this module you should be able to:
 
-```{admonition} Objectives -
+```{admonition} At the end of this module you should be able to:
 * Identify different types of research data
 * Recognize what is considered confidential data in research
 * Realise what RDM entails within a research project
