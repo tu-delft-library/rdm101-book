@@ -151,11 +151,11 @@ Explore this book {fas}`arrow-right`
 :gutter: 3
 
 :::{grid-item-card}
-:link: basics/organize
+:link: modules/module1
 :link-type: doc
 :class-header: bg-light
 
-Text content ✏️
+The importance of RDM 🥇
 ^^^
 
 Structure books with text files and Jupyter Notebooks with minimal configuration.
