@@ -79,16 +79,23 @@ If you notice any issue, or have suggestions or requests, please go the
 :::
 
 :::{grid-item-card}
-:link: https://executablebooks.org
+:link: ttps://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers
 :class-header: bg-light
 
-🌍 About our team
+🌍 More information
 
 ^^^
 
-Jupyter Book is developed by the Executable Books community.
-Check out our community documentation to learn more about us and how we work.
+For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers). 
 :::
+
+🌍 More information
+
+^^^
+
+For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers). 
+:::
+
 ::::
 
 
