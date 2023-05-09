@@ -79,7 +79,7 @@ If you notice any issue, or have suggestions or requests, please go the
 :::
 
 :::{grid-item-card}
-:link: ttps://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers
+:link: https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers
 :class-header: bg-light
 
 🌍 More information
@@ -88,6 +88,10 @@ If you notice any issue, or have suggestions or requests, please go the
 
 For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers). 
 :::
+
+:::{grid-item-card}
+:link: https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers
+:class-header: bg-light
 
 🌍 More information
 
