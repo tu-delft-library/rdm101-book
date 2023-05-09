@@ -145,13 +145,7 @@ Explore this book {fas}`arrow-right`
 ::::
 
 
-## Course content
-
-This course is organized into a few major sections.
-
-- **Modules** are step-by-step introductory guides to learn about RDM.
-- **Topic Guides** cover specific areas in more depth, and are organized as discrete "how-to" sections.
-- **Exercices** sections explaining suggested activities.
+## Course material
 
 ::::{grid} 1 1 2 3
 :class-container: text-center
@@ -225,6 +219,13 @@ Extra 🛠️
 Create interactive and web-native components and services.
 :::
 
+
 ::::
+
+This course is organized into a few major sections.
+
+- **Modules** are step-by-step introductory guides to learn about RDM.
+- **Topic Guides** cover specific areas in more depth, and are organized as discrete "how-to" sections.
+- **Exercices** sections explaining suggested activities.
 
 
