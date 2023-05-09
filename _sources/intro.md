@@ -8,6 +8,8 @@
 :columns: 4
 :class: sd-m-auto
 
+![](image/favicon.png)
+
 <img src="../images/favicon.png" />
 
 :::
