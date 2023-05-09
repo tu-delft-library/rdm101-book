@@ -13,7 +13,7 @@
 :::
 
 :::{grid-item}
-:columns: 12
+:columns: 8
 :class: sd-fs-3
 to the *Research Data Management 101 (RDM 101)* openly available and as a self-learning course!
 
