@@ -1,6 +1,6 @@
 # 🏋️ Exercise: Exploring the FAIRness of datasets
 
-## Objectives:
+## Objectives
 
 -   Familiarise you with finding datasets in different repositories
 -   Assessing the FAIRness of a dataset should help you reflect on:
@@ -8,7 +8,7 @@
 -   Did you identify things missing in this dataset that you would definitely provide when you publish yours?
 -   Allow you to explore how datasets are published in different repositories
     
-## Instructions:
+## Instructions
 
 1.  Choose a dataset that interests you just by reading the title
     
@@ -31,7 +31,7 @@
     
 	- DANS: [https://dans.knaw.nl/en/](https://dans.knaw.nl/en/)
 
-#### Datasets proposed for this exercise:
+#### Datasets proposed for this exercise
 
 -   Dataset 1 - “Qualitative coding of 12 semi-structure interviews on food behaviour context and food reporting engagement”
     

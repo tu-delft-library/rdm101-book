@@ -11,13 +11,13 @@ parts:
   - file: modules/module1
   - file: modules/module2
     sections:
-    - file: practice/week1
+    - file: practice/exercise1
   - file: modules/module3
   - file: modules/module4
     sections:
-    - file: practice/week3
-    - file: practice/week2
-    - file: practice/week4
+    - file: practice/exercise2
+    - file: practice/exercise3
+    - file: practice/exercise4
   - file: modules/module5
 
 # - caption: Suggested exercises

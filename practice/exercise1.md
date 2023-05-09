@@ -10,8 +10,9 @@ Find here below a template and a step-by-step guide PDF to help you structure th
 
 ```{admonition} Click here for downloading the files!
 :class: tip, dropdown
-[Here is the template🗂️](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx)
-[Here is the PDF🗂](https://tu-delft-library.github.io/rdm101-book/RDM101course-exercise1.pdf)
+* [Here is the template🗂️](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx)
+
+* [Here is the PDF🗂](https://tu-delft-library.github.io/rdm101-book/RDM101course-exercise1.pdf)
 ```
 **Note: This exercise is only a reflective practice, you do not need to submit it nor will you receive feedback on it.**
 
