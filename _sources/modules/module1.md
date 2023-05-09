@@ -5,6 +5,9 @@ The first module of this course is all about awareness. Why do we find RDM so im
     
 -   Explain why RDM is relevant for reproducibility and re-use of data
     
+```{tip} This is an example
+of a tip directive.
+```
 
 ## Why care about RDM?
 
