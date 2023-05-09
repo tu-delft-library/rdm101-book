@@ -1,9 +1,4 @@
 # Welcome
-:::
-:::{grid-item}
-:columns: 8
-:class: sd-fs-3
-Build beautiful, publication-quality books and documents from computational content.
 
 ```{button-ref} modules/module0
 :ref-type: doc
