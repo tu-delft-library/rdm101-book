@@ -14,7 +14,6 @@ Get started
 [![](https://img.shields.io/github/stars/executablebooks/jupyter-book?style=social)](https://github.com/executablebooks/jupyter-book)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6325919.svg)](https://doi.org/10.5281/zenodo.6325919)
 ```
-:::
 
 
 This Jupyter book was created to make the content of the TU Delft course for PhD candidates, Research Data Management 101 (RDM 101) openly available and as a self-learning course.
