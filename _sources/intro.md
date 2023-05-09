@@ -10,7 +10,7 @@
 
 ![](image/favicon.png)
 
-<img src="../images/favicon.png" />
+<img src="../images/favicon.png"/>
 
 :::
 
