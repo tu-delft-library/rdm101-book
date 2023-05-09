@@ -8,7 +8,7 @@
 :columns: 4
 :class: sd-m-auto
 
-<img src="./images/logo.png" />
+<img src="images/favicon.png" />
 
 :::
 
