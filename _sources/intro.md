@@ -44,6 +44,12 @@ The course was created in a collaborative effort of the Research Data Services t
 
 RDM 101 is structured in five successive modules that can be completed at your own pace. Each module contains informative videos and self-assessment quizzes to reinforce the knowledge acquired on certain topics. This self-learning course also includes suggested exercises to apply what you will be learning throughout the content.
 
+`````{admonition} Important note for PhD candidates at TU Delft
+It is important to note that no credits or certificates will be awarded upon completion of this course under this format. TU Delft PhD candidates who are interested in obtaining the credits need to register via CoachView, which is the course registration application of the Graduate School Doctoral Education (GS DE) programme. The course offered in the GS DE programme also includes 3 class sessions (on-site or online) and discussion groups, which makes for a richer learning experience. However, in this Jupyter book you will find all the contents of the course necessary to get acquainted with good research data management and the tools you use for this purpose.
+`````
+
+
+
 :::
 
 ::::
@@ -60,17 +66,11 @@ RDM 101 is structured in five successive modules that can be completed at your o
 Text content ✏️
 ^^^
 
-Structure books with text files and Jupyter Notebooks with minimal configuration.
+For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers). 
 :::
 
-`````{admonition} Important note for PhD candidates at TU Delft
-It is important to note that no credits or certificates will be awarded upon completion of this course under this format. TU Delft PhD candidates who are interested in obtaining the credits need to register via CoachView, which is the course registration application of the Graduate School Doctoral Education (GS DE) programme. The course offered in the GS DE programme also includes 3 class sessions (on-site or online) and discussion groups, which makes for a richer learning experience. However, in this Jupyter book you will find all the contents of the course necessary to get acquainted with good research data management and the tools you use for this purpose.
-`````
 
-
-
-
-For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers). 
+<!-- For more information about the courses offered at TU Delft visit [this site](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers).  -->
 
 
 <!-- |   | Modules          |     Slides     |    Video   |
