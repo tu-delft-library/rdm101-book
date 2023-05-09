@@ -58,7 +58,7 @@ Here are a few ways to connect more with us.
 :gutter: 3
 
 :::{grid-item-card}
-:link: https://github.com/orgs/executablebooks/discussions
+:link: https://github.com/tu-delft-library/rdm101-book/discussions/
 :class-header: bg-light
 
 💬 Ask and answer questions
@@ -69,14 +69,13 @@ We have community discussions, talk about ideas, and share general questions and
 :::
 
 :::{grid-item-card}
-:link: https://executablebooks.org/en/latest/feature-vote/
+:link: https://github.com/tu-delft-library/rdm101-book/issues
 :class-header: bg-light
 
-👍 Vote for new features
+👍 Have some feedback?
 ^^^
-Provides feedback by adding a 👍 reaction to issues in our repositories.
-You can find a list of the top issues in the Executable Books issue leader board.
-
+If you notice any issue, or have suggestions or requests, please go the
+<i class="fab fa-github"></i> [issue tracker](https://github.com/tu-delft-library/rdm101-book/issues) or directly click on the  <i class="fab fa-github"></i> icon on top of the page and then 'open issue`. We also welcome pull requests.
 :::
 
 :::{grid-item-card}
@@ -130,9 +129,4 @@ For more information about the courses offered at TU Delft visit [this site](htt
 Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo](https://github.com/tu-delft-library/rdm101-book).
 ```
 
-```{admonition} Have some feedback?
-:class: tip
-If you notice any issue, or have suggestions or requests, please go the
-<i class="fab fa-github"></i> [issue tracker](https://github.com/tu-delft-library/rdm101-book/issues) or directly click on the  <i class="fab fa-github"></i> icon on top of the page and then 'open issue`. We also welcome pull requests.
-```
 ::::
