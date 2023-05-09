@@ -1,5 +1,7 @@
 [![Jupyter Book Badge](https://raw.githubusercontent.com/executablebooks/jupyter-book/master/docs/images/badge.svg)](https://tu-delft-library.github.io/rdm101-book/intro.html)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6325919.svg)](https://doi.org/10.5281/zenodo.6325919)
+
 # An Open Research Data Management Course
 Research Data Management 101 (RDM101), course website and [Online course book](https://tu-delft-library.github.io/rdm101-book/intro.html) - powered by Jupyter-book
 
