@@ -14,7 +14,7 @@ execute:
 # dark mode
 sphinx:
   config:
-    html_extra_path: ["exercise_pptx"]
+    html_extra_path: ["exercise_pptx", "exercices_pdf"]
 
 # Define the name of the latex output file for PDF builds
 latex:

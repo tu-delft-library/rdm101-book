@@ -9,10 +9,10 @@ In this module, we will focus on the realisation of FAIR data. We will explore s
 * Discuss data publication, best practices and restrictions
 ```
 
-In this module you should:
-
-- Watch the videos about ‘Data organisation’, ‘Data Documentation tools’ and ‘Data access and Data publication’ and complete the corresponding quizzes.
-    
+```{admonition} There is also an activity in this module you should complete:
+:class: tip
+✅ Watch the videos about ‘Data organisation’, ‘Data Documentation tools’ and ‘Data access and Data publication’ and complete the corresponding quizzes.
+```
 
 ## Topic 1: Data Organisation
 
