@@ -9,10 +9,8 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 * Store and back up the research data of your project in a secure manner
 ```
 
-
-```{admonition} An extra exercise
-:class: activity
-There are different activities in this module you should complete:
+```{admonition} There are different activities in this module you should complete:
+:class: tip, dropdown
 
 1. Watch the videos of TU Delft researchers telling you about the research data and confidential research data they work with
 2. If you work with personal data, read the information on the two linked websites
