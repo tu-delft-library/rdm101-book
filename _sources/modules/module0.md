@@ -155,7 +155,7 @@ Explore this book {fas}`arrow-right`
 :link-type: doc
 :class-header: bg-light
 
-The importance of RDM 🥇
+**The importance of RDM** 🥇
 ^^^
 
 Why should you be aware of your Research Data Management?
@@ -163,56 +163,56 @@ Why should you be aware of your Research Data Management?
 :::
 
 :::{grid-item-card}
-:link: https://tu-delft-library.github.io/rdm101-book/modules/module2.html
+:link: module2
 :link-type: doc
 :class-header: bg-light
 
-Essentials for Research Data 🚒
+**Essentials for Research Data** 🚒
 ^^^
 
-introducing multiple topics concerning the essentials of RDM.
+Introducing multiple topics concerning the essentials of RDM.
 :::
 
 :::{grid-item-card}
-:link: content/executable/index
+:link: module3
 :link-type: doc
 :class-header: bg-light
 
-Executable content 🔁
+**FAIR data principles** 🔁
 ^^^
 
-Execute notebook cells, store results, and insert outputs across pages.
+Understand the FAIR principles and their relation to RDM.
+:::
+
+:::{grid-item-card}
+:link: module4
+:link-type: doc
+:class-header: bg-light
+
+**Realizing FAIR data** 🚀
+^^^
+
+Best practices and tools that can facilitate the implementation of the FAIR principles.
+:::
+
+:::{grid-item-card}
+:link: module5
+:link-type: doc
+:class-header: bg-light
+
+How to plan for RDM 🛠️
+^^^
+
+Take a closer look at planning for RDM.
 
 :::
 
 :::{grid-item-card}
-:link: interactive/launchbuttons
+:link: module5
 :link-type: doc
 :class-header: bg-light
 
-Live environments 🚀
-^^^
-
-Connect your book with Binder, JupyterHub, and other live environments
-:::
-
-:::{grid-item-card}
-:link: publish/web
-:link-type: doc
-:class-header: bg-light
-
-Build and publish 🎁
-^^^
-
-Share your built books via web services and hosted websites.
-:::
-
-:::{grid-item-card}
-:link: content/components
-:link-type: doc
-:class-header: bg-light
-
-UI components ⚡
+Extra 🛠️
 ^^^
 
 Create interactive and web-native components and services.
