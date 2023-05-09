@@ -28,7 +28,7 @@ Get started
 
 % The SVG rendering breaks latex builds for the GitHub badge, so only include in HTML
 ```{only} html
-[![](https://img.shields.io/github/stars/executablebooks/jupyter-book?style=social)](https://github.com/executablebooks/jupyter-book)
+[![](https://img.shields.io/github/stars/tu-delft-library/rdm101-book?style=social)](https://github.com/tu-delft-library/rdm101-book)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2561065.svg)](https://doi.org/10.5281/zenodo.2561065)
 ```
 
