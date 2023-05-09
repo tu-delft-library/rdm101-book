@@ -1,8 +1,6 @@
 # Module 2: Essentials for Research Data
 In this module, we start to dig deeper into RDM by introducing multiple topics concerning the essentials of RDM.
 
-At the end of this module you should be able to:
-
 ```{admonition} At the end of this module you should be able to:
 * Identify different types of research data
 * Recognize what is considered confidential data in research
