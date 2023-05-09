@@ -158,19 +158,19 @@ Explore this book {fas}`arrow-right`
 The importance of RDM 🥇
 ^^^
 
-Structure books with text files and Jupyter Notebooks with minimal configuration.
+Why should you be aware of your Research Data Management?
+
 :::
 
 :::{grid-item-card}
-:link: content/myst
+:link: https://tu-delft-library.github.io/rdm101-book/modules/module2.html
 :link-type: doc
 :class-header: bg-light
 
-MyST Markdown ✨
+Essentials for Research Data 🚒
 ^^^
 
-Write MyST Markdown to create enriched documents with publication-quality features.
-
+introducing multiple topics concerning the essentials of RDM.
 :::
 
 :::{grid-item-card}
