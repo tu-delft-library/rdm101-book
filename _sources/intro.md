@@ -77,7 +77,6 @@ We have community discussions, talk about ideas, and share general questions and
 If you notice any issue, or have suggestions or requests, please go the
 <i class="fab fa-github"></i> [issue tracker](https://github.com/tu-delft-library/rdm101-book/issues) or directly click on the  <i class="fab fa-github"></i> icon on top of the page and then 'open issue`. We also welcome pull requests.
 :::
-:::
 
 :::{grid-item-card}
 :link: https://executablebooks.org
