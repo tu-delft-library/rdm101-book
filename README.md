@@ -36,6 +36,8 @@ pip install ghp-import # install the package
 ghp-import -n -p -f _build/html
 ```
 
+Alternatively, you can run `deploy.sh` to automatically create and publish the course-book to Github Page.
+
 
 ## Open course
 Made with love by [Carlos Utrilla Guerrero](https://carlosug.github.io/). 
