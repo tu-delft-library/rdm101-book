@@ -107,7 +107,7 @@ In the following interactive image you can go through a simplified cycle which c
 
 <!-- <iframe src="https://maribelbarreracoronel.github.io/Cycle/genially_64414739aac7da0018e81043%20(1)/genially.html" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script> -->
 
-<iframe src="https://tu-delft-library.github.io/rdm101-book/Cycle/genially_64414739aac7da0018e81043%20(1)/genially.html" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tu-delft-library.github.io/rdm101-book/genially_64414739aac7da0018e81043%20(1)/genially.html" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 ## Topic 3: Research Data infrastructure at TU Delft

@@ -1,0 +1,153 @@
+<svg id="isotipo-ori" viewBox="0 0 292.65 299.73" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+
+    .gradiente-ori1 {
+      fill:url(#Degradado-ori1);
+    }
+    .gradiente-ori2 {
+      fill:url(#Degradado-ori2);
+    }
+    .gradiente-ori3 {
+      fill:url(#Degradado-ori3);
+    }
+    .gradiente-ori4 {
+      fill:url(#Degradado-ori4);
+    }
+    .gradiente-ori5 {
+      fill:url(#Degradado-ori5);
+    }
+    .gradiente-ori6 {
+      fill:url(#Degradado-ori6);
+    }
+
+    .circulo-ori {
+      fill:#000f33;
+    }
+
+    .g-ori {
+      fill:#FFF;
+      animation: guino-ori 10s cubic-bezier(.2,1.06,.61,.97) infinite;
+    }
+
+    @keyframes guino-ori {
+      0% {clip-path: ellipse(100% 100% at 50% 50%);}
+      23.3% {clip-path: ellipse(100% 100% at 50% 50%);}
+      24.6% {clip-path: ellipse(100% 0% at 50% 50%);}
+      25.6% {clip-path: ellipse(100% 100% at 50% 50%);}
+      26% {clip-path: ellipse(100% 100% at 50% 50%);}
+      27.3% {clip-path: ellipse(100% 0% at 50% 50%);}
+      28.3% {clip-path: ellipse(100% 100% at 50% 50%);}
+      70.3% {clip-path: ellipse(100% 100% at 50% 50%);}
+      71.6% {clip-path: ellipse(100% 0% at 50% 50%);}
+      72.6% {clip-path: ellipse(100% 100% at 50% 50%);}
+      73% {clip-path: ellipse(100% 100% at 50% 50%);}
+      74.3% {clip-path: ellipse(100% 0% at 50% 50%);}
+      75.3% {clip-path: ellipse(100% 100% at 50% 50%);}
+      100% {clip-path: ellipse(100% 100% at 50% 50%);}
+    }
+
+    .anillo-ori {
+      fill:#fff;
+      animation: anillo-ori 10s cubic-bezier(.2,1.06,.61,.97) infinite;
+    }
+
+    @keyframes anillo-ori {
+      1% {transform: translate(0px, 0px);}
+      4.33% {transform: translate(-9px, -9px);}
+      6% {transform: translate(-9px, -9px);}
+      9.3% {transform: translate(-9px, 9px);}
+      11% {transform: translate(-9px, 9px);}
+      14.6% {transform: translate(0px, 0px);}
+      100% {transform: translate(0px, 0px);}
+    }
+
+    .punto-ori {
+      fill:#fff;
+      animation: punto-ori 10s cubic-bezier(.2,1.06,.61,.97) infinite;
+    }
+
+    @keyframes punto-ori {
+      1% {transform: translate(0px, 0px);}
+      4.33% {transform: translate(-39px, -39px);}
+      6% {transform: translate(-39px, -39px);}
+      9.33% {transform: translate(-39px, 19px);}
+      11% {transform: translate(-39px, 19px);}
+      14.66% {transform: translate(0px, 0px);}
+      100% {transform: translate(0px, 0px);}
+    }
+
+    .gradiente-ori {
+      transform-origin: 50% 50%;
+      animation: rotationgradient-ori 10s cubic-bezier(.2,1.06,.61,.97) infinite;
+    }
+
+    @keyframes rotationgradient-ori {
+      0% {transform: rotate(0deg);}
+      6% {transform: rotate(90deg);}
+      11% {transform: rotate(-90deg);}
+      18.33% {transform: rotate(0deg);}
+      100% {transform: rotate(0deg);}
+    }
+
+  </style>
+<defs>
+  <linearGradient id="Degradado-ori1" x1="144.22" y1="78.69" x2="208.95" y2="116.07" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#f3b444"/>
+    <stop offset="1" stop-color="#f15480"/>
+  </linearGradient>
+  <linearGradient id="Degradado-ori2" x1="207.95" y1="187.23" x2="207.95" y2="115.72" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#b157ce"/>
+    <stop offset="1" stop-color="#f15480"/>
+  </linearGradient>
+  <linearGradient id="Degradado-ori3" x1="145.74" y1="220.16" x2="209.57" y2="183.31" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#5da5fb"/>
+    <stop offset="1" stop-color="#b157ce"/>
+  </linearGradient>
+  <linearGradient id="Degradado-ori4" x1="86.21" y1="182.71" x2="148.52" y2="218.69" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#74e6a7"/>
+    <stop offset="1" stop-color="#5da5fb"/>
+  </linearGradient>
+  <linearGradient id="Degradado-ori5" x1="88.86" y1="112.94" x2="88.86" y2="184.53" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#c8ed5c"/>
+    <stop offset="1" stop-color="#74e6a7"/>
+  </linearGradient>
+  <linearGradient id="Degradado-ori6" x1="89.55" y1="115.09" x2="149.35" y2="80.56" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#c8ed5c"/>
+    <stop offset="1" stop-color="#f3b444"/>
+  </linearGradient>
+
+  <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-ori">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+      <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+      <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+      <feMerge>
+          <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+          <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+  </filter>
+</defs>
+
+  <g filter="url(#filter-ori)" class="sombra-ori" style="fill:#000f33; opacity: .8;">
+    <circle cx="146.33" cy="149.87" r="118"/>
+  </g>
+
+  <g class="gradiente-ori">
+    <path class="gradiente-ori1" d="M250.46,92.14A119,119,0,0,0,146.33,30.78V149.87Z"/>
+    <path class="gradiente-ori2" d="M248.38,211.19a119,119,0,0,0,1.08-120.87L146.33,149.87Z"/>
+    <path class="gradiente-ori3" d="M144.25,268.91a119,119,0,0,0,105.21-59.5L146.33,149.87Z"/>
+    <path class="gradiente-ori4" d="M42.19,207.59A119,119,0,0,0,146.33,269V149.87Z"/>
+    <path class="gradiente-ori5" d="M44.27,88.54a119,119,0,0,0-1.08,120.87l103.14-59.54Z"/>
+    <path class="gradiente-ori6" d="M148.4,30.82A119,119,0,0,0,43.19,90.32l103.14,59.55Z"/>
+  </g>
+
+  <g class="circulo-ori">
+    <circle cx="146.33" cy="149.87" r="94.02"/>
+  </g>
+
+  <g class="g-ori">
+    <path class="anillo-ori" d="M206.54,148.45a11.67,11.67,0,0,0-11.45,9.35,47.5,47.5,0,1,1-30.93-54.2,11.33,11.33,0,0,0,13.6-4.8l.5-.85a11.23,11.23,0,0,0-6-16.28A70.87,70.87,0,1,0,218,162.26,11.65,11.65,0,0,0,206.54,148.45Z"/>
+    <path class="punto-ori" d="M165.65,141.39a15.25,15.25,0,1,0,15.25,15.24A15.24,15.24,0,0,0,165.65,141.39Z"/>
+  </g>
+
+</svg>
