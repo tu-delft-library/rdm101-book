@@ -24,7 +24,7 @@ In the next video, we will go through some best practices to help you organise t
 
 **<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/52112aedacfb4aa7974b549149b7b15f1d" aria-label="Module4" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
-**Test your knowledge!**
+### Test your knowledge!
 
 <iframe src="https://tudelft.h5p.com/content/1291934492320623307/embed" aria-label="Data Organisation" width="100%" height=" 537" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -40,7 +40,7 @@ In the next video we will talk about different methods and tools you can use to 
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/26f61cb17d504e13851642c2f588b0691d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-**Test your knowledge!**
+### Test your knowledge!
 
 **<iframe src="https://tudelft.h5p.com/content/1291934494416004717/embed" aria-label="Documentation tools" width="100%" height="337" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
@@ -56,7 +56,7 @@ One way to make the data of your project Findable and Accessible to a broad audi
 
 **<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/3c93a6d2c20543a49b7df787cbaf02ae1d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
-**Test your knowledge!**
+### Test your knowledge!
 
 <iframe src="https://tudelft.h5p.com/content/1291934495994112657/embed" aria-label="Data access and Data publication" width="100%" height="537" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
