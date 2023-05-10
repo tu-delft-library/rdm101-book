@@ -106,7 +106,7 @@ This course is organized into a few major sections.
 
 - **Modules** are in depth introductory guides with text, quizzes and videos to learn about RDM.
 - **🏋️ Exercises** are activities cover specific areas in more depth.
-- **Suggested activity** are small sections to practice what you learnt.
+- **Suggested activity** is a set of small sections to practice what you learnt.
 
 
 
