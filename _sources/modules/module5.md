@@ -28,11 +28,11 @@ Script adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-
 
 Watch the following video in which a researcher and a data steward talk about the importance of creating a data management plan.
 
-#### Natalia Romero Herrera talking about the benefits of writing a DMP
+### Natalia Romero Herrera talking about the benefits of writing a DMP
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/742f79c576fd4493a302376d2f72675c1d" aria-label="Module5" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-#### Esther Plomp talking about the benefits of writing a DMP
+### Esther Plomp talking about the benefits of writing a DMP
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/5cd7a7217c7f4e9b986d8e05909271471d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
