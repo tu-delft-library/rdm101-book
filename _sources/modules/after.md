@@ -9,6 +9,7 @@
 
 <img src="https://the-turing-way.netlify.app/_images/road-to-reproducibility.svg" alt="Beautiful"/>
 
+_Fig. 141 Road to Reproducibility. The Turing Way project illustration by Scriberia._ Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 :::
 
 :::{grid-item}
