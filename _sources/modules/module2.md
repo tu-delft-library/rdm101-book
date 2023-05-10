@@ -42,15 +42,15 @@ We talked to some TU Delft researchers working in different disciplines and we a
 
 ### What do you consider as data in your research field?
 
-**Sian Jones – Faculty Of Civil Engineering and Geosciences (CEG)**
+**📽️ Sian Jones – Faculty Of Civil Engineering and Geosciences (CEG)**
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/54a17810464141b1b9ce14ad53b2fc3b1d" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-**Wirawan Agahari – TU Delft Faculty of Technology, Policy and Management (TPM)**
+**📽️ Wirawan Agahari – TU Delft Faculty of Technology, Policy and Management (TPM)**
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/4badc144591844f2869ab713f2747d7a1d" width="100%" height="337" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
-**Aerospace researcher - TU Delft**
+**📽️ Aerospace researcher - TU Delft**
 
 In this video, a researcher from the Faculty of Aerospace Engineering at the TU Delft, tells us what data she collects or uses within her research project and what she needs to take care of when working with it. 
 
@@ -85,11 +85,11 @@ When working with confidential data, you need additional security measures for y
 
 In the next two videos, researchers from TU Delft tell us about the confidential data they work with and what RDM best-practice they follow:
 
-**Sian Jones talking about collaboration with industry**
+**📽️ Sian Jones talking about collaboration with industry**
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/218ff5c8c68d4f74abb58ee3150a77731d" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-**Wirawan Agahari talking about personal data in his research**
+**📽️ Wirawan Agahari talking about personal data in his research**
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/976b3ecafc664c409806825ce43fe8691d" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -132,13 +132,13 @@ In this section we would like to make you aware of the responsibilities of TU De
 
 It is very important for TU Delft that researchers follow best practices on Research Data Management (RDM). That is why since 2018 TU Delft has published a set of policies which provide a clear division of roles and responsibilities around RDM. 
 
-📖 [{bdg-primary}`Click to read the Research Data framework policy`](http://doi.org/10.5281/zenodo.4088123)
+[{bdg-primary}`Click to read the Research Data framework policy 📖`](http://doi.org/10.5281/zenodo.4088123)
 
 <!-- - Research Data framework policy - [http://doi.org/10.5281/zenodo.4088123](http://doi.org/10.5281/zenodo.4088123) -->
     
 This Framework policy is accompanied by Faculty-specific research data management policies, which provide more detailed requirements and guidelines for the disciplines associated with each Faculty. 
 
-[{bdg-primary}`📖 Click to read Faculty Research Data Management Policies`](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/)
+[{bdg-primary}`Click to read Faculty Research Data Management Policies 📖`](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/)
 
 <!-- - Faculty Research Data Management Policies - [https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/) -->
     

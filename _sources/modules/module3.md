@@ -16,7 +16,7 @@ There are different activities in this module you should complete
 ```{admonition} There are different activities in this module you should complete:
 :class: tip
 ✅ Read topic 1: Why and how were the FAIR principles created?\
-✅ Watch the video about the key elements to make data FAIR and complete the ‘fill in the blanks’ quiz
+✅ Watch the 📽️ video about the key elements to make data FAIR and complete the ‘fill in the blanks’ quiz
 ```
 
 ## Topic 1: Why and how were the FAIR principles created?
@@ -54,13 +54,13 @@ There are important elements to consider within your research workflows if you a
 -   Licences
     
 
-In the next videos we will explore these different elements and their importance to make the data of your project FAIR.
+In the next 📽️ videos we will explore these different elements and their importance to make the data of your project FAIR.
 
 <iframe src="https://tudelft.h5p.com/content/1291934702260539177/embed" aria-label="Module 3- Topic1" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 
-### Videos: Key elements to make data FAIR
+### 📽️ Videos: Key elements to make data FAIR
 
 What are the key elements to make data FAIR? In the following videos we will explain these elements and give you the opportunity to test your knowledge.
 
