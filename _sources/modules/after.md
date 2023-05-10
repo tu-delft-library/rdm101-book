@@ -1,6 +1,40 @@
 # ❤️ Afterwords
 
-We hope that you have enjoyed following the course and that you feel prepared to implement best practices of RDM in your research project.
+::::{grid} 2
+:reverse:
+
+:::{grid-item}
+:columns: 4
+:class: sd-m-auto
+
+<img src="https://the-turing-way.netlify.app/_images/road-to-reproducibility.svg"/>
+
+:::
+
+:::{grid-item}
+:columns: 8
+:class: sd-fs-3
+We hope that you have enjoyed following the course and that you feel prepared to implement best practices of RDM in your research project!
+<!-- 
+```{button-ref} modules/module1
+:ref-type: doc
+:color: primary
+:class: sd-rounded-pill float-left -->
+
+
+Get started with Module 1
+```
+
+% The SVG rendering breaks latex builds for the GitHub badge, so only include in HTML
+```{only} html
+[![](https://img.shields.io/github/stars/tu-delft-library/rdm101-book?style=social)](https://github.com/tu-delft-library/rdm101-book)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6325919.svg)](https://doi.org/10.5281/zenodo.6325919)
+```
+
+:::
+
+::::
+
 
 You probably found that this is a lot of information to process, don’t panic! If you have worked on the activities of the data flow maps or getting started with your DMP, you can use them to prioritise where to start.
 

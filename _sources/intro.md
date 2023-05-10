@@ -23,7 +23,7 @@ The *Research Data Management 101 (RDM 101)* , an openly available and as a self
 :class: sd-rounded-pill float-left
 
 
-Get started
+Get started with Module 1
 ```
 
 % The SVG rendering breaks latex builds for the GitHub badge, so only include in HTML
