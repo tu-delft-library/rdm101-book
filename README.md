@@ -28,7 +28,6 @@ And then copy all the contet:
 
 ```bash
 cp -r rdm101/* rdm101-book -->
-```
 
 To push the rendered course-book to Github Page, run:
 
