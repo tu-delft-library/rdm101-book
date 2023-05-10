@@ -133,14 +133,14 @@ It is very important for TU Delft that researchers follow best practices on Rese
 
 <!-- - Research Data framework policy - [http://doi.org/10.5281/zenodo.4088123](http://doi.org/10.5281/zenodo.4088123) -->
     
-This Framework policy is accompanied by Faculty-specific research data management policies, which provide more detailed requirements and guidelines for the disciplines associated with each Faculty. 📖 [{bdg-primary}`Click to read Faculty Research Data Management Policies`](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/)
+This Framework policy is accompanied by Faculty-specific research data management policies, which provide more detailed requirements and guidelines for the disciplines associated with each Faculty. [{bdg-primary}`📖 Click to read Faculty Research Data Management Policies`](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/)
 
 <!-- - Faculty Research Data Management Policies - [https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/) -->
     
 Software is recognised at TU Delft as a valuable research output that needs to be well documented, preserved and, whenever possible, consistent with the FAIR principles. The TU Delft Research Software Policy provides a clear division of roles and responsibilities and sets out a simplified, streamlined process to help researchers share software openly. Check these resources:
 
-📖 [{bdg-primary}`TU Delft Research Software Policy`](https://zenodo.org/record/4629662)/
-📖 [{bdg-primary}`TU Delft Guidelines on Research Software`](https://doi.org/10.5281/zenodo.4629635)
+[{bdg-primary}`TU Delft Research Software Policy 📖`](https://zenodo.org/record/4629662)\
+[{bdg-primary}`TU Delft Guidelines on Research Software 📖`](https://doi.org/10.5281/zenodo.4629635)
 
 <!-- - TU Delft Research Software Policy: [https://zenodo.org/record/4629662](https://zenodo.org/record/4629662)
 - TU Delft Guidelines on Research Software: Licensing, Registration and Commercialisation: https://doi.org/10.5281/zenodo.4629635 -->
