@@ -7,7 +7,7 @@
 :columns: 4
 :class: sd-m-auto
 
-<img src="https://the-turing-way.netlify.app/_images/road-to-reproducibility.svg"/>
+<img src="https://the-turing-way.netlify.app/_images/road-to-reproducibility.svg" alt="Beautiful"/>
 
 :::
 
