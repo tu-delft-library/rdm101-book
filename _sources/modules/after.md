@@ -28,18 +28,13 @@ We hope that you have enjoyed following the course and that you feel prepared to
 
 You probably found that this is a lot of information to process, don’t panic! If you have worked on the activities of the data flow maps or getting started with your DMP, you can use them to prioritise where to start.
 
-::::{important}
-:::{note}
-This text is **standard** _Markdown_
-:::
-::::
 
-<!-- ::::{🔍 Our recommendations}
+::::{🔍 Our recommendations}
 :::{note}
 🔍 Start from the less challenging practices, get used to incorporating them in your daily workflows and then move on to incorporating the next maybe a bit more challenging ones./
 🔍 Permanently go back to your data flow map or your DMP to evaluate what is working and what needs to be improved, and update the plan accordingly./
 🔍 Talk about research data and software with your peers, with your supervisor. Ask others for their experiences, tips and tricks. Maybe discussing research data and software in your team/project meetings can help you and others.
-::: -->
+:::
 ::::
 
 **Thanks for following the course! Keep taking care of the data and software of your project, you do relevant research, so your data and software matter!**
@@ -118,10 +113,9 @@ Explore this website {fas}`arrow-right`
 :class-body: text-center
 :class-header: bg-light text-center
 :link: https://delft-rcafe.github.io/home/Index.html#sec-upcoming
-
 **R Cafe**
 ^^^
-```{image} https://d2k0ddhflgrk1i.cloudfront.net/Library/Collecties/iconen/R_cafe_logo.png
+```{image} https://github.com/Delft-RCafe/home/blob/main/img/logo.png
 :height: 100
 ```
 For those using R as their programming language or those who would be interested in starting to use it, you can join the R cafe sessions.
