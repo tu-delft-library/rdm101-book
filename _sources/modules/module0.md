@@ -88,7 +88,6 @@ Explore Module 5 {fas}`arrow-right`
 
 :::{grid-item-card}
 :link: https://reprojuice.gamelab.tbm.tudelft.nl/
-:link-type: doc
 :class-header: bg-light
 
 **Extra activities** 🔥
