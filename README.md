@@ -41,4 +41,4 @@ Alternatively, you can run `deploy.sh` to automatically create and publish the c
 
 ## Open course
 Made with love by [Carlos Utrilla Guerrero](https://carlosug.github.io/). 
-Materials are released under the [CC0 License](https://creativecommons.org/share-your-work/public-domain/cc0). You can use them as you like.
+Materials are released under the [CC-BY License 4.0](https://creativecommons.org/licenses/by/4.0/). You can use them as you like.

@@ -42,15 +42,15 @@ We talked to some TU Delft researchers working in different disciplines and we a
 
 ### What do you consider as data in your research field?
 
-**Sian Jones – Faculty Of Civil Engineering and Geosciences (CEG)**
+**📽️ Sian Jones – Faculty Of Civil Engineering and Geosciences (CEG)**
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/54a17810464141b1b9ce14ad53b2fc3b1d" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-**Wirawan Agahari – TU Delft Faculty of Technology, Policy and Management (TPM)**
+**📽️ Wirawan Agahari – TU Delft Faculty of Technology, Policy and Management (TPM)**
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/4badc144591844f2869ab713f2747d7a1d" width="100%" height="337" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
-**Aerospace researcher - TU Delft**
+**📽️ Aerospace researcher - TU Delft**
 
 In this video, a researcher from the Faculty of Aerospace Engineering at the TU Delft, tells us what data she collects or uses within her research project and what she needs to take care of when working with it. 
 
@@ -85,11 +85,11 @@ When working with confidential data, you need additional security measures for y
 
 In the next two videos, researchers from TU Delft tell us about the confidential data they work with and what RDM best-practice they follow:
 
-**Sian Jones talking about collaboration with industry**
+**📽️ Sian Jones talking about collaboration with industry**
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/218ff5c8c68d4f74abb58ee3150a77731d" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-**Wirawan Agahari talking about personal data in his research**
+**📽️ Wirawan Agahari talking about personal data in his research**
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/976b3ecafc664c409806825ce43fe8691d" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 

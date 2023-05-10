@@ -11,14 +11,14 @@ In module 5 we will take a closer look at planning for RDM. In relation to this,
 
 ```{admonition} There are different activities in this module you should complete:
 :class: tip
-✅ Watch the animation video to learn what a data management plan (DMP) is\
-✅ Watch the videos of a TU Delft researcher and a Faculty data steward to learn why they think it is relevant to prepare a DMP\
+✅ Watch the animation 📽️ video to learn what a data management plan (DMP) is\
+✅ Watch the 📽️ videos of a TU Delft researcher and a Faculty data steward to learn why they think it is relevant to prepare a DMP\
 ✅ Complete the suggested activity of creating a DMP using the tool DMP online
 ```   
 
 ## Topic 1: What is a data management plan?
 
-Watch the following video for an introduction on what a data management plan is and its key elements.
+Watch the following 📽️ video for an introduction on what a data management plan is and its key elements.
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/c6ee8e29b09240b98906266d7478b70a1d" aria-label="Module5" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -26,7 +26,7 @@ Script adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-
 
 ## Topic 2: Why create a data management plan?
 
-Watch the following video in which a researcher and a data steward talk about the importance of creating a data management plan.
+Watch the following 📽️ video in which a researcher and a data steward talk about the importance of creating a data management plan.
 
 ### Natalia Romero Herrera talking about the benefits of writing a DMP
 
