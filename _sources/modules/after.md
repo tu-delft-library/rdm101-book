@@ -9,7 +9,7 @@
 
 <img src="https://the-turing-way.netlify.app/_images/road-to-reproducibility.svg" alt="Beautiful"/>
 
-_This is the Road to Reproducibility. The Turing Way project illustration by Scriberia._ Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](10.5281/zenodo.3332807).
+_The Turing Way project illustration by Scriberia. Zenodo_. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 :::
 
 :::{grid-item}
@@ -30,13 +30,13 @@ We hope you  enjoyed the course, and you feel prepared to implement RDM best pra
 You probably found that this is a lot of information to process, don’t panic! If you have worked on the activities of the data flow maps or getting started with your DMP, you can use them to prioritise where to start.
 
 
-::::{Important}
-:::{note}
+```{admonition} There are our recommendtions:
+:class: tip
 🔍 Start from the less challenging practices, get used to incorporating them in your daily workflows and then move on to incorporating the next maybe a bit more challenging ones./
 🔍 Permanently go back to your data flow map or your DMP to evaluate what is working and what needs to be improved, and update the plan accordingly./
 🔍 Talk about research data and software with your peers, with your supervisor. Ask others for their experiences, tips and tricks. Maybe discussing research data and software in your team/project meetings can help you and others.
-:::
-::::
+```
+
 
 **Thanks for following the course! Keep taking care of the data and software of your project, you do relevant research, so your data and software matter!**
 
