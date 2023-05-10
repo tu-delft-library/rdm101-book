@@ -16,7 +16,7 @@ In module 5 we will take a closer look at planning for RDM. In relation to this,
 ✅ Complete the suggested activity of creating a DMP using the tool DMP online
 ```   
 
-## Topic 1.1: What is a data management plan?
+## Topic 1: What is a data management plan?
 
 Watch the following video for an introduction on what a data management plan is and its key elements.
 
@@ -24,7 +24,7 @@ Watch the following video for an introduction on what a data management plan is 
 
 Script adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). [doi: 10.11581/dtu:00000047](https://vidensportal.deic.dk/en/RDMELearn)
 
-## Topic 1.2: Why create a data management plan?
+## Topic 2: Why create a data management plan?
 
 Watch the following video in which a researcher and a data steward talk about the importance of creating a data management plan.
 
@@ -36,7 +36,7 @@ Watch the following video in which a researcher and a data steward talk about th
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/5cd7a7217c7f4e9b986d8e05909271471d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## Topic 2: Introduction to DMP online
+## Topic 3: Introduction to DMP online
 
 This introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. You can create your own account and explore the TU Delft template.
 
