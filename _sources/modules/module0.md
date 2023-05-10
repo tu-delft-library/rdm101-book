@@ -5,7 +5,7 @@ This course provides PhD candidates with the essential knowledge and the core sk
 ## Learning Objectives
 
 ```{admonition} After completing this course, you will be able to:
-* Realise the important role that good data management plays in research
+* Realise the important role that good data management plays in research.
 * Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them.  
 * List the main components of the FAIR data principles and connect them to your own research workflows. 
 * Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
