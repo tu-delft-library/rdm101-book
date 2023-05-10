@@ -105,9 +105,9 @@ When you work with personal data at TU Delft, these are the materials to read:
 In the following interactive image you can go through a simplified cycle which can represent the workflow of your project. Have a look at the RDM questions you might need to ask yourself at each step of research.
 In the following interactive image you can go through a simplified cycle which can represent your project. Have a look at the RDM questions you might ask at each step of research.
 
-<!-- <iframe src="https://maribelbarreracoronel.github.io/Cycle/genially_64414739aac7da0018e81043%20(1)/genially.html" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script> -->
+<iframe src="https://maribelbarreracoronel.github.io/Cycle/genially_64414739aac7da0018e81043%20(1)/genially.html" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<iframe src="https://tu-delft-library.github.io/rdm101-book/exercise_html/genially_64414739aac7da0018e81043%20(1)/genially.html" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<!-- <iframe src="https://tu-delft-library.github.io/rdm101-book/genially_64414739aac7da0018e81043%20(1)/genially.html" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script> -->
 
 
 ## Topic 3: Research Data infrastructure at TU Delft
@@ -130,11 +130,15 @@ After the topic on the Research data infrastructure, you should now be able to a
 
 In this section we would like to make you aware of the responsibilities of TU Delft PhD candidates regarding Research Data Management. These responsibilities are detailed in the University and Faculty Policies.
 
-It is very important for TU Delft that researchers follow best practices on Research Data Management (RDM). That is why since 2018 TU Delft has published a set of policies which provide a clear division of roles and responsibilities around RDM. 📖 [{bdg-primary}`Click to read the Research Data framework policy`](http://doi.org/10.5281/zenodo.4088123)
+It is very important for TU Delft that researchers follow best practices on Research Data Management (RDM). That is why since 2018 TU Delft has published a set of policies which provide a clear division of roles and responsibilities around RDM. 
+
+📖 [{bdg-primary}`Click to read the Research Data framework policy`](http://doi.org/10.5281/zenodo.4088123)
 
 <!-- - Research Data framework policy - [http://doi.org/10.5281/zenodo.4088123](http://doi.org/10.5281/zenodo.4088123) -->
     
-This Framework policy is accompanied by Faculty-specific research data management policies, which provide more detailed requirements and guidelines for the disciplines associated with each Faculty. [{bdg-primary}`📖 Click to read Faculty Research Data Management Policies`](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/)
+This Framework policy is accompanied by Faculty-specific research data management policies, which provide more detailed requirements and guidelines for the disciplines associated with each Faculty. 
+
+[{bdg-primary}`📖 Click to read Faculty Research Data Management Policies`](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/)
 
 <!-- - Faculty Research Data Management Policies - [https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/) -->
     
