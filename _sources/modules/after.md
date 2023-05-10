@@ -129,3 +129,21 @@ Explore this website {fas}`arrow-right`
 <!-- For those working with code/software, you can always check and attend the workshops of the NL eScience center: [https://www.esciencecenter.nl/events/?f=workshops](https://www.esciencecenter.nl/events/?f=workshops) -->
 
 <!-- For those using R as their programming language or those who would be interested in starting to use it, you can join the R cafe sessions. You can find all the information about it here: [https://delft-rcafe.github.io/home/Index.html#sec-upcoming](https://delft-rcafe.github.io/home/Index.html#sec-upcoming) -->
+
+## How to cite this course?
+
+Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. [https://doi.org/10.5281/zenodo.6325919](https://doi.org/10.5281/zenodo.6325919)
+
+```
+@misc{martinez_lavanchy_p_m_2022_6325919,
+  author       = {Martinez-Lavanchy, P.M. and
+                  van Schöll, Pim and
+                  Zormpa, Eirini},
+  title        = {TU Delft Research Data Management 101 course},
+  month        = jul,
+  year         = 2022,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.6325919},
+  url          = {https://doi.org/10.5281/zenodo.6325919}
+}
+```
