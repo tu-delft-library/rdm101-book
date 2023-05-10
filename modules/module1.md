@@ -22,7 +22,7 @@ An instructor has recorded a video to explain the importance of RDM and differen
 :class: tip, dropdown
 To get in the mood for reproducibility or to escape yourself from some horror stories while having fun, we suggest you try one of these games:
 
-✅ You can find more in [{bdg-primary}`ReproJuice: The reproducibility game via this link`](http://thebarngames.nl/repro/)\
+✅ You can find more in [{bdg-primary}`ReproJuice: The reproducibility game via this link`](https://reprojuice.gamelab.tbm.tudelft.nl/)\
 ✅ You can play [{bdg-primary}`Data Horror Escape room via this link`](https://sites.google.com/vu.nl/datahorror/home)\
 ✅ You can play [{bdg-primary}`Software Horror Game via this link`](https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html)
 

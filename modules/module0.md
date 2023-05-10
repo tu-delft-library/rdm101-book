@@ -1,20 +1,15 @@
 # Course information
 
-
 This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.
 
 ## Learning Objectives
 
-After completing this course, you will be able to:
-
--   Realise the important role that good data management plays in research
-    
--   Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them.
-    
--   List the main components of the FAIR data principles and connect them to your own research workflows.
-    
--   Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
-    
+```{admonition} After completing this course, you will be able to:
+* Realise the important role that good data management plays in research.
+* Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them.  
+* List the main components of the FAIR data principles and connect them to your own research workflows. 
+* Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
+```  
 
 ## Course materials
 
@@ -31,6 +26,8 @@ After completing this course, you will be able to:
 ^^^
 
 Why should you be aware of your Research Data Management?
++++
+Explore Module 1 {fas}`arrow-right`
 
 :::
 
@@ -43,6 +40,9 @@ Why should you be aware of your Research Data Management?
 ^^^
 
 Introducing multiple topics concerning the essentials of RDM.
++++
+Explore Module 2 {fas}`arrow-right`
+
 :::
 
 :::{grid-item-card}
@@ -54,6 +54,9 @@ Introducing multiple topics concerning the essentials of RDM.
 ^^^
 
 Understand the FAIR principles and their relation to RDM.
++++
+Explore Module 3 {fas}`arrow-right`
+
 :::
 
 :::{grid-item-card}
@@ -65,6 +68,9 @@ Understand the FAIR principles and their relation to RDM.
 ^^^
 
 Best practices and tools that can facilitate the implementation of the FAIR principles.
++++
+Explore Module 4 {fas}`arrow-right`
+
 :::
 
 :::{grid-item-card}
@@ -76,18 +82,21 @@ Best practices and tools that can facilitate the implementation of the FAIR prin
 ^^^
 
 Take a closer look at planning for RDM.
-
++++
+Explore Module 5 {fas}`arrow-right`
 :::
 
 :::{grid-item-card}
-:link: module5
-:link-type: doc
+:link: https://reprojuice.gamelab.tbm.tudelft.nl/
 :class-header: bg-light
 
-Extra 🛠️
+**Extra activities** 🔥
 ^^^
 
-Create interactive and web-native components and services.
+Making RDM learning Fun!
++++
+Explore this game {fas}`arrow-right`
+
 :::
 
 
@@ -95,16 +104,14 @@ Create interactive and web-native components and services.
 
 This course is organized into a few major sections.
 
-- **Modules** are step-by-step introductory guides to learn about RDM.
-- **Topic Guides** cover specific areas in more depth, and are organized as discrete "how-to" sections.
-- **Exercices** sections explaining suggested activities.
+- **Modules** are in depth introductory guides with text, quizzes and videos to learn about RDM.
+- **🏋️ Exercises** are activities cover specific areas in more depth.
+- **Suggested activity** is a set of small sections to practice what you learnt.
 
 
 
 ## Background materials
-Parts of the content of this course are based on.
-You can find more in [{bdg-primary}`the Jupyter Book Gallery`](https://executablebooks.org/en/latest/gallery/).
-
+Parts of the content of this course are based on:
 
 ::::{card-carousel} 3
 
@@ -120,9 +127,6 @@ You can find more in [{bdg-primary}`the Jupyter Book Gallery`](https://executabl
 ```
 
 eLearning course about the importance of good research data management (RDM)
-
-+++
-Explore this course {fas}`arrow-right`
 :::
 
 :::{card}
@@ -139,9 +143,6 @@ Explore this course {fas}`arrow-right`
 
 Building blocks for thinking about your flow of data when doing research data management
 
-+++
-Explore this tool {fas}`arrow-right`
-
 :::
 
 :::{card}
@@ -157,75 +158,6 @@ Explore this tool {fas}`arrow-right`
 ```
 
 A guidebook for best-practices in reproducible and community-driven science.
-+++
-Explore this book {fas}`arrow-right`
-:::
 
-:::{card}
-:margin: 3
-:class-body: text-center
-:class-header: bg-light text-center
-:link: https://inria.github.io/scikit-learn-mooc/
-
-**The SciKit Learn MOOC**
-^^^
-```{image} https://inria.github.io/scikit-learn-mooc/_static/scikit-learn-logo.png
-:height: 100
-```
-
-A large online course for machine learning with the PyData stack.
-+++
-Explore this book {fas}`arrow-right`
-:::
-
-:::{card}
-:margin: 3
-:class-body: text-center
-:class-header: bg-light text-center
-:link: https://uwdata.github.io/visualization-curriculum/intro.html
-
-**Data Science @ UW**
-^^^
-```{image} https://uwdata.github.io/visualization-curriculum/_static/altair-hist.png
-:height: 100
-```
-
-Interactive data visualization with Python, as taught at the University of Washington.
-+++
-Explore this book {fas}`arrow-right`
-:::
-
-:::{card}
-:margin: 3
-:class-body: text-center
-:class-header: bg-light text-center
-:link: https://py-pkgs.org/
-
-**Py-Pkgs**
-^^^
-```{image} https://d33wubrfki0l68.cloudfront.net/9ff174183b5af5c3a177bfccd4796454883bc1f7/86cde/_static/py-pkgs-hex.png
-:height: 100
-```
-
-A book describing how to create and use modern packages in the Python ecosystem.
-+++
-Explore this book {fas}`arrow-right`
-:::
-
-:::{card}
-:margin: 3
-:class-body: text-center
-:class-header: bg-light text-center
-:link: https://geographicdata.science/book/intro.html
-
-**Geographic Data Science**
-^^^
-```{image} https://geographicdata.science/book/_static/logo.png
-:height: 100
-```
-
-Solving geographic data problems with modern open source tools.
-+++
-Explore this book {fas}`arrow-right`
 :::
 ::::

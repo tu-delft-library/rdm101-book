@@ -1,85 +1,133 @@
 # Afterwords
 
-In module 5 we will take a closer look at planning for RDM. In relation to this, data management plans and the tool DMPonline will be further explained. At the end of this module you should be able to:
+::::{grid} 2
+:reverse:
 
--   Recognize the relevance of planning research data management   
--   Get familiar with the concept of DMP and its format 
--   Create a data management plan using the appropriate tool 
--   Recognize the value of creating a DMP
-  
-There are different activities in this module you should complete:
-1.  Watch the animation video to learn what a data management plan (DMP) is
-    
-2.  Watch the videos of a TU Delft researcher and a Faculty data steward to learn why they think it is relevant to prepare a DMP
-    
-3.  Complete the suggested activity of creating a DMP using the tool DMP online
-    
+:::{grid-item}
+:columns: 4
+:class: sd-m-auto
 
-## Topic 1.1: What is a data management plan?
+<img src="https://the-turing-way.netlify.app/_images/road-to-reproducibility.svg" alt="Beautiful"/>
 
-Watch the following video for an introduction on what a data management plan is and its key elements.
+_The Turing Way project illustration by Scriberia. Zenodo_. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+:::
 
-<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/c6ee8e29b09240b98906266d7478b70a1d" aria-label="Module5" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+:::{grid-item}
+:columns: 8
+:class: sd-fs-3
+We hope you  enjoyed the course, and you feel prepared to implement RDM best practices in your research project!
+<!-- 
+```{button-ref} modules/module1
+:ref-type: doc
+:color: primary
+:class: sd-rounded-pill float-left -->
 
-Script adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). [doi: 10.11581/dtu:00000047](https://vidensportal.deic.dk/en/RDMELearn)
+:::
 
-## Topic 1.2: Why create a data management plan?
+::::
 
-Watch the following video in which a researcher and a data steward talk about the importance of creating a data management plan.
 
-#### Natalia Romero Herrera talking about the benefits of writing a DMP
+You probably found that this is a lot of information to process, don’t panic! If you have worked on the activities of the data flow maps or getting started with your DMP, you can use them to prioritise where to start.
 
-<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/742f79c576fd4493a302376d2f72675c1d" aria-label="Module5" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-#### Esther Plomp talking about the benefits of writing a DMP
-
-<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/5cd7a7217c7f4e9b986d8e05909271471d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
-## Topic 2: Introduction to DMP online
-
-This introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. You can create your own account and explore the TU Delft template.
-
-With DMPonline you can:
-
--   Write your plan and easily update it throughout the lifecycle of your project;
--   Share your plan with internal and external collaborators and ask for feedback from your Faculty Data Steward;
--   Download your plan in a variety of formats.
-    
-There are multiple tools that can help you write a data management plan (DMP). TU Delft provides researchers with the tool [DMPonline](https://dmponline.tudelft.nl/?perform_check=false) (Link directs you to the TU Delft institutional DMP online instance).
-
-### Self-reflection activity
-
-1.  Create an account in DMPonline using the TU Delft template or the template provided by your institution.
-    
-2.  Go back to your slides or papers and post-it’s of your data flow maps and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.
-
-3.  Reflect on the following:
-
--   Were you able to answer all the questions on the DMP template using your Data Flow Map?
-    
--   If not, which sections were you not able to answer? What kind of additional information would you need?
-
-```{admonition} Activity
+```{admonition} These are our recommendtions:
 :class: tip
-* Getting started with creating a DMP:
-In this activity you will be creating an account for DMPonline, and use the TU Delft template to create a plan for your project. In the following document, [DMPonline user guide](https://brightspace.tudelft.nl/d2l/common/viewFile.d2lfile/Content/637384388228502429/DMPonline%20user%20guide_Jan.2020.pdf?ou=297772&fid=L2NvbnRlbnQvZW5mb3JjZWQvMjk3NzcyLWNvdXJzZS11Y28tZ3MtMjAyMC1yNGExLTAxL0RNUG9ubGluZSB1c2VyIGd1aWRlX0phbi4yMDIwLnBkZg), you will find a clear step-by-step guide to complete this activity. 
-
-We expect you to:
-
-1. Create an account in DMPonline
-
-2. ‘Create a new plan’ for your project choosing:
-
-1.  ‘Delft University of Technology’ as the primary research organisation
-    
-2.  Tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’
-    
-
-3. Fill in the ‘Project Details’ according to your project.
-
-4. Go to ‘Write Plan’
-
-5. Go back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.
-
-6. If you don’t know how to answer any of the questions please let us know in the Discussion. We would also like to hear your reflections that came up while filling in the DMP.
+🔍 Start from the less challenging practices, get used to incorporating them in your daily workflows and then move on to incorporating the next maybe a bit more challenging ones\
+🔍 Permanently go back to your data flow map or your DMP to evaluate what is working and what needs to be improved, and update the plan accordingly\
+🔍 Talk about research data and software with your peers, with your supervisor. Ask others for their experiences, tips and tricks. Maybe discussing research data and software in your team/project meetings can help you and others
 ```
+
+
+**Thanks for following the course! Keep taking care of the data and software of your project, you do relevant research, so your data and software matter!**
+
+
+```{admonition} provide some feedback?
+:class: tip, dropdown
+If you would like to provide some feedback about this Jupyter book version of the course, please use this form (feedback is anonymous): [https://forms.gle/6jzX4oV1UtKw2sgT9](https://forms.gle/6jzX4oV1UtKw2sgT9)
+```
+
+## Do you need further help?
+
+Remember that if you have additional questions, you can always contact your Faculty Data Stewards: [https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact)
+
+You can also get in touch with the TU Delft Digital Competence Centre (DCC) for getting support on making research data FAIR, improve research software, and apply computing practices to increase the efficiency of the research process: https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/setting-up-research/dcc
+
+The Library also provides a website with a lot of useful information about RDM: [https://www.tudelft.nl/en/library/research-data-management](https://www.tudelft.nl/en/library/research-data-management)
+
+## More courses on research data and software
+
+Parts of the content of this course are based on:
+
+::::{card-carousel} 3
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/
+
+**Training for Researchers**
+^^^
+```{image} https://shop.tudelft.nl/media/TUDelft/TU_Delft_Essentials_3.jpg
+:height: 100
+```
+TU Delft Library in collaboration with the Faculty Data Stewards and the DCC team offer more courses, workshops and groups of practice about reproducible data and software.
++++
+Explore this website {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research
+
+**Personal Data & Human Subjects in Research**
+^^^
+```{image} https://irb.upenn.edu/wp-content/uploads/2023/03/Social-media-applications-on-a-phone-scaled.jpg
+:height: 100
+```
+
+Focus on collecting personal data in their research projects. This is a self-paced and entirely online course. It is open for TU Delft researchers, PhD candidates, MSC students and support staff.
++++
+Explore this website {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://www.esciencecenter.nl/events/?f=workshops
+
+**eScience Center**
+^^^
+```{image} https://www.esciencecenter.nl/wp-content/uploads/2023/02/netherlands-escience-center-logo-RGB-1024x282.png
+:height: 100
+```
+For those working with code/software, you can always check and attend the workshops of the NL eScience center.
++++
+Explore this website {fas}`arrow-right`
+:::
+
+:::{card}
+:margin: 3
+:class-body: text-center
+:class-header: bg-light text-center
+:link: https://delft-rcafe.github.io/home/Index.html#sec-upcoming
+**R Cafe**
+^^^
+```{image} https://d2k0ddhflgrk1i.cloudfront.net/Library/Collecties/iconen/R_cafe_logo.png
+:height: 100
+```
+For those using R as their programming language or those who would be interested in starting to use it, you can join the R cafe sessions.
++++
+Explore this website {fas}`arrow-right`
+::::
+
+<!-- TU Delft Library in collaboration with the Faculty Data Stewards and the DCC team offer more courses, workshops and groups of practice about reproducible data and software. Have a look here: [https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/) -->
+
+<!-- We would like to highlight the course on ‘Personal Data and Human Subjects in Research’ for those that are collecting personal data in their research projects. This is a self-paced and entirely online course. It is open for TU Delft researchers, PhD candidates, MSC students and support staff. More information here: [https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research](https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research) -->
+
+<!-- For those working with code/software, you can always check and attend the workshops of the NL eScience center: [https://www.esciencecenter.nl/events/?f=workshops](https://www.esciencecenter.nl/events/?f=workshops) -->
+
+<!-- For those using R as their programming language or those who would be interested in starting to use it, you can join the R cafe sessions. You can find all the information about it here: [https://delft-rcafe.github.io/home/Index.html#sec-upcoming](https://delft-rcafe.github.io/home/Index.html#sec-upcoming) -->

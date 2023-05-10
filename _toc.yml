@@ -19,6 +19,9 @@ parts:
     - file: practice/exercise3
     - file: practice/exercise4
   - file: modules/module5
+- caption:
+  chapters:
+  - file: modules/after
 
 # - caption: Suggested exercises
 #   chapters:

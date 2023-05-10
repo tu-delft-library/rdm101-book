@@ -10,6 +10,8 @@
 
 <img src="https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/banner-welcome.jpg"/>
 
+_The Turing Way project illustration by Scriberia. Zenodo_. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+
 :::
 
 :::{grid-item}
@@ -23,7 +25,7 @@ The *Research Data Management 101 (RDM 101)* , an openly available and as a self
 :class: sd-rounded-pill float-left
 
 
-Get started
+Get started with Module 1
 ```
 
 % The SVG rendering breaks latex builds for the GitHub badge, so only include in HTML
@@ -36,11 +38,9 @@ Get started
 
 ::::
 
-This Jupyter book was created to make the content of the TU Delft course for PhD candidates, Research Data Management 101 (RDM 101) openly available and as a self-learning course.
+This Jupyter book was created to make the content of the TU Delft course for PhD candidates, Research Data Management 101 (RDM 101) **openly available and as a self-learning course**.
 
 The RDM 101 course is aimed at PhD candidates at TU Delft (especially in their first year) who require a hands-on introduction to Research Data Management (RDM) and Data Management Plans (DMPs). However, the course can also be useful for researchers and students interested in learning the basics of RDM at their own pace.
-
-The course was created in a collaborative effort of the Research Data Services team of TU Delft Library with TU Delft Data Stewards, the Education Support team at [TU Delft Library](https://www.tudelft.nl/library), the [TU Delft New Media Centre](https://newmediacentre.tudelft.nl/) and TU Delft researchers.
 
 RDM 101 is structured in five successive modules that can be completed at your own pace. Each module contains informative videos and self-assessment quizzes to reinforce the knowledge acquired on certain topics. This self-learning course also includes suggested exercises to apply what you will be learning throughout the content.
 
@@ -50,7 +50,7 @@ It is important to note that no credits or certificates will be awarded upon com
 
 # Connect with us
 
-We are an international open source community that welcomes discussion, feedback, and contributions of many kinds.
+We are an international team focuses on teaching open science that welcomes discussion, feedback, and contributions of many kinds.
 Here are a few ways to connect more with us.
 
 ::::{grid} 1 1 2 2
@@ -103,7 +103,7 @@ Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo
 
 # Acknowledgements
 
-Jupyter Book is supported by an [open community of contributors](https://github.com/executablebooks/jupyter-book/graphs/contributors), many of whom come from [the Executable Books Community](https://executablebooks.org) and [the Jupyter community](https://jupyter.org/community).
+The course was created in a collaborative effort of the Research Data Services team of TU Delft Library with TU Delft Data Stewards, the Education Support team at [TU Delft Library](https://www.tudelft.nl/library), the [TU Delft New Media Centre](https://newmediacentre.tudelft.nl/) and TU Delft researchers.
 
 ::::{grid} 2 2 2 2
 
@@ -119,7 +119,7 @@ Jupyter Book is supported by an [open community of contributors](https://github.
 
 :::{grid-item}
 :columns: 7
-Many thanks to the Sloan Foundation, which [provides support for the Executable Books Project](https://sloan.org/grant-detail/9231).
+Many thanks to the [Delft University of Technology](https://www.tudelft.nl/), which provide support for [Open Science and Open Education](https://www.tudelft.nl/teachingacademy/themes/open-education).
 :::
 
 ::::

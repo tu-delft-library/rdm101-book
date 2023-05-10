@@ -60,13 +60,13 @@ In the next videos we will explore these different elements and their importance
 
 
 
-## Videos: Key elements to make data FAIR
+### Videos: Key elements to make data FAIR
 
 What are the key elements to make data FAIR? In the following videos we will explain these elements and give you the opportunity to test your knowledge.
 
 The objective of the following videos is to identify the key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR). The following videos are an elaboration on these key elements of FAIR. Test your knowledge afterwards with the ‘Fill in the missing words’ assignment beneath.
 
-### Documentation and Metadata
+#### Documentation and Metadata
 
 **<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/d7bd16131769465d8b1307ec27358b3e1d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
@@ -74,7 +74,7 @@ The objective of the following videos is to identify the key elements that help 
 
 <iframe src="https://tudelft.h5p.com/content/1291897230447935377/embed" aria-label="Documentation and Metadata" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Interoperability
+#### Interoperability
 
 **<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/ec9b602fc09b4805bcc54ee4ed8134191d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
@@ -84,7 +84,7 @@ The objective of the following videos is to identify the key elements that help 
 
   
 
-### Access to Data
+#### Access to Data
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/59f312fd51cc4289962c6fd6eb309f401d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -92,7 +92,7 @@ The objective of the following videos is to identify the key elements that help 
 
 <iframe src="https://tudelft.h5p.com/content/1291897251180731867/embed" aria-label="Access to Data" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Persistent Identifiers
+#### Persistent Identifiers
 
 **<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/dcbe53ac66334a399655c0f10c3bcc1c1d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
@@ -100,7 +100,7 @@ The objective of the following videos is to identify the key elements that help 
 
 <iframe src="https://tudelft.h5p.com/content/1291897251799243657/embed" aria-label="Persistent Identifiers" width="100%" height="417" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Data and Code Licences
+#### Data and Code Licences
 
 **<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/4111cd8875ba435e93c321fec95a505a1d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
