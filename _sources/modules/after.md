@@ -21,16 +21,6 @@ We hope that you have enjoyed following the course and that you feel prepared to
 :color: primary
 :class: sd-rounded-pill float-left -->
 
-
-Get started with Module 1
-```
-
-% The SVG rendering breaks latex builds for the GitHub badge, so only include in HTML
-```{only} html
-[![](https://img.shields.io/github/stars/tu-delft-library/rdm101-book?style=social)](https://github.com/tu-delft-library/rdm101-book)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6325919.svg)](https://doi.org/10.5281/zenodo.6325919)
-```
-
 :::
 
 ::::
