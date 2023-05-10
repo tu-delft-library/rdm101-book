@@ -145,6 +145,6 @@ Software is recognised at TU Delft as a valuable research output that needs to b
 <!-- - TU Delft Research Software Policy: [https://zenodo.org/record/4629662](https://zenodo.org/record/4629662)
 - TU Delft Guidelines on Research Software: Licensing, Registration and Commercialisation: https://doi.org/10.5281/zenodo.4629635 -->
 
-```{Question for you:}
+```{tip}
 Were you already aware of any of these policies? And, now that you have looked at the different policies, are your responsibilities regarding Research Data and Software management clear to you?
 ```
