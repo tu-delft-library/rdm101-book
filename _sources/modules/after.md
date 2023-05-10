@@ -1,4 +1,4 @@
-# Afterwords
+# Afterword
 
 ::::{grid} 2
 :reverse:
@@ -56,8 +56,6 @@ The Library also provides a website with a lot of useful information about RDM: 
 
 ## More courses on research data and software
 
-Parts of the content of this course are based on:
-
 ::::{card-carousel} 3
 
 :::{card}
@@ -88,7 +86,7 @@ Explore this website {fas}`arrow-right`
 :height: 100
 ```
 
-Focus on collecting personal data in their research projects. This is a self-paced and entirely online course. It is open for TU Delft researchers, PhD candidates, MSC students and support staff.
+Recommended if you are collecting personal data in your research project. This is a self-paced and entirely online course. It is open for TU Delft researchers, PhD candidates, MSC students and support staff.
 +++
 Explore this website {fas}`arrow-right`
 :::
