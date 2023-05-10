@@ -29,10 +29,11 @@ We hope that you have enjoyed following the course and that you feel prepared to
 You probably found that this is a lot of information to process, don’t panic! If you have worked on the activities of the data flow maps or getting started with your DMP, you can use them to prioritise where to start.
 
 ::::{important}
-:::{note}
+:::{🔍 Our Recommendations:}
 🔍 Start from the less challenging practices, get used to incorporating them in your daily workflows and then move on to incorporating the next maybe a bit more challenging ones./
 🔍 Permanently go back to your data flow map or your DMP to evaluate what is working and what needs to be improved, and update the plan accordingly./
-🔍 Talk about research data and software with your peers, with your supervisor. Ask others for their experiences, tips and tricks. Maybe discussing research data and software in your team/project meetings can help you and others.:::
+🔍 Talk about research data and software with your peers, with your supervisor. Ask others for their experiences, tips and tricks. Maybe discussing research data and software in your team/project meetings can help you and others.
+:::
 ::::
 
 <!-- ::::{🔍 Our recommendations}
