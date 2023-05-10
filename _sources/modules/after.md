@@ -1,4 +1,4 @@
-# ❤️ Afterwords
+# Afterwords
 
 ::::{grid} 2
 :reverse:
@@ -115,7 +115,7 @@ Explore this website {fas}`arrow-right`
 :link: https://delft-rcafe.github.io/home/Index.html#sec-upcoming
 **R Cafe**
 ^^^
-```{image} https://github.com/Delft-RCafe/home/blob/main/img/logo.png
+```{image} https://d2k0ddhflgrk1i.cloudfront.net/Library/Collecties/iconen/R_cafe_logo.png
 :height: 100
 ```
 For those using R as their programming language or those who would be interested in starting to use it, you can join the R cafe sessions.
