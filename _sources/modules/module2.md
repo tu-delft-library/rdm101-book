@@ -14,7 +14,7 @@ In this module, we start to dig deeper into RDM by introducing multiple topics c
 [Here is the file 🗂️](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week1.pptx)
 ``` -->
 
-```{admonition} There are different activities in this module you should complete:
+```{admonition} These are different activities in this module you should complete:
 :class: tip
 ✅ Watch the videos of TU Delft researchers telling you about the research data and confidential research data they work with\
 ✅ If you work with personal data, read the information on the two linked websites\
