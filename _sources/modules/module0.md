@@ -26,6 +26,8 @@ This course provides PhD candidates with the essential knowledge and the core sk
 ^^^
 
 Why should you be aware of your Research Data Management?
++++
+Explore Module 1 {fas}`arrow-right`
 
 :::
 
@@ -38,6 +40,9 @@ Why should you be aware of your Research Data Management?
 ^^^
 
 Introducing multiple topics concerning the essentials of RDM.
++++
+Explore Module 2 {fas}`arrow-right`
+
 :::
 
 :::{grid-item-card}
@@ -49,6 +54,9 @@ Introducing multiple topics concerning the essentials of RDM.
 ^^^
 
 Understand the FAIR principles and their relation to RDM.
++++
+Explore Module 3 {fas}`arrow-right`
+
 :::
 
 :::{grid-item-card}
@@ -60,6 +68,9 @@ Understand the FAIR principles and their relation to RDM.
 ^^^
 
 Best practices and tools that can facilitate the implementation of the FAIR principles.
++++
+Explore Module 4 {fas}`arrow-right`
+
 :::
 
 :::{grid-item-card}
@@ -71,20 +82,21 @@ Best practices and tools that can facilitate the implementation of the FAIR prin
 ^^^
 
 Take a closer look at planning for RDM.
-
++++
+Explore Module 5 {fas}`arrow-right`
 :::
 
 :::{grid-item-card}
-:link: module5
+:link: https://reprojuice.gamelab.tbm.tudelft.nl/
 :link-type: doc
 :class-header: bg-light
 
-Extra activities 🔥
+**Extra activities** 🔥
 ^^^
 
-Create interactive and web-native components and services.
+Making RDM learning Fun!
 +++
-Explore this quiz {fas}`arrow-right`
+Explore this game {fas}`arrow-right`
 
 :::
 
@@ -116,9 +128,6 @@ Parts of the content of this course are based on:
 ```
 
 eLearning course about the importance of good research data management (RDM)
-
-+++
-Explore this course {fas}`arrow-right`
 :::
 
 :::{card}
@@ -135,9 +144,6 @@ Explore this course {fas}`arrow-right`
 
 Building blocks for thinking about your flow of data when doing research data management
 
-+++
-Explore this tool {fas}`arrow-right`
-
 :::
 
 :::{card}
@@ -153,8 +159,7 @@ Explore this tool {fas}`arrow-right`
 ```
 
 A guidebook for best-practices in reproducible and community-driven science.
-+++
-Explore this book {fas}`arrow-right`
+
 :::
 
 :::{card}
@@ -170,8 +175,6 @@ Explore this book {fas}`arrow-right`
 ```
 
 A large online course for machine learning with the PyData stack.
-+++
-Explore this book {fas}`arrow-right`
 :::
 
 :::{card}
@@ -187,8 +190,6 @@ Explore this book {fas}`arrow-right`
 ```
 
 Interactive data visualization with Python, as taught at the University of Washington.
-+++
-Explore this book {fas}`arrow-right`
 :::
 
 :::{card}
@@ -204,8 +205,7 @@ Explore this book {fas}`arrow-right`
 ```
 
 A book describing how to create and use modern packages in the Python ecosystem.
-+++
-Explore this book {fas}`arrow-right`
+
 :::
 
 :::{card}
@@ -221,7 +221,5 @@ Explore this book {fas}`arrow-right`
 ```
 
 Solving geographic data problems with modern open source tools.
-+++
-Explore this book {fas}`arrow-right`
 :::
 ::::
