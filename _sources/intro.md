@@ -8,7 +8,8 @@
 :columns: 4
 :class: sd-m-auto
 
-<img src="https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/banner-welcome.jpg" alt="Beautiful"/>
+<img src="https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/banner-welcome.jpg"/>
+This is the caption
 
 :::
 
