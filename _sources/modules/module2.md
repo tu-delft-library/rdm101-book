@@ -131,7 +131,10 @@ In this section we would like to make you aware of the responsibilities of TU De
 
 It is very important for TU Delft that researchers follow best practices on Research Data Management (RDM). That is why since 2018 TU Delft has published a set of policies which provide a clear division of roles and responsibilities around RDM.
 
-- Research Data framework policy - [http://doi.org/10.5281/zenodo.4088123](http://doi.org/10.5281/zenodo.4088123)
+
+📖 [{bdg-primary}`Research Data framework policy`](http://doi.org/10.5281/zenodo.4088123)
+
+<!-- - Research Data framework policy - [http://doi.org/10.5281/zenodo.4088123](http://doi.org/10.5281/zenodo.4088123) -->
     
 This Framework policy is accompanied by Faculty-specific research data management policies, which provide more detailed requirements and guidelines for the disciplines associated with each Faculty.
 

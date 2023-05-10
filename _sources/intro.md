@@ -119,7 +119,7 @@ The course was created in a collaborative effort of the Research Data Services t
 
 :::{grid-item}
 :columns: 7
-Many thanks to the [Delft University of Technology](https://www.tudelft.nl/), which provide support for [Open Science and Open Education](https://www.tudelft.nl/teachingacademy/themes/open-education)
+Many thanks to the [Delft University of Technology](https://www.tudelft.nl/), which provide support for [Open Science and Open Education](https://www.tudelft.nl/teachingacademy/themes/open-education).
 :::
 
 ::::
