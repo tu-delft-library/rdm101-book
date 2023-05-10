@@ -52,7 +52,13 @@ We talked to some TU Delft researchers working in different disciplines and we a
 
 **Aerospace researcher - TU Delft**
 
-In this video, a researcher from the Faculty of Aerospace Engineering at the TU Delft, tells us what data she collects or uses within her research project and what she needs to take care of when working with it. ⚠️ This video is only available with a TU Delft login ⚠️. [Please click on this link](https://collegerama.tudelft.nl/Mediasite/Play/ad25b09a1e7f404c89cf67ecec4887531d)
+In this video, a researcher from the Faculty of Aerospace Engineering at the TU Delft, tells us what data she collects or uses within her research project and what she needs to take care of when working with it. 
+
+```{admonition} ⚠️ This video is only available with a TU Delft login ⚠️.
+:class: warning
+[Please click on this link](https://collegerama.tudelft.nl/Mediasite/Play/ad25b09a1e7f404c89cf67ecec4887531d)
+```
+
 
 ### Confidential Data
 
