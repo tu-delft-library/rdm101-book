@@ -48,39 +48,20 @@ With DMPonline you can:
     
 There are multiple tools that can help you write a data management plan (DMP). TU Delft provides researchers with the tool [DMPonline](https://dmponline.tudelft.nl/?perform_check=false) (Link directs you to the TU Delft institutional DMP online instance).
 
-### Self-reflection activity
-
-1.  Create an account in DMPonline using the TU Delft template or the template provided by your institution.
-    
-2.  Go back to your slides or papers and post-it’s of your data flow maps and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.
-
-3.  Reflect on the following:
-
--   Were you able to answer all the questions on the DMP template using your Data Flow Map?
-    
--   If not, which sections were you not able to answer? What kind of additional information would you need?
-
-```{admonition} Activity
-:class: tip
-* Getting started with creating a DMP:
+```{admonition} Suggested Activity - Getting started with creating a DMP
+:class: tip, dropdown
 In this activity you will be creating an account for DMPonline, and use the TU Delft template to create a plan for your project. In the following document, [DMPonline user guide](https://brightspace.tudelft.nl/d2l/common/viewFile.d2lfile/Content/637384388228502429/DMPonline%20user%20guide_Jan.2020.pdf?ou=297772&fid=L2NvbnRlbnQvZW5mb3JjZWQvMjk3NzcyLWNvdXJzZS11Y28tZ3MtMjAyMC1yNGExLTAxL0RNUG9ubGluZSB1c2VyIGd1aWRlX0phbi4yMDIwLnBkZg), you will find a clear step-by-step guide to complete this activity. 
 
 We expect you to:
 
-1. Create an account in DMPonline
+✅ Create an account in DMPonline/
+✅ ‘Create a new plan’ for your project choosing:/
 
-2. ‘Create a new plan’ for your project choosing:
-
-1.  ‘Delft University of Technology’ as the primary research organisation
-    
-2.  Tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’
-    
-
+1. ‘Delft University of Technology’ as the primary research organisation. 
+2.  Tick ‘No funder associated with this plan or my funder is not listed’ in the ‘primary funding organisation’.
 3. Fill in the ‘Project Details’ according to your project.
+4. Go to ‘Write Plan’.
 
-4. Go to ‘Write Plan’
-
-5. Go back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map.
-
-6. If you don’t know how to answer any of the questions please let us know in the Discussion. We would also like to hear your reflections that came up while filling in the DMP.
+✅ Go back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map./
+✅ If you don’t know how to answer any of the questions please let us know in the Discussion. We would also like to hear your reflections that came up while filling in the DMP.
 ```
