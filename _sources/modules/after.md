@@ -102,7 +102,7 @@ Explore this website {fas}`arrow-right`
 **eScience Center**
 ^^^
 ```{image} https://www.esciencecenter.nl/wp-content/uploads/2023/02/netherlands-escience-center-logo-RGB-1024x282.png
-:height: 100
+:height: 60
 ```
 For those working with code/software, you can always check and attend the workshops of the NL eScience center.
 +++
