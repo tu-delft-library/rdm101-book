@@ -1,20 +1,15 @@
 # Course information
 
-
 This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.
 
 ## Learning Objectives
 
-After completing this course, you will be able to:
-
--   Realise the important role that good data management plays in research
-    
--   Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them.
-    
--   List the main components of the FAIR data principles and connect them to your own research workflows.
-    
--   Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
-    
+```{admonition} After completing this course, you will be able to:
+* Realise the important role that good data management plays in research
+* Identify different types of research data and recognize the regulations, policies and/or legal requirements associated with them.  
+* List the main components of the FAIR data principles and connect them to your own research workflows. 
+* Employ the acquired knowledge to design an efficient research data management strategy for your projects according to best practices.
+```  
 
 ## Course materials
 
@@ -84,10 +79,13 @@ Take a closer look at planning for RDM.
 :link-type: doc
 :class-header: bg-light
 
-Extra 🛠️
+Extra activities 🔥
 ^^^
 
 Create interactive and web-native components and services.
++++
+Explore this quiz {fas}`arrow-right`
+
 :::
 
 
@@ -95,16 +93,14 @@ Create interactive and web-native components and services.
 
 This course is organized into a few major sections.
 
-- **Modules** are step-by-step introductory guides to learn about RDM.
-- **Topic Guides** cover specific areas in more depth, and are organized as discrete "how-to" sections.
-- **Exercices** sections explaining suggested activities.
+- **Modules** are in depth introductory guides with text, quizzes and videos to learn about RDM.
+- **🏋️ Exercises** are activities cover specific areas in more depth.
+- **Suggested activity** are small sections to practice what you learnt.
 
 
 
 ## Background materials
-Parts of the content of this course are based on.
-You can find more in [{bdg-primary}`the Jupyter Book Gallery`](https://executablebooks.org/en/latest/gallery/).
-
+Parts of the content of this course are based on:
 
 ::::{card-carousel} 3
 
