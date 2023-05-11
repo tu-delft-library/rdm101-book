@@ -41,7 +41,7 @@ You probably found that this is a lot of information to process, don’t panic! 
 **Thanks for following the course! Keep taking care of the data and software of your project, you do relevant research, so your data and software matter!**
 
 
-```{admonition} provide some feedback?
+```{admonition} Provide some feedback?
 :class: tip, dropdown
 If you would like to provide some feedback about this Jupyter book version of the course, please use this form (feedback is anonymous): [https://forms.gle/6jzX4oV1UtKw2sgT9](https://forms.gle/6jzX4oV1UtKw2sgT9)
 ```
