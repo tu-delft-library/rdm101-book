@@ -42,3 +42,7 @@ Alternatively, you can run `deploy.sh` to automatically create and publish the c
 ## Open course
 Made with love by [Carlos Utrilla Guerrero](https://carlosug.github.io/). 
 Materials are released under the [CC-BY License 4.0](https://creativecommons.org/licenses/by/4.0/). You can use them as you like.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=tu-delft-library/rdm101-book&type=Date)](https://star-history.com/#tu-delft-library/rdm101-book&Date)
