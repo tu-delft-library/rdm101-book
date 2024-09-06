@@ -17,7 +17,7 @@ _The Turing Way project illustration by Scriberia. Zenodo_. [http://doi.org/10.5
 :::{grid-item}
 :columns: 8
 :class: sd-fs-3
-*Research Data Management 101 (RDM 101)*, an openly available self-learning course!
+The *Research Data Management 101 (RDM 101)* , an openly available and as a self-learning course!
 
 ```{button-ref} modules/module1
 :ref-type: doc

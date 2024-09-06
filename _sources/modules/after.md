@@ -30,7 +30,7 @@ We hope you  enjoyed the course, and you feel prepared to implement RDM best pra
 You probably found that this is a lot of information to process, don’t panic! If you have worked on the activities of the data flow maps or getting started with your DMP, you can use them to prioritise where to start.
 
 
-```{admonition} These are our recommendations:
+```{admonition} These are our recommendtions:
 :class: tip
 🔍 Start from the less challenging practices, get used to incorporating them in your daily workflows and then move on to incorporating the next maybe a bit more challenging ones\
 🔍 Permanently go back to your data flow map or your DMP to evaluate what is working and what needs to be improved, and update the plan accordingly\
@@ -41,7 +41,7 @@ You probably found that this is a lot of information to process, don’t panic! 
 **Thanks for following the course! Keep taking care of the data and software of your project, you do relevant research, so your data and software matter!**
 
 
-```{admonition} Provide some feedback?
+```{admonition} provide some feedback?
 :class: tip, dropdown
 If you would like to provide some feedback about this Jupyter book version of the course, please use this form (feedback is anonymous): [https://forms.gle/6jzX4oV1UtKw2sgT9](https://forms.gle/6jzX4oV1UtKw2sgT9)
 ```
@@ -129,21 +129,3 @@ Explore this website {fas}`arrow-right`
 <!-- For those working with code/software, you can always check and attend the workshops of the NL eScience center: [https://www.esciencecenter.nl/events/?f=workshops](https://www.esciencecenter.nl/events/?f=workshops) -->
 
 <!-- For those using R as their programming language or those who would be interested in starting to use it, you can join the R cafe sessions. You can find all the information about it here: [https://delft-rcafe.github.io/home/Index.html#sec-upcoming](https://delft-rcafe.github.io/home/Index.html#sec-upcoming) -->
-
-## How to cite this course?
-
-Martinez-Lavanchy, P.M., van Schöll, Pim, & Zormpa, Eirini. (2022, July 8). TU Delft Research Data Management 101 course. Zenodo. [https://doi.org/10.5281/zenodo.6325919](https://doi.org/10.5281/zenodo.6325919)
-
-```
-@misc{martinez_lavanchy_p_m_2022_6325919,
-  author       = {Martinez-Lavanchy, P.M. and
-                  van Schöll, Pim and
-                  Zormpa, Eirini},
-  title        = {TU Delft Research Data Management 101 course},
-  month        = jul,
-  year         = 2022,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.6325919},
-  url          = {https://doi.org/10.5281/zenodo.6325919}
-}
-```
