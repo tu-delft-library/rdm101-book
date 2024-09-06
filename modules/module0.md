@@ -1,6 +1,6 @@
 # Course information
 
-This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices within your workflow from the beginning of your projects. The application of this knowledge to your research will allow you to reflect on how to work efficiently and in a reproducible manner with your research data, while complying with funders and institutional requirements.
+This course provides PhD candidates with the essential knowledge and the core skills to manage research data according to best practice. You will be able to integrate good data management practices into your workflow from the start of your research project. Applying this knowledge to your research will allow you to reflect on how to work with your research data in an efficient and reproducible way, while meeting funder and institutional requirements.
 
 ## Learning Objectives
 
@@ -102,7 +102,7 @@ Explore this game {fas}`arrow-right`
 
 ::::
 
-This course is organized into a few major sections.
+The course is structured into several principal sections.
 
 - **Modules** are in depth introductory guides with text, quizzes and videos to learn about RDM.
 - **🏋️ Exercises** are activities cover specific areas in more depth.
