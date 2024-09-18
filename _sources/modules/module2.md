@@ -58,6 +58,9 @@ Research data can also be encountered in diverse formats during the data acquisi
 
 **De-identified Data:** De-identification goes a step further by removing or modifying both direct and indirect identifiers, making it extremely challenging to re-identify individuals. De-identified data is generally subject to fewer data protection requirements.
 
+### Test your knowledge
+<iframe src="https://tudelft.h5p.com/content/1292330937888450267/embed" aria-label="RDM_101: Recognizing Data Types Research Scenarios" width="100%" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
 We talked to some TU Delft researchers working in different disciplines and we asked them: ‘What is the research data you work with?’ Let’s see what they shared with us:
 
 ### What do you consider as data in your research field?
