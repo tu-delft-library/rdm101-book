@@ -387,18 +387,31 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#topic-1-data-within-the-research-workflows">Topic 1: Data within the research workflows</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-data-definition">Research Data definition</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data-within-the-research-workflow">2.1. Data within the research workflow</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-data-definitions">Research data definitions</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-data-categorised-by-recording-medium">Research Data categorised by recording medium</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-data-categorised-by-file-format">Research Data categorised by file format</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-data-categorised-by-data-protection-requirements">Research Data categorised by data protection requirements</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#what-do-you-consider-as-data-in-your-research-field">What do you consider as data in your research field?</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#confidential-data">Confidential Data</a></li>
 </ul>
 </li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#topic-2-the-relevant-rdm-steps-within-a-research-project">Topic 2: The relevant RDM steps within a research project</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#topic-3-research-data-infrastructure-at-tu-delft">Topic 3: Research Data infrastructure at TU Delft</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#quiz-use-cases-on-storage">Quiz - Use cases on storage</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data-management-in-a-research-project">2.2 Data Management in a Research project</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-rdm-questions-within-the-research-cycle">Relevant RDM questions within the research cycle</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#test-your-knowledge">Test your knowledge!</a></li>
 </ul>
 </li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#topic-4-the-responsibilities-for-phd-candidates-regarding-rdm-and-research-software-at-tu-delft">Topic 4: The responsibilities for PhD candidates regarding RDM and Research Software at TU Delft</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#research-data-infrastructure-at-tu-delft">2.3 Research Data Infrastructure at TU Delft</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#test-your-knowledge-use-cases-on-storage">Test your knowledge! - Use cases on storage</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-responsibilities-of-phd-candidates-regarding-rdm-and-research-software-at-tu-delft">2.4 The Responsibilities of PhD candidates Regarding RDM and Research Software at TU Delft</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Test your knowledge!</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-software-policy">Research Software Policy</a></li>
+</ul>
+</li>
 </ul>
             </nav>
         </div>
@@ -412,14 +425,14 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="module-2-essentials-for-research-data">
 <h1>Module 2: Essentials for Research Data<a class="headerlink" href="#module-2-essentials-for-research-data" title="Permalink to this heading">#</a></h1>
-<p>In this module, we start to dig deeper into RDM by introducing multiple topics concerning the essentials of RDM.</p>
-<div class="admonition-at-the-end-of-this-module-you-should-be-able-to admonition">
-<p class="admonition-title">At the end of this module you should be able to:</p>
+<p>In Module 2, we dig deeper into Research Data (and other research objects) and its management. You will learn to recognise different types of research data, what essential questions you need to ask yourself to start implementing RDM in your project and what are your obligations at TU Delft regarding research data and software management.</p>
+<div class="admonition-at-the-end-of-this-module-you-will-be-able-to admonition">
+<p class="admonition-title">At the end of this module you will be able to:</p>
 <ul class="simple">
 <li><p>Identify different types of research data</p></li>
-<li><p>Recognize what is considered confidential data in research</p></li>
+<li><p>Recognise what is considered confidential data in research</p></li>
 <li><p>Realise what RDM entails within a research project</p></li>
-<li><p>Recognize the responsibilities regarding RDM for TUD PhD candidates</p></li>
+<li><p>Recognise the responsibilities for TU Delft PhD candidates regarding RDM</p></li>
 <li><p>Store and back up the research data of your project in a secure manner</p></li>
 </ul>
 </div>
@@ -429,22 +442,38 @@ document.write(`
 ``` -->
 <div class="tip admonition">
 <p class="admonition-title">These are different activities in this module you should complete:</p>
-<p>✅ Watch the videos of TU Delft researchers telling you about the research data and confidential research data they work with<br />
-✅ If you work with personal data, read the information on the two linked websites<br />
+<p>✅ Learn about the different types of data and what confidential data is<br />
+✅ Watch the videos in which TU Delft researchers discuss their perspectives on research data and confidential research data<br />
 ✅ Look at the research cycle interactive image and the RDM questions you need to ask yourself at each step of your project<br />
 ✅ Watch the video about data storage &amp; infrastructure available at TU Delft<br />
 ✅ Complete the quiz about data storage<br />
 ✅ Read the TU Delft RDM framework</p>
 </div>
-<section id="topic-1-data-within-the-research-workflows">
-<h2>Topic 1: Data within the research workflows<a class="headerlink" href="#topic-1-data-within-the-research-workflows" title="Permalink to this heading">#</a></h2>
-<p>TU Delft researchers working in different disciplines shared their thoughts on what they consider as data in their research field and how they work with confidential data.</p>
-<p>In the next videos, we will get in touch with TU Delft researchers working in different disciplines. They share their thoughts on what they consider as data in their research field and how they work with confidential data. The first two videos are focused on Research Data and the last two videos are focused on Confidential Data.</p>
-<section id="research-data-definition">
-<h3>Research Data definition<a class="headerlink" href="#research-data-definition" title="Permalink to this heading">#</a></h3>
-<p>Research data is any information that has been collected, observed, generated or created to validate research findings.</p>
+<section id="data-within-the-research-workflow">
+<h2>2.1. Data within the research workflow<a class="headerlink" href="#data-within-the-research-workflow" title="Permalink to this heading">#</a></h2>
+<section id="research-data-definitions">
+<h3>Research data definitions<a class="headerlink" href="#research-data-definitions" title="Permalink to this heading">#</a></h3>
+<p>Research data is any information and/or (digital) object that has been collected, observed, generated or created to validate research findings.</p>
 <p>Depending on the discipline you work in, research data can be collected or produced in different ways. You can capture them in real-time (e.g. sensors, images), you can collect them using laboratory instruments and they can derive from interviews or numerical simulations, among others.</p>
-<p>Research Data can be digital such as tabular data, videos, algorithms, scripts, transcripts, codebooks, etc. But, they can also be non-digital, for example, laboratory samples, sketchbooks, prototypes, etc.</p>
+<p>Data can be classified in various ways, which is important for effective data management. The following categories provide a structured framework for understanding and working with research data:</p>
+</section>
+<section id="research-data-categorised-by-recording-medium">
+<h3>Research Data categorised by recording medium<a class="headerlink" href="#research-data-categorised-by-recording-medium" title="Permalink to this heading">#</a></h3>
+<p><strong>Digital data</strong> including tabular data, images, videos, algorithms, scripts, transcripts, codebooks, etc.</p>
+<p><strong>Non-digital data</strong>  including laboratory samples, sketchbooks, prototypes, etc.
+Research software/code:</strong></span> Computer programs or code developed and utilised in research activities to support data collection, analysis, modelling, or visualisation.</p></p>
+</section>
+<section id="research-data-categorised-by-file-format">
+<h3>Research Data categorised by file format<a class="headerlink" href="#research-data-categorised-by-file-format" title="Permalink to this heading">#</a></h3>
+<p>Research data can also be encountered in diverse formats during the data acquisition process reflecting the specific needs and characteristics of each scientific domain. The ability to access and reuse your data in the future depends on the chosen format. If the associated software/hardware is no longer used, data may become inaccessible. To ensure the longevity and accessibility of your research data, it is strongly recommended to use standard, exchangeable, or open file formats. 4TU.ResearchData - the partner of TU Delft, provides a list of preferred file formats for which they guarantee long-term support. You can access this list <a class="reference external" href="https://data.4tu.nl/s/documents/Preferred_File_Formats_2019.pdf">here</a></p>
+</section>
+<section id="research-data-categorised-by-data-protection-requirements">
+<h3>Research Data categorised by data protection requirements<a class="headerlink" href="#research-data-categorised-by-data-protection-requirements" title="Permalink to this heading">#</a></h3>
+<p><strong>Personal Data:</strong>  This category includes data that can directly or indirectly identify individuals. Examples include names, addresses, social security numbers, etc. Personal data requires stringent privacy safeguards.</p>
+<p><strong>Non-Personal Data:</strong>  This category comprises data that cannot identify individuals, making it less sensitive from a privacy standpoint. However, ethical and legal guidelines still apply to non-personal data.</p>
+<p><strong>Anonymized Data:</strong>  Anonymization involves the removal of personal information. Therefore anonymized data is often considered less sensitive and may have fewer data protection requirements.</p>
+<p><strong>Pseudonymized Data:</strong>  Pseudonymization involves replacing identifiable information with pseudonyms or codes. While it reduces the risk of identifying individuals, it may still be subject to data protection regulations depending on the level of re-identification risk.</p>
+<p><strong>De-identified Data:</strong> De-identification goes a step further by removing or modifying both direct and indirect identifiers, making it extremely challenging to re-identify individuals. De-identified data is generally subject to fewer data protection requirements.</p>
 <p>We talked to some TU Delft researchers working in different disciplines and we asked them: ‘What is the research data you work with?’ Let’s see what they shared with us:</p>
 </section>
 <section id="what-do-you-consider-as-data-in-your-research-field">
@@ -481,6 +510,11 @@ This text is **standard** _Markdown_
 <li><p>politically-sensitive data (e.g. research commissioned by public authorities, research on societal issues)</p></li>
 </ul>
 <p>When working with confidential data, you need additional security measures for your data to make sure that they are not accidentally released.</p>
+<p>If you work with personal data, please take the time to check these websites with relevant information to follow TU Delft policies:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.tudelft.nl/en/library/research-data-management/r/manage/confidential-data/personal-data/">TU Delft personal research data workflow</a></p></li>
+<li><p><a class="reference external" href="https://tud365.sharepoint.com/sites/SecurityPrivacyTUD/SitePages/en/Privacy.aspx">TU Delft privacy website</a></p></li>
+</ul>
 <p>In the next two videos, researchers from TU Delft tell us about the confidential data they work with and what RDM best-practice they follow:</p>
 <p><strong>📽️ Sian Jones talking about collaboration with industry</strong></p>
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/218ff5c8c68d4f74abb58ee3150a77731d" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -493,35 +527,50 @@ This text is **standard** _Markdown_
 </ul>
 </section>
 </section>
-<section id="topic-2-the-relevant-rdm-steps-within-a-research-project">
-<h2>Topic 2: The relevant RDM steps within a research project<a class="headerlink" href="#topic-2-the-relevant-rdm-steps-within-a-research-project" title="Permalink to this heading">#</a></h2>
-<p>In the following interactive image you can go through a simplified cycle which can represent the workflow of your project. Have a look at the RDM questions you might need to ask yourself at each step of research.
-In the following interactive image you can go through a simplified cycle which can represent your project. Have a look at the RDM questions you might ask at each step of research.</p>
+<section id="data-management-in-a-research-project">
+<h2>2.2 Data Management in a Research project<a class="headerlink" href="#data-management-in-a-research-project" title="Permalink to this heading">#</a></h2>
+<section id="relevant-rdm-questions-within-the-research-cycle">
+<h3>Relevant RDM questions within the research cycle<a class="headerlink" href="#relevant-rdm-questions-within-the-research-cycle" title="Permalink to this heading">#</a></h3>
+<p>In the following interactive image you can go through a simplified cycle which can represent the workflow of your project. Have a look at the RDM questions you might need to ask yourself at each step of research.</p>
 <iframe src="https://maribelbarreracoronel.github.io/Cycle/genially_64414739aac7da0018e81043%20(1)/genially.html" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 <!-- <iframe src="https://tu-delft-library.github.io/rdm101-book/genially_64414739aac7da0018e81043%20(1)/genially.html" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script> -->
+<section id="test-your-knowledge">
+<h4>Test your knowledge!<a class="headerlink" href="#test-your-knowledge" title="Permalink to this heading">#</a></h4>
+<iframe src="https://tudelft.h5p.com/content/1292011079736038597/embed" aria-label="The relevant RDM steps within a research project" width="100%" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 </section>
-<section id="topic-3-research-data-infrastructure-at-tu-delft">
-<h2>Topic 3: Research Data infrastructure at TU Delft<a class="headerlink" href="#topic-3-research-data-infrastructure-at-tu-delft" title="Permalink to this heading">#</a></h2>
-<p>Before starting the data collection/creation within your project, it is good to reflect where you will store and how you will back up the data. Selecting a storage and backup strategy will mean that data is safe during your research project, including in the case of unpredicted problems. Following good data storage practices protect you from data loss and facilitate effective collaborations.</p>
-<p>In this video, we will go through the infrastructure provided centrally at TU Delft for storing, backup and sharing Research Data. You should ask your supervisor if within your research group/department/ project there is a preferred approach for data storage and backup, or if there are customised solutions already in place.</p>
-<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/4a9b2b00f7c34c0dbaf78f4472f1a54e1d" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-<iframe src="https://tudelft.h5p.com/content/1291935015823633397/embed" aria-label="Module 2- Topic 3 - resources" width="100%" height="337" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-<section id="quiz-use-cases-on-storage">
-<h3>Quiz - Use cases on storage<a class="headerlink" href="#quiz-use-cases-on-storage" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
+<section id="research-data-infrastructure-at-tu-delft">
+<h2>2.3 Research Data Infrastructure at TU Delft<a class="headerlink" href="#research-data-infrastructure-at-tu-delft" title="Permalink to this heading">#</a></h2>
+<p>Before starting the data collection/creation within your project, it is important to reflect where you will store and how you will back up the data. Selecting a storage and backup strategy will ensure that data is safe during your research project, including in the case of unpredicted problems. Following best practices on data storage and backup can help protect against data loss and facilitate effective collaboration.</p>
+<p>In this video, we will go through the infrastructure provided centrally at TU Delft for storing, backup and sharing Research Data. You should ask your supervisor if there is a preferred approach for data storage and backup within your research group/department/ project, or if there are customised solutions already in place.</p>
+<iframe title="Data Storage and sharing at TU Delft " width="100%" height="437" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/4a9b2b00f7c34c0dbaf78f4472f1a54e1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+<section id="test-your-knowledge-use-cases-on-storage">
+<h3>Test your knowledge! - Use cases on storage<a class="headerlink" href="#test-your-knowledge-use-cases-on-storage" title="Permalink to this heading">#</a></h3>
 <p>After the topic on the Research data infrastructure, you should now be able to answer the questions of this quiz. Good luck!</p>
-<iframe src="https://tudelft.h5p.com/content/1291897225745963647/embed" aria-label="Use Storage Cases" width="80%" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291897225745963647/embed" aria-label="Use Storage Cases" width="100%" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1291935015823633397/embed" aria-label="Module 2- Topic 3 - resources" width="100%" height="337" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 </section>
 </section>
-<section id="topic-4-the-responsibilities-for-phd-candidates-regarding-rdm-and-research-software-at-tu-delft">
-<h2>Topic 4: The responsibilities for PhD candidates regarding RDM and Research Software at TU Delft<a class="headerlink" href="#topic-4-the-responsibilities-for-phd-candidates-regarding-rdm-and-research-software-at-tu-delft" title="Permalink to this heading">#</a></h2>
+<section id="the-responsibilities-of-phd-candidates-regarding-rdm-and-research-software-at-tu-delft">
+<h2>2.4 The Responsibilities of PhD candidates Regarding RDM and Research Software at TU Delft<a class="headerlink" href="#the-responsibilities-of-phd-candidates-regarding-rdm-and-research-software-at-tu-delft" title="Permalink to this heading">#</a></h2>
 <p>In this section we would like to make you aware of the responsibilities of TU Delft PhD candidates regarding Research Data Management. These responsibilities are detailed in the University and Faculty Policies.</p>
-<p>It is very important for TU Delft that researchers follow best practices on Research Data Management (RDM). That is why since 2018 TU Delft has published a set of policies which provide a clear division of roles and responsibilities around RDM.</p>
+<p>It is very important for TU Delft that researchers follow best practices on Research Data and Software Management. That is why TU Delft has been publishing policies since 2018. The policies provide a clear vision of the rules and responsibilities around Research Data and Software Management.</p>
 <p><a class="reference external" href="http://doi.org/10.5281/zenodo.4088123"><span class="sd-sphinx-override sd-badge sd-bg-primary sd-bg-text-primary">Click to read the Research Data framework policy 📖</span></a></p>
 <!-- - Research Data framework policy - [http://doi.org/10.5281/zenodo.4088123](http://doi.org/10.5281/zenodo.4088123) -->
 <p>This Framework policy is accompanied by Faculty-specific research data management policies, which provide more detailed requirements and guidelines for the disciplines associated with each Faculty.</p>
 <p><a class="reference external" href="https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/"><span class="sd-sphinx-override sd-badge sd-bg-primary sd-bg-text-primary">Click to read Faculty Research Data Management Policies 📖</span></a></p>
 <!-- - Faculty Research Data Management Policies - [https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/) -->
-<p>Software is recognised at TU Delft as a valuable research output that needs to be well documented, preserved and, whenever possible, consistent with the FAIR principles. The TU Delft Research Software Policy provides a clear division of roles and responsibilities and sets out a simplified, streamlined process to help researchers share software openly. Check these resources:</p>
+<section id="id1">
+<h3>Test your knowledge!<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
+<iframe src="https://tudelft.h5p.com/content/1292011102513270877/embed" aria-label="Module 2 Topic 4: The responsibilities for PhD candidates" width="100%" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+<script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+</section>
+<section id="research-software-policy">
+<h3>Research Software Policy<a class="headerlink" href="#research-software-policy" title="Permalink to this heading">#</a></h3>
+<p>At TU Delft, software is recognised as a valuable research output. Therefore, software should be well documented, preserved and, whenever possible, consistent with the FAIR principles (should be well-managed the same as research data). The TU Delft Research Software Policy provides a clear division of roles and responsibilities. It also sets out a simplified and streamlined process to help researchers share software.
+Software is recognised at TU Delft as a valuable research output that needs to be well documented, preserved and, whenever possible, consistent with the FAIR principles.</p>
+<p>Check these resources:</p>
 <p><a class="reference external" href="https://zenodo.org/record/4629662"><span class="sd-sphinx-override sd-badge sd-bg-primary sd-bg-text-primary">TU Delft Research Software Policy 📖</span></a><br />
 <a class="reference external" href="https://doi.org/10.5281/zenodo.4629635"><span class="sd-sphinx-override sd-badge sd-bg-primary sd-bg-text-primary">TU Delft Guidelines on Research Software 📖</span></a></p>
 <!-- - TU Delft Research Software Policy: [https://zenodo.org/record/4629662](https://zenodo.org/record/4629662)
@@ -530,6 +579,7 @@ In the following interactive image you can go through a simplified cycle which c
 <p class="admonition-title">Question to you:</p>
 <p>Were you already aware of any of these policies? And, now that you have looked at the different policies, are your responsibilities regarding Research Data and Software management clear to you?</p>
 </div>
+</section>
 </section>
 <div class="toctree-wrapper compound">
 </div>
@@ -598,18 +648,31 @@ In the following interactive image you can go through a simplified cycle which c
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#topic-1-data-within-the-research-workflows">Topic 1: Data within the research workflows</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-data-definition">Research Data definition</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data-within-the-research-workflow">2.1. Data within the research workflow</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-data-definitions">Research data definitions</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-data-categorised-by-recording-medium">Research Data categorised by recording medium</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-data-categorised-by-file-format">Research Data categorised by file format</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-data-categorised-by-data-protection-requirements">Research Data categorised by data protection requirements</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#what-do-you-consider-as-data-in-your-research-field">What do you consider as data in your research field?</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#confidential-data">Confidential Data</a></li>
 </ul>
 </li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#topic-2-the-relevant-rdm-steps-within-a-research-project">Topic 2: The relevant RDM steps within a research project</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#topic-3-research-data-infrastructure-at-tu-delft">Topic 3: Research Data infrastructure at TU Delft</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#quiz-use-cases-on-storage">Quiz - Use cases on storage</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data-management-in-a-research-project">2.2 Data Management in a Research project</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-rdm-questions-within-the-research-cycle">Relevant RDM questions within the research cycle</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#test-your-knowledge">Test your knowledge!</a></li>
 </ul>
 </li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#topic-4-the-responsibilities-for-phd-candidates-regarding-rdm-and-research-software-at-tu-delft">Topic 4: The responsibilities for PhD candidates regarding RDM and Research Software at TU Delft</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#research-data-infrastructure-at-tu-delft">2.3 Research Data Infrastructure at TU Delft</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#test-your-knowledge-use-cases-on-storage">Test your knowledge! - Use cases on storage</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-responsibilities-of-phd-candidates-regarding-rdm-and-research-software-at-tu-delft">2.4 The Responsibilities of PhD candidates Regarding RDM and Research Software at TU Delft</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Test your knowledge!</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#research-software-policy">Research Software Policy</a></li>
+</ul>
+</li>
 </ul>
   </nav></div>
 
