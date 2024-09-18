@@ -99,7 +99,7 @@ For more information about the courses offered at TU Delft visit [this site](htt
 Retrieve all materials by cloning the <i class="fab fa-github"></i> [GitHub repo](https://github.com/tu-delft-library/rdm101-book).
 :::
 
-
+::::
 
 # Acknowledgements
 
@@ -110,7 +110,7 @@ The course was created in a collaborative effort of the Research Data Services t
 :::{grid-item}
 :columns: 4
 
-```{image} https://d2k0ddhflgrk1i.cloudfront.net/Websections/Huisstijl/Bouwstenen/Logo/Descriptor/TUDelft_logo_descriptor_rgb.png
+```{image} https://seeklogo.com/images/T/TU_Delft-logo-D6086E1A70-seeklogo.com.png
 :class: m-auto
 :width: 200px
 ```

@@ -1,12 +1,12 @@
-# Module 1: The importance of RDM
-The first module of this course is all about awareness. Why do we find RDM so important? During this module we will share different perspectives about the importance of RDM in ensuring research reproducibility.
+# Module 1: The Importance of RDM
+The first module of this course is all about awareness. Why is RDM so important? During this module we will share different perspectives and discuss the importance of reproducibility.
 
 ```{admonition} At the end of this module you should be able to:
 * Recognize the importance of research data management 
 * Explain why RDM is relevant for reproducibility and re-use of data
 ```
 
-## Why care about RDM?
+## 1.1 Why is RDM important?
 
 Watch the presentation about the importance of RDM and hear what other researchers have as their worst nightmare. Why should you be aware of your Research Data Management?
 

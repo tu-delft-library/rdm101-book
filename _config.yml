@@ -4,7 +4,7 @@
 title: RDM101 Course
 author: Carlos Utrilla Guerrero and Maribel Barrera-Coronel
 logo: images/favicon.png
-copyright: "2023. Attribution 4.0 International (CC BY 4.0)"  # Copyright year to be placed in the footer
+copyright: "2024. Attribution 4.0 International (CC BY 4.0)"  # Copyright year to be placed in the footer
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -34,7 +34,7 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  announcement: "⚠️This is a beta version. We will release the 0.0 version in production shortly!⚠️"
+  announcement: "⚠️This is a beta version. We will release the 1.0 version in production shortly!⚠️"
   use_issues_button: true
   use_repository_button: true
   favicon: images/favicon.png

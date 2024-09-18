@@ -19,39 +19,40 @@ There are different activities in this module you should complete
 ✅ Watch the 📽️ video about the key elements to make data FAIR and complete the ‘fill in the blanks’ quiz
 ```
 
-## Topic 1: Why and how were the FAIR principles created?
+## 3.1 FAIR data principles
+### Why and How Were the FAIR Principles Created?
 
 The FAIR principles were created in order to maximise the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science.
 
 Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Re-usable.
 
--   Findable means that others (both human and machines) can discover the data
+-   **Findable** means that others (both human and machines) can discover the data
     
--   Accessible means that the data can be made available to others
+-   **Accessible** means that the data can be made available to others
     
--   Interoperable means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.
+-   **Interoperable** means that the data can be integrated with other data and can be easily used by machines or in data analysis workflows.
     
--   Reusable means that the data can be used for new research
+-   **Reusable** means that the data can be used for new research
     
 
 These four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.
 
 The FAIR Data principles **are NOT**:
 
--   A standard. The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. The FAIR principles should be rather seen as progressive steps that help you make your data re-usable.
+-   **A standard.** The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. The FAIR principles should be rather seen as progressive steps that help you make your data re-usable.
     
--   Equivalent to Open Data. FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.
+-   **Equivalent to Open Data.** FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.
     
--   Applied using a particular technology or tool. There might be different tools that enable FAIR data within different disciplines or research workflows.
+-   **Applied using a particular technology or tool.** There might be different tools that enable FAIR data within different disciplines or research workflows.
     
 
 There are important elements to consider within your research workflows if you aim to make the data of your project FAIR:
 
--   Documentation & Metadata
--   Interoperability    
--   Access to data    
--   Persistent identifiers    
--   Licences
+-   **Documentation & Metadata**
+-   **Interoperability**    
+-   **Access to data**    
+-   **Persistent identifiers**    
+-   **Licences**
     
 
 In the next 📽️ videos we will explore these different elements and their importance to make the data of your project FAIR.
@@ -116,8 +117,25 @@ By now, you have learned about different elements that help you make the data of
 
   
 
-### Additional reading: How do the FAIR principles apply to software?
+### Additional Resource: How do the FAIR principles apply to software?
 
-To improve the sharing and reuse of research software, more than 500 contributors around the globe worked for two years in the creation of the ‘FAIR Principles for Research Software’ (FAIR4RS). The contributors have applied the FAIR Guiding Principles for scientific data management and stewardship to research software. Many of the FAIR Guiding Principles can be directly applied to research software by treating software and data as similar digital research objects. However, specific characteristics of software made it necessary to revise and extend the principles.
 
-FAIR Principles for Research Software (FAIR4RS Principles) (1.0). [https://doi.org/10.15497/RDA00068](https://doi.org/10.15497/RDA00068)
+**If Research Software is one of the main outputs of your projects, we strongly recommend you to take** **a couple of extra minutes exploring this section!**
+
+To improve the sharing and reuse of research software, more than 500 contributors around the globe worked for two years in the creation of the ‘FAIR Principles for Research Software’ (FAIR4RS). Many of the FAIR Guiding Principles for research data can be directly applied to research software by treating software and data as similar digital research objects. However, specific characteristics of software — such as its executability, composite nature, and continuous evolution and versioning — make it necessary to revise and extend the principles. Let’s hear from Maurits, one of TU Delft research software engineers, how the FAIR principle apply to Research Software and the distinction between FAIR software and open source:
+<iframe title="Fair_and_open_software-video" width="100%" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/deb1f179d53a4ef899b7f3df9f939d151d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+
+
+
+> FAIR and Open Software. Video recording from TU Delft MOOC Open
+> Science: Sharing Your Research with the World. Presenter: Dr. Maurits
+> Kok. Credits: TU Delft Extension School, TU Delft New Media Center, TU
+> Delft Digital Competence Center. Licence: CC-BY-NC-SA.
+
+
+
+If you develop software within your PhD project, we highly encourage you to follow the FAIR software checklist prepared by the TU Delft Digital Competence Center (DCC):  [https://tu-delft-dcc.github.io/software/checklist.html](https://tu-delft-dcc.github.io/software/checklist.html)
+
+If you are interested to learn more in depth about FAIR Principles for Research Software, check this publication:  [https://doi.org/10.15497/RDA00068](https://doi.org/10.15497/RDA00068)
+
+
