@@ -1,12 +1,12 @@
 # Module 5 - How to plan for RDM
 
-In module 5 we will take a closer look at planning for RDM. In relation to this, data management plans and the tool DMPonline will be further explained. 
+In Module 5 we will take a closer look at planning for RDM. In relation to this, data management plans and the tool DMPonline will be developed.
 
 ```{admonition} At the end of this module you should be able to:
-* Recognize the relevance of planning research data management   
+* Recognise the relevance of planning research data management   
 * Get familiar with the concept of DMP and its format 
 * Create a data management plan using the appropriate tool 
-* Recognize the value of creating a DMP
+* Recognise the value of creating a DMP
 ```
 
 ```{admonition} There are different activities in this module you should complete:
@@ -16,7 +16,7 @@ In module 5 we will take a closer look at planning for RDM. In relation to this,
 ✅ Complete the suggested activity of creating a DMP using the tool DMP online
 ```   
 
-## Topic 1: What is a data management plan?
+## 5.1 Data Management Plan (DMP)
 
 Watch the following 📽️ video for an introduction on what a data management plan is and its key elements.
 
@@ -24,7 +24,15 @@ Watch the following 📽️ video for an introduction on what a data management 
 
 Script adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). [doi: 10.11581/dtu:00000047](https://vidensportal.deic.dk/en/RDMELearn)
 
-## Topic 2: Why create a data management plan?
+**Test your knowledge**
+<iframe src="https://tudelft.h5p.com/content/1292012997557815077/embed" aria-label="Quiz for Module 5 - Video What is a data management plan? V2" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
+### Additional reading: What is a Software Management Plan?
+If you are working with computer code or developing software within your PhD project, merely sharing the code/software is insufficient to guarantee the reproducibility of research. You will need to think about the ways of sharing the code/software underpinning your research in a proper manner. A Software Management Plan helps to implement best practices during software development and ensures that software is accessible and reusable in the short and longer term. It also contributes to the reproducibility of results and stimulates collaborative work on open-source software for research.
+Have a look at this ‘Practical guide to Software Management Plans’
+[https://zenodo.org/record/7248877](https://zenodo.org/record/7248877)
+
+## 5.2 Why to Create a Data Management Plan (DMP)?
 
 Watch the following 📽️ video in which a researcher and a data steward talk about the importance of creating a data management plan.
 
@@ -36,7 +44,7 @@ Watch the following 📽️ video in which a researcher and a data steward talk 
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/5cd7a7217c7f4e9b986d8e05909271471d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## Topic 3: Introduction to DMP online
+## 5.3 Introduction to DMPonline
 
 This introduction will provide you with a step-by-step guide for creating a DMPonline account and with an explanation of its main features. You can create your own account and explore the TU Delft template.
 
@@ -63,5 +71,5 @@ We expect you to:
 4. Go to ‘Write Plan’.
 
 ✅ Go back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map./
-✅ If you don’t know how to answer any of the questions please let us know in the Discussion. We would also like to hear your reflections that came up while filling in the DMP.
+
 ```
