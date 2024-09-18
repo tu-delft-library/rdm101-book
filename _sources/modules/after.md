@@ -50,7 +50,7 @@ If you would like to provide some feedback about this Jupyter book version of th
 
 Remember that if you have additional questions, you can always contact your Faculty Data Stewards: [https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact](https://www.tudelft.nl/library/research-data-management/r/support/data-stewardship/contact)
 
-You can also get in touch with the TU Delft Digital Competence Centre (DCC) for getting support on making research data FAIR, improve research software, and apply computing practices to increase the efficiency of the research process: https://www.tudelft.nl/en/library/library-for-researchers/library-for-researchers/setting-up-research/dcc
+You can also get in touch with the TU Delft Digital Competence Centre (DCC) for getting support on making research data FAIR, improve research software, and apply computing practices to increase the efficiency of the research process: https://www.tudelft.nl/en/library/support/library-for-researchers/setting-up-research/dcc
 
 The Library also provides a website with a lot of useful information about RDM: [https://www.tudelft.nl/en/library/research-data-management](https://www.tudelft.nl/en/library/research-data-management)
 
@@ -78,7 +78,7 @@ Explore this website {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://www.tudelft.nl/en/library/research-data-management/r/training-events/training-for-researchers/personal-data-human-subjects-in-research
+:link: https://www.tudelft.nl/en/library/support/library-for-researchers/setting-up-research/dcc
 
 **Personal Data & Human Subjects in Research**
 ^^^
@@ -111,7 +111,7 @@ Explore this website {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://delft-rcafe.github.io/home/Index.html#sec-upcoming
+:link: https://delft-rcafe.github.io/home/
 **R Cafe**
 ^^^
 ```{image} https://d2k0ddhflgrk1i.cloudfront.net/Library/Collecties/iconen/R_cafe_logo.png
@@ -128,4 +128,4 @@ Explore this website {fas}`arrow-right`
 
 <!-- For those working with code/software, you can always check and attend the workshops of the NL eScience center: [https://www.esciencecenter.nl/events/?f=workshops](https://www.esciencecenter.nl/events/?f=workshops) -->
 
-<!-- For those using R as their programming language or those who would be interested in starting to use it, you can join the R cafe sessions. You can find all the information about it here: [https://delft-rcafe.github.io/home/Index.html#sec-upcoming](https://delft-rcafe.github.io/home/Index.html#sec-upcoming) -->
+<!-- For those using R as their programming language or those who would be interested in starting to use it, you can join the R cafe sessions. You can find all the information about it here: [https://delft-rcafe.github.io/home/](https://delft-rcafe.github.io/home/) -->
