@@ -50,7 +50,7 @@ It is important to note that no credits or certificates will be awarded upon com
 
 # Connect with us
 
-We are an international team focuses on teaching open science that welcomes discussion, feedback, and contributions of many kinds.
+We are an international team focused on teaching open science that welcomes discussion, feedback, and contributions of many kinds.
 Here are a few ways to connect more with us.
 
 ::::{grid} 1 1 2 2
@@ -74,8 +74,8 @@ We have community discussions, talk about ideas, and share general questions and
 
 🙌 Have some feedback?
 ^^^
-If you notice any issue, or have suggestions or requests, please go the
-<i class="fab fa-github"></i> [issue tracker](https://github.com/tu-delft-library/rdm101-book/issues) or directly click on the  <i class="fab fa-github"></i> icon on top of the page and then 'open issue`. We also welcome pull requests.
+If you notice any issue, or have suggestions or requests, please go to the
+<i class="fab fa-github"></i> [issue tracker](https://github.com/tu-delft-library/rdm101-book/issues) or directly click at the  <i class="fab fa-github"></i> icon on top of the page and then 'open issue`. We also welcome pull requests.
 :::
 
 :::{grid-item-card}
