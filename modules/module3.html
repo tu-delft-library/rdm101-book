@@ -1,13 +1,12 @@
 
-
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html lang="en" data-content_root="../" >
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>Module 3 - FAIR data principles and their main elements &#8212; RDM101 Course</title>
   
@@ -15,55 +14,51 @@
   
   <script data-cfasync="false">
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
-    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=927b94d3fcb96560df09" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=927b94d3fcb96560df09" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=927b94d3fcb96560df09" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
 
   
-  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=927b94d3fcb96560df09" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
-    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=927b94d3fcb96560df09" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=927b94d3fcb96560df09" />
-  <script src="../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=927b94d3fcb96560df09"></script>
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
-    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
-    <script src="../_static/jquery.js"></script>
-    <script src="../_static/underscore.js"></script>
-    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
-    <script src="../_static/doctools.js"></script>
-    <script src="../_static/clipboard.min.js"></script>
-    <script src="../_static/copybutton.js"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=888ff710"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script src="../_static/design-tabs.js"></script>
-    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
-const thebe_selector = ".thebe,.cell"
-const thebe_selector_input = "pre"
-const thebe_selector_output = ".output, .cell_output"
-</script>
-    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script src="../_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'modules/module3';</script>
-    <link rel="shortcut icon" href="../_static/favicon.png"/>
+    <link rel="icon" href="../_static/favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Module 4 - Realizing FAIR data" href="module4.html" />
@@ -77,28 +72,23 @@ const thebe_selector_output = ".output, .cell_output"
 
   
   
-  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
   
   <div id="pst-scroll-pixel-helper"></div>
-
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
-    <i class="fa-solid fa-arrow-up"></i>
-    Back to top
-  </button>
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
   <input type="checkbox"
           class="sidebar-toggle"
-          name="__primary"
-          id="__primary"/>
-  <label class="overlay overlay-primary" for="__primary"></label>
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
   <input type="checkbox"
           class="sidebar-toggle"
-          name="__secondary"
-          id="__secondary"/>
-  <label class="overlay overlay-secondary" for="__secondary"></label>
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
   <div class="search-button__wrapper">
     <div class="search-button__overlay"></div>
@@ -121,17 +111,22 @@ const thebe_selector_output = ".output, .cell_output"
 </form></div>
   </div>
 
-
-  <div class="bd-header-announcement container-fluid bd-header-announcement">
-    <div class="bd-header-announcement__content">⚠️This is a beta version. We will release the 1.0 version in production shortly!⚠️</div>
-  </div>
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+<aside class="bd-header-announcement" aria-label="Announcement">
+  <div class="bd-header-announcement__content">⚠️This is a beta version. We will release the 1.0 version in production shortly!⚠️</div>
+</aside>
 
   
-    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
-    </nav>
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
   
+
   <div class="bd-container">
     <div class="bd-container__inner bd-page-width">
+      
+      
       
       <div class="bd-sidebar-primary bd-sidebar">
         
@@ -146,9 +141,13 @@ const thebe_selector_output = ".output, .cell_output"
   
     <div class="sidebar-primary-items__start sidebar-primary__section">
         <div class="sidebar-primary-item">
+
+  
+    
   
 
 <a class="navbar-brand logo" href="../intro.html">
+  
   
   
   
@@ -158,12 +157,23 @@ const thebe_selector_output = ".output, .cell_output"
       
     
     
-    <img src="../_static/favicon.png" class="logo__image only-light" alt="Logo image"/>
-    <script>document.write(`<img src="../_static/favicon.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+    <img src="../_static/favicon.png" class="logo__image only-light" alt="RDM101 Course - Home"/>
+    <script>document.write(`<img src="../_static/favicon.png" class="logo__image only-dark" alt="RDM101 Course - Home"/>`);</script>
   
   
 </a></div>
-        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
@@ -179,17 +189,17 @@ const thebe_selector_output = ".output, .cell_output"
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Modules and Exercises</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="module1.html">Module 1: The Importance of RDM</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="module2.html">Module 2: Essentials for Research Data</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="module2.html">Module 2: Essentials for Research Data</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
 <li class="toctree-l2"><a class="reference internal" href="../practice/exercise1.html">🏋️ Exercise: Data Flow Map Part 1</a></li>
 </ul>
-</li>
+</details></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Module 3 - FAIR data principles and their main elements</a></li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="module4.html">Module 4 - Realizing FAIR data</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="module4.html">Module 4 - Realizing FAIR data</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
 <li class="toctree-l2"><a class="reference internal" href="../practice/exercise2.html">🏋️ Exercise: Exploring documentation methods &amp; tools</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../practice/exercise3.html">🏋️ Exercise: Exploring the FAIRness of datasets</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../practice/exercise4.html">🏋️ Exercise: Data Flow Map Part 2</a></li>
 </ul>
-</li>
+</details></li>
 <li class="toctree-l1"><a class="reference internal" href="module5.html">Module 5 - How to plan for RDM</a></li>
 </ul>
 <ul class="nav bd-sidenav">
@@ -209,7 +219,7 @@ const thebe_selector_output = ".output, .cell_output"
 
       </div>
       
-      <main id="main-content" class="bd-main">
+      <main id="main-content" class="bd-main" role="main">
         
         
 
@@ -218,14 +228,14 @@ const thebe_selector_output = ".output, .cell_output"
           <div class="bd-content">
             <div class="bd-article-container">
               
-              <div class="bd-header-article">
+              <div class="bd-header-article d-print-none">
 <div class="header-article-items header-article__inner">
   
     <div class="header-article-items__start">
       
-        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
   <span class="fa-solid fa-bars"></span>
-</label></div>
+</button></div>
       
     </div>
   
@@ -347,26 +357,28 @@ const thebe_selector_output = ".output, .cell_output"
 </button>
 
 
+
 <script>
 document.write(`
-  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
-    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
-    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
   </button>
 `);
 </script>
 
+
 <script>
 document.write(`
-  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
   </button>
 `);
 </script>
-<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
-</label>
+</button>
 </div></div>
       
     </div>
@@ -410,10 +422,10 @@ document.write(`
               
                 
 <div id="searchbox"></div>
-                <article class="bd-article" role="main">
+                <article class="bd-article">
                   
   <section class="tex2jax_ignore mathjax_ignore" id="module-3-fair-data-principles-and-their-main-elements">
-<h1>Module 3 - FAIR data principles and their main elements<a class="headerlink" href="#module-3-fair-data-principles-and-their-main-elements" title="Permalink to this heading">#</a></h1>
+<h1>Module 3 - FAIR data principles and their main elements<a class="headerlink" href="#module-3-fair-data-principles-and-their-main-elements" title="Link to this heading">#</a></h1>
 <p>In this module, we will discover the FAIR data principles and their main elements.</p>
 <div class="admonition-at-the-end-of-this-module-you-should-be-able-to admonition">
 <p class="admonition-title">At the end of this module you should be able to:</p>
@@ -429,9 +441,9 @@ document.write(`
 ✅ Watch the 📽️ video about the key elements to make data FAIR and complete the ‘fill in the blanks’ quiz</p>
 </div>
 <section id="fair-data-principles">
-<h2>3.1 FAIR data principles<a class="headerlink" href="#fair-data-principles" title="Permalink to this heading">#</a></h2>
+<h2>3.1 FAIR data principles<a class="headerlink" href="#fair-data-principles" title="Link to this heading">#</a></h2>
 <section id="why-and-how-were-the-fair-principles-created">
-<h3>Why and How Were the FAIR Principles Created?<a class="headerlink" href="#why-and-how-were-the-fair-principles-created" title="Permalink to this heading">#</a></h3>
+<h3>Why and How Were the FAIR Principles Created?<a class="headerlink" href="#why-and-how-were-the-fair-principles-created" title="Link to this heading">#</a></h3>
 <p>The FAIR principles were created in order to maximise the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science.</p>
 <p>Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Re-usable.</p>
 <ul class="simple">
@@ -459,47 +471,47 @@ document.write(`
 <iframe src="https://tudelft.h5p.com/content/1291934702260539177/embed" aria-label="Module 3- Topic1" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 </section>
 <section id="videos-key-elements-to-make-data-fair">
-<h3>📽️ Videos: Key elements to make data FAIR<a class="headerlink" href="#videos-key-elements-to-make-data-fair" title="Permalink to this heading">#</a></h3>
+<h3>📽️ Videos: Key elements to make data FAIR<a class="headerlink" href="#videos-key-elements-to-make-data-fair" title="Link to this heading">#</a></h3>
 <p>What are the key elements to make data FAIR? In the following videos we will explain these elements and give you the opportunity to test your knowledge.</p>
 <p>The objective of the following videos is to identify the key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR). The following videos are an elaboration on these key elements of FAIR. Test your knowledge afterwards with the ‘Fill in the missing words’ assignment beneath.</p>
 <section id="documentation-and-metadata">
-<h4>Documentation and Metadata<a class="headerlink" href="#documentation-and-metadata" title="Permalink to this heading">#</a></h4>
+<h4>Documentation and Metadata<a class="headerlink" href="#documentation-and-metadata" title="Link to this heading">#</a></h4>
 <p><strong><iframe src="https://collegerama.tudelft.nl/Mediasite/Play/d7bd16131769465d8b1307ec27358b3e1d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script></strong></p>
 <p><strong>Test your knowledge!</strong></p>
 <iframe src="https://tudelft.h5p.com/content/1291897230447935377/embed" aria-label="Documentation and Metadata" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 </section>
 <section id="interoperability">
-<h4>Interoperability<a class="headerlink" href="#interoperability" title="Permalink to this heading">#</a></h4>
+<h4>Interoperability<a class="headerlink" href="#interoperability" title="Link to this heading">#</a></h4>
 <p><strong><iframe src="https://collegerama.tudelft.nl/Mediasite/Play/ec9b602fc09b4805bcc54ee4ed8134191d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script></strong></p>
 <p><strong>Test your knowledge!</strong></p>
 <iframe src="https://tudelft.h5p.com/content/1291897250510595577/embed" aria-label="Interoperability" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 </section>
 <section id="access-to-data">
-<h4>Access to Data<a class="headerlink" href="#access-to-data" title="Permalink to this heading">#</a></h4>
+<h4>Access to Data<a class="headerlink" href="#access-to-data" title="Link to this heading">#</a></h4>
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/59f312fd51cc4289962c6fd6eb309f401d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 <p><strong>Test your knowledge!</strong></p>
 <iframe src="https://tudelft.h5p.com/content/1291897251180731867/embed" aria-label="Access to Data" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 </section>
 <section id="persistent-identifiers">
-<h4>Persistent Identifiers<a class="headerlink" href="#persistent-identifiers" title="Permalink to this heading">#</a></h4>
+<h4>Persistent Identifiers<a class="headerlink" href="#persistent-identifiers" title="Link to this heading">#</a></h4>
 <p><strong><iframe src="https://collegerama.tudelft.nl/Mediasite/Play/dcbe53ac66334a399655c0f10c3bcc1c1d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script></strong></p>
 <p><strong>Test your knowledge!</strong></p>
 <iframe src="https://tudelft.h5p.com/content/1291897251799243657/embed" aria-label="Persistent Identifiers" width="100%" height="417" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 </section>
 <section id="data-and-code-licences">
-<h4>Data and Code Licences<a class="headerlink" href="#data-and-code-licences" title="Permalink to this heading">#</a></h4>
+<h4>Data and Code Licences<a class="headerlink" href="#data-and-code-licences" title="Link to this heading">#</a></h4>
 <p><strong><iframe src="https://collegerama.tudelft.nl/Mediasite/Play/4111cd8875ba435e93c321fec95a505a1d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script></strong></p>
 <p><strong>Test your knowledge!</strong></p>
 <iframe src="https://tudelft.h5p.com/content/1291897252483796927/embed" aria-label="Data and Code Licences" width="100%" height="427" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 </section>
 </section>
 <section id="summary">
-<h3>Summary<a class="headerlink" href="#summary" title="Permalink to this heading">#</a></h3>
+<h3>Summary<a class="headerlink" href="#summary" title="Link to this heading">#</a></h3>
 <p>By now, you have learned about different elements that help you make the data of your project FAIR. Many of them are straightforward to implement in your daily work, for example organising your files and folders, keeping documentation of the data, reflecting about data access, etc. Other elements might require special tools or at least using special tools would make your work easier. We will talk about some tools for documentation and data publication in Module 4.</p>
 <iframe src="https://tudelft.h5p.com/content/1291934704559361317/embed" aria-label="Videos: Key elements to make data FAIR - more references" width="100%" height="237" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 </section>
 <section id="additional-resource-how-do-the-fair-principles-apply-to-software">
-<h3>Additional Resource: How do the FAIR principles apply to software?<a class="headerlink" href="#additional-resource-how-do-the-fair-principles-apply-to-software" title="Permalink to this heading">#</a></h3>
+<h3>Additional Resource: How do the FAIR principles apply to software?<a class="headerlink" href="#additional-resource-how-do-the-fair-principles-apply-to-software" title="Link to this heading">#</a></h3>
 <p><strong>If Research Software is one of the main outputs of your projects, we strongly recommend you to take</strong> <strong>a couple of extra minutes exploring this section!</strong></p>
 <p>To improve the sharing and reuse of research software, more than 500 contributors around the globe worked for two years in the creation of the ‘FAIR Principles for Research Software’ (FAIR4RS). Many of the FAIR Guiding Principles for research data can be directly applied to research software by treating software and data as similar digital research objects. However, specific characteristics of software — such as its executability, composite nature, and continuous evolution and versioning — make it necessary to revise and extend the principles. Let’s hear from Maurits, one of TU Delft research software engineers, how the FAIR principle apply to Research Software and the distinction between FAIR software and open source:</p>
 <iframe title="Fair_and_open_software-video" width="100%" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/deb1f179d53a4ef899b7f3df9f939d151d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
@@ -542,8 +554,8 @@ Delft Digital Competence Center. Licence: CC-BY-NC-SA.</p>
               
               
               
-                <footer class="prev-next-footer">
-                  <!-- Previous / next buttons -->
+                <footer class="prev-next-footer d-print-none">
+                  
 <div class="prev-next-area">
     <a class="left-prev"
        href="../practice/exercise1.html"
@@ -571,6 +583,7 @@ Delft Digital Competence Center. Licence: CC-BY-NC-SA.</p>
             
               
                 <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
 
   <div class="sidebar-secondary-item">
   <div class="page-toc tocsection onthispage">
@@ -613,6 +626,7 @@ By Carlos Utrilla Guerrero and Maribel Barrera-Coronel
   
   <div class="footer-item">
     
+
   <p class="copyright">
     
       © Copyright 2025. Attribution 4.0 International (CC BY 4.0).
@@ -639,8 +653,8 @@ By Carlos Utrilla Guerrero and Maribel Barrera-Coronel
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=927b94d3fcb96560df09"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=927b94d3fcb96560df09"></script>
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>
