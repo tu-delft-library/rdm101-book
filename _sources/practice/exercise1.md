@@ -6,7 +6,7 @@ We encourage the self-learners following the course through this Jupyter book to
 
 After completing Module 1 and Module 2, you should reflect on the type of research data/software you are collecting/producing, provide a description of them and to create your own back-up and storage strategy for the data of your project applying what you have learned.
 
-Bellow, you will find a template and a step-by-step guide PDF to help you structure the different aspects of the data flow map.
+Below, you will find a template and a step-by-step guide PDF to help you structure the different aspects of the data flow map.
 
 ```{admonition} Click here for downloading the files!
 :class: tip, dropdown
