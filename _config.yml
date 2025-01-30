@@ -4,7 +4,7 @@
 title: RDM101 Course
 author: Carlos Utrilla Guerrero and Maribel Barrera-Coronel
 logo: images/favicon.png
-copyright: "2024. Attribution 4.0 International (CC BY 4.0)"  # Copyright year to be placed in the footer
+copyright: "2025. Attribution 4.0 International (CC BY 4.0)"  # Copyright year to be placed in the footer
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

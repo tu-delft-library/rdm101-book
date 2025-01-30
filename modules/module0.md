@@ -105,7 +105,7 @@ Explore this game {fas}`arrow-right`
 The course is structured into several principal sections.
 
 - **Modules** are in depth introductory guides with text, quizzes and videos to learn about RDM.
-- **🏋️ Exercises** are activities cover specific areas in more depth.
+- **🏋️ Exercises** are activities that cover specific areas in more depth.
 - **Suggested activity** is a set of small sections to practice what you learnt.
 
 
