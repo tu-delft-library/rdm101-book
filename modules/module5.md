@@ -18,23 +18,26 @@ In Module 5 we will take a closer look at planning for RDM. In relation to this,
 
 ## 5.1 Data Management Plan (DMP)
 
-Watch the following 📽️ video for an introduction on what a data management plan is and its key elements.
+What exactly is a data management plan? Watch the following 📽️ video for an introduction on what a data management plan is and its key elements. Prepare yourself to test your knowledge afterwards.
 
 <iframe src="https://collegerama.tudelft.nl/Mediasite/Play/c6ee8e29b09240b98906266d7478b70a1d" aria-label="Module5" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Script adapted from: Holmstrand, K.F., den Boer, S.P.A., Vlachos, E., Martínez-Lavanchy, P.M., Hansen, K.K. (Eds.) (2019). Research Data Management (eLearning course). [doi: 10.11581/dtu:00000047](https://vidensportal.deic.dk/en/RDMELearn)
 
 **Test your knowledge**
 <iframe src="https://tudelft.h5p.com/content/1292012997557815077/embed" aria-label="Quiz for Module 5 - Video What is a data management plan? V2" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Additional reading: What is a Software Management Plan?
 If you are working with computer code or developing software within your PhD project, merely sharing the code/software is insufficient to guarantee the reproducibility of research. You will need to think about the ways of sharing the code/software underpinning your research in a proper manner. A Software Management Plan helps to implement best practices during software development and ensures that software is accessible and reusable in the short and longer term. It also contributes to the reproducibility of results and stimulates collaborative work on open-source software for research.
-Have a look at this ‘Practical guide to Software Management Plans’
-[https://zenodo.org/record/7248877](https://zenodo.org/record/7248877)
+
+Have a look at:
+
+-   This animation explaining ‘what is a Software Management Plan’: [https://collegerama.tudelft.nl/Mediasite/Play/f83d7b35c5584ec695ad596ea7477e911d](https://collegerama.tudelft.nl/Mediasite/Play/f83d7b35c5584ec695ad596ea7477e911d)
+    
+-   This ‘Practical guide to Software Management Plans  [https://zenodo.org/record/7248877](https://zenodo.org/record/7248877)
 
 ## 5.2 Why to Create a Data Management Plan (DMP)?
 
-Watch the following 📽️ video in which a researcher and a data steward talk about the importance of creating a data management plan.
+Watch the following 📽️ videos in which a researcher and a data steward talk about the importance of creating a data management plan.
 
 ### Natalia Romero Herrera talking about the benefits of writing a DMP
 
@@ -70,6 +73,6 @@ We expect you to:
 3. Fill in the ‘Project Details’ according to your project.
 4. Go to ‘Write Plan’.
 
-✅ Go back to your slides or papers and post-it’s of your data flow map of week 1 and 2 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map./
+✅ Go back to the Data Flow Map you created in Modules 2 and 4 and use the information in there to fill in the questions of the data management plan. If appropriate, you can use the ‘Additional Information’ box in the template to add as many details as possible according to your data flow map./
 
 ```
