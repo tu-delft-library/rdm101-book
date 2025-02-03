@@ -11,8 +11,6 @@ In this module, we will discover the FAIR data principles and their main element
 ```
 
 
-There are different activities in this module you should complete
-
 ```{admonition} There are different activities in this module you should complete:
 :class: tip
 ✅ Read topic 1: Why and how were the FAIR principles created?\
@@ -22,9 +20,10 @@ There are different activities in this module you should complete
 ## 3.1 FAIR data principles
 ### Why and How Were the FAIR Principles Created?
 
-The FAIR principles were created in order to maximise the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science.
 
-Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Re-usable.
+The  **FAIR** principles were created in order to maximise the reuse of scientific data, to promote best practices on Research Data Management and to enable Open Science.
+
+Applying the FAIR principles means to make research data Findable, Accessible, Interoperable and Reusable.
 
 -   **Findable** means that others (both human and machines) can discover the data
     
@@ -37,9 +36,9 @@ Applying the FAIR principles means to make research data Findable, Accessible, I
 
 These four principles should be applied (as much as possible) throughout the entire research cycle and they are closely interconnected with each other.
 
-The FAIR Data principles **are NOT**:
+It is vital for you to know that the FAIR Data principles **are NOT****:**
 
--   **A standard.** The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. The FAIR principles should be rather seen as progressive steps that help you make your data re-usable.
+-   **A standard.** The FAIR principles need to be adapted and followed as much as possible by considering the research practices in your field. FAIR principles should be rather seen as progressive steps that help you make your data reusable.
     
 -   **Equivalent to Open Data.** FAIR data does not necessarily mean openly available: it should be clear to others that the data exists and which steps they could take to potentially access the data.
     
@@ -57,15 +56,10 @@ There are important elements to consider within your research workflows if you a
 
 In the next 📽️ videos we will explore these different elements and their importance to make the data of your project FAIR.
 
-<iframe src="https://tudelft.h5p.com/content/1291934702260539177/embed" aria-label="Module 3- Topic1" width="100%" height="300" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
-
 
 ### 📽️ Videos: Key elements to make data FAIR
 
-What are the key elements to make data FAIR? In the following videos we will explain these elements and give you the opportunity to test your knowledge.
-
-The objective of the following videos is to identify the key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR). The following videos are an elaboration on these key elements of FAIR. Test your knowledge afterwards with the ‘Fill in the missing words’ assignment beneath.
+The objective of the following videos is to identify the key elements that help make research data Findable, Accessible, Interoperable and Reusable (FAIR). The following videos are an elaboration on these key elements of FAIR. Test your knowledge afterwards with the 'Fill in the missing words' quizzes.
 
 #### Documentation and Metadata
 
@@ -122,7 +116,7 @@ By now, you have learned about different elements that help you make the data of
 
 **If Research Software is one of the main outputs of your projects, we strongly recommend you to take** **a couple of extra minutes exploring this section!**
 
-To improve the sharing and reuse of research software, more than 500 contributors around the globe worked for two years in the creation of the ‘FAIR Principles for Research Software’ (FAIR4RS). Many of the FAIR Guiding Principles for research data can be directly applied to research software by treating software and data as similar digital research objects. However, specific characteristics of software — such as its executability, composite nature, and continuous evolution and versioning — make it necessary to revise and extend the principles. Let’s hear from Maurits, one of TU Delft research software engineers, how the FAIR principle apply to Research Software and the distinction between FAIR software and open source:
+To improve the sharing and reuse of research software, more than 500 contributors around the globe worked for two years in the creation of the ‘FAIR Principles for Research Software’ (FAIR4RS). Many of the FAIR Guiding Principles for research data can be directly applied to research software by treating software and data as similar digital research objects. However, specific characteristics of software — such as its executability, composite nature, and continuous evolution and versioning — make it necessary to revise and extend the principles. Let’s hear from Maurits, one of TU Delft research software engineers, how the FAIR principles apply to Research Software and the distinction between FAIR software and open source:
 <iframe title="Fair_and_open_software-video" width="100%" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://collegerama.tudelft.nl/Mediasite/Play/deb1f179d53a4ef899b7f3df9f939d151d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
 
 
@@ -134,7 +128,8 @@ To improve the sharing and reuse of research software, more than 500 contributor
 
 
 
-If you develop software within your PhD project, we highly encourage you to follow the FAIR software checklist prepared by the TU Delft Digital Competence Center (DCC):  [https://tu-delft-dcc.github.io/software/checklist.html](https://tu-delft-dcc.github.io/software/checklist.html)
+
+If you develop software within your PhD project, we highly encourage you to follow the FAIR software checklist prepared by the TU Delft Digital Competence Center (DCC):  [https://tu-delft-dcc.github.io/docs/software/checklist.html](https://tu-delft-dcc.github.io/docs/software/checklist.html)
 
 If you are interested to learn more in depth about FAIR Principles for Research Software, check this publication:  [https://doi.org/10.15497/RDA00068](https://doi.org/10.15497/RDA00068)
 
