@@ -7,9 +7,9 @@ Please read the step-by-step instructions before working on the exercise. Here w
 
 ```{admonition} Click here for downloading the files!
 :class: tip, dropdown
-* [Here is the template🗂️](https://tu-delft-library.github.io/rdm101-book/dataflowmap_template_week2.pptx)
+* [Here is the template🗂️](../exercise_pptx/dataflowmap_template_week2.pptx)
 
-* [Here is the PDF🗂](https://tu-delft-library.github.io/rdm101-book/RDM101course-exercise4.pdf)
+* [Here is the PDF🗂](../exercise_pdf/RDM101course-exercise4.pdf)
 ```
 **Note: This exercise is only a reflective practice, you do not need to submit it nor will you receive feedback on it.**
 
