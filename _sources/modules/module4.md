@@ -19,7 +19,7 @@ In this module, we will focus on the realisation of FAIR data. We will explore s
 
 In module 3, you learned that ‘Documentation’ is one of the key elements of the FAIR principles. Good data documentation starts with good organisation including file naming of the data of your project!
 
-Good data organisation on your computer or your Project Data (U:) drive will allow you to make the data  _Findable_  both for yourself and for your collaborators who have access to the data. Making the data  _Findable_  also indirectly improves the re-usability of the data. After all, you can't reuse data that you can't find! To practise good data organisation to make the data/code _Findable_, the first step is to apply a clear folder structure and appropriate file naming convention.
+Good data organisation on your computer or your Project Data (U:) drive will allow you to make the data  _Findable_  both for yourself and for your collaborators who have access to the data. Making the data  _Findable_  also indirectly improves the reusability of the data. After all, you can't reuse data that you can't find! To practise good data organisation to make the data/code _Findable_, the first step is to apply a clear folder structure and appropriate file naming convention.
 
 In the next 📽️ video, we will go through some best practices to help you organise the data of your project efficiently. These best practices are using a good folder structure, tagging files (if possible) and an appropriate file naming convention to enhance the findability of the data in your directories.
 
@@ -49,12 +49,11 @@ In the next 📽️ video we will talk about different methods and tools you can
 
 ## 4.3 Data access and Data publication
 
-In the next 📽️ video we will delve more into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories.
-
 Data access is one of the five key elements of the FAIR principles you learned in Module 3. Remember that it is important to reflect on data access at the beginning of your project to ensure that the right people have access to the right data.
 
 One way to make the data and code of your project  _Findable_  and  _Accessible_ to a broad audience is to publish it in a data repository. Data repositories help you comply with the FAIR principles and make it easy to apply some of the five key elements, such as assigning  _Licences_  and  _Persistent_  _identifiers._
 
+In the next 📽️ video we will delve more into data access during and after a research project. You will also be introduced to the topic of data publication and data repositories. Watch the video and then answer the quiz to test your knowledge.
 **<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/3c93a6d2c20543a49b7df787cbaf02ae1d" aria-label="Module3" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>**
 
 ### Test your knowledge!
