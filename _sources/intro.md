@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/banner-welcome.jpg"/>
 
-_The Turing Way project illustration by Scriberia. Zenodo_. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+_The Turing Way project illustration by Scriberia. Zenodo_. [https://zenodo.org/records/10732095](https://zenodo.org/records/10732095)
 
 :::
 
