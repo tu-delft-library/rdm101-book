@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/banner-welcome.jpg"/>
 
-_The Turing Way project illustration by Scriberia. Zenodo_. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+_The Turing Way project illustration by Scriberia. Zenodo_. [https://zenodo.org/records/10732095](https://zenodo.org/records/10732095)
 
 :::
 
@@ -31,7 +31,7 @@ Get started with Module 1
 % The SVG rendering breaks latex builds for the GitHub badge, so only include in HTML
 ```{only} html
 [![](https://img.shields.io/github/stars/tu-delft-library/rdm101-book?style=social)](https://github.com/tu-delft-library/rdm101-book)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6325919.svg)](https://doi.org/10.5281/zenodo.6325919)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10732095.svg)](https://doi.org/10.5281/zenodo.10732095)
 ```
 
 :::

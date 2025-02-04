@@ -9,7 +9,7 @@
 
 <img src="https://the-turing-way.netlify.app/_images/road-to-reproducibility.svg" alt="Beautiful"/>
 
-_The Turing Way project illustration by Scriberia. Zenodo_. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+_The Turing Way project illustration by Scriberia. Zenodo_. [https://zenodo.org/records/13882307](https://zenodo.org/records/13882307)
 :::
 
 :::{grid-item}
