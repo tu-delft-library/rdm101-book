@@ -134,7 +134,7 @@ When you work with personal data at TU Delft, these are the materials to read:
 ### Relevant RDM questions within the research cycle
 In the following interactive image you can go through a simplified cycle which can represent the workflow of your project. Have a look at the RDM questions you might need to ask yourself at each step of research.
 
-<iframe src="https://maribelbarreracoronel.github.io/Cycle/genially_64414739aac7da0018e81043%20(1)/genially.html" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tu-delft-library.github.io/rdm101-book/genially_64414739aac7da0018e81043%20(1)/genially.html" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <!-- <iframe src="https://tu-delft-library.github.io/rdm101-book/genially_64414739aac7da0018e81043%20(1)/genially.html" aria-label="Module2" width="100%" height="437" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script> -->
 #### Test your knowledge!
